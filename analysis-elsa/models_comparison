@@ -1,0 +1,78 @@
+#install.packages('readr')
+library(readr)
+
+#READING THE DB
+tpddv<- read_csv("C:\\Users\\elsar_000\\Desktop\\Git\\CookieLaws18\\analysis_elsa_v2\\TPDdv_no_com_org_24062018.csv")
+head(tpddv)
+#Type of variables
+str(tpddv)
+
+# DESCRIPTIVE STATS DEPENDENT VARIABLE THIRD PARTY DOMAINS
+library(ggplot2)
+qplot(tpddv$host, geom="histogram",bins=40) + scale_x_continuous(labels = scales::comma)+labs(x = "TPD")+ labs(title = "Histogram of counted Third Party Domains\n All TLDs - Except .Com and .org \n Unique Websites")+theme(plot.title = element_text(size = 14, hjust=0.5))+theme(axis.text=element_text(size=12), axis.title=element_text(size=12))
+summary(tpddv$host)
+sd(tpddv$host)
+
+
+#MODELS
+library(MASS)
+summary(model1<-glm.nb(tpddv$host ~tpddv$TLD))
+summary(model2<-glm.nb(tpddv$host ~tpddv$cat_1))
+summary(model3<-glm.nb(tpddv$host ~tpddv$cat_1+tpddv$TLD))
+summary(model4<-glm.nb(tpddv$host ~tpddv$cat_1+tpddv$Opt_in_required_Yes))
+summary(model5<-glm.nb(tpddv$host ~tpddv$cat_1+tpddv$Fines_Yes))
+summary(model6<-glm.nb(tpddv$host ~tpddv$cat_1+tpddv$Guidance_Yes))
+summary(model7<-glm.nb(tpddv$host ~tpddv$Opt_in_required_Yes+tpddv$Fines_Yes+tpddv$Guidance_Yes+tpddv$cat_1))
+summary(model8<-glm.nb(tpddv$host ~tpddv$Opt_in_required_Yes+tpddv$Fines_Yes+tpddv$Guidance_Yes+tpddv$Info_High+tpddv$Normalize_budget_DPA_2011+tpddv$worried_use_pd_cecere+tpddv$HDI_edu_index))
+summary(model9<-glm.nb(tpddv$host ~tpddv$cat_1+tpddv$Opt_in_required_Yes+tpddv$Fines_Yes+tpddv$Guidance_Yes+tpddv$Normalize_budget_DPA_2011+tpddv$worried_use_pd_cecere+tpddv$HDI_edu_index))
+summary(model10<-glm.nb(tpddv$host ~tpddv$cat_1+tpddv$Opt_in_required_Yes+tpddv$Fines_Yes+tpddv$Guidance_Yes+tpddv$Normalize_budget_DPA_2011+tpddv$worried_use_pd_cecere+tpddv$HDI_edu_index+tpddv$EU_Yes+tpddv$GDP_per_capita_2016+tpddv$Internet_Fq_Use_2016+tpddv$Rule_law_2016))
+
+#INCIDENT RATE RATIOS
+(est1<-cbind(Estimate=coef(model1),confint(model1)))
+exp(est1)
+(est2<-cbind(Estimate=coef(model2),confint(model2)))
+exp(est12)
+(est3<-cbind(Estimate=coef(model3),confint(model3)))
+exp(est3)
+(est4<-cbind(Estimate=coef(model4),confint(model4)))
+exp(est4)
+(est5<-cbind(Estimate=coef(model5),confint(model5)))
+exp(est5)
+(est6<-cbind(Estimate=coef(model6),confint(model6)))
+exp(est6)
+(est7<-cbind(Estimate=coef(model7),confint(model7)))
+exp(est7)
+(est8<-cbind(Estimate=coef(model8),confint(model8)))
+exp(est8)
+(est9<-cbind(Estimate=coef(model9),confint(model9)))
+exp(est9)
+(est10<-cbind(Estimate=coef(model10),confint(model10)))
+exp(est10)
+
+#EXPLANATORY POWER OF THE MODELS - MC FADDEN PSEUDO R2
+
+library(rcompanion)
+nagelkerke(model1)
+nagelkerke(model2)
+nagelkerke(model3)
+nagelkerke(model4)
+nagelkerke(model5)
+nagelkerke(model6)
+nagelkerke(model7)
+nagelkerke(model8)
+nagelkerke(model9)
+nagelkerke(model10)
+
+#PRINTING ALL THE MODELS RESULTS TOGETHER 
+library(stargazer)
+stargazer(model1,model2,model3,model4,model5, model6,model7, model8, model9,model10, title="Model comparison",latex_options = "scale_down",column.sep.width= "1pt", single.row=TRUE,type='text')
+
+
+#RESIDUALS MODEL 3
+library(DHARMa)
+
+simulationOutput <- simulateResiduals(fittedModel = model3)
+plot(simulationOutput)
+plotSimulatedResiduals(simulationOutput = simulationOutput)
+plotResiduals(tpddv$TLD, simulationOutput$scaledResiduals,asFactor=T)
+plotResiduals(tpddv$cat_1, simulationOutput$scaledResiduals,asFactor = T)

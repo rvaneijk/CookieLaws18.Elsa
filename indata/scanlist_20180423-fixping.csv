@@ -1,0 +1,4801 @@
+tld,rank,global_rank,domain,cat
+AT,3,1435,univie.ac.at,religion
+AT,4,1438,kriesi.at,software
+AT,5,2231,tuwien.ac.at,scholarship
+AT,6,2259,orf.at,news and politics
+AT,7,2332,google.at,entertainment
+AT,8,2593,derstandard.at,news and politics
+AT,9,3990,blogspot.co.at,entertainment
+AT,10,4778,uibk.ac.at,religion
+AT,11,5292,kurier.at,news and politics
+AT,12,5964,tugraz.at,
+AT,13,5973,wko.at,news and politics
+AT,14,6446,aon.at,
+AT,15,7077,webgarden.at,
+AT,16,7393,uni-graz.at,
+AT,17,7541,krone.at,news and politics
+AT,18,8251,oebb.at,commerce
+AT,19,9140,kleinezeitung.at,news and politics
+AT,20,10508,myy.at,
+AT,21,10751,wienerzeitung.at,news and politics
+AT,22,11327,oeaw.ac.at,scholarship
+AT,23,11698,aec.at,news and politics
+AT,24,12074,jku.at,news and politics
+AT,25,12185,ebay.at,commerce
+AT,26,12516,oe24.at,news and politics
+AT,27,13268,chello.at,
+AT,28,13603,sbg.ac.at,error
+AT,29,13640,obdev.at,
+AT,30,13818,nachrichten.at,
+AT,31,14495,hausarbeit-ghostwriter.at,
+AT,32,14601,wu.ac.at,
+AT,33,14619,boku.ac.at,scholarship
+AT,34,14818,vol.at,entertainment
+AT,35,14871,uni-klu.ac.at,news and politics
+AT,36,16659,ots.at,news and politics
+AT,37,17005,heute.at,news and politics
+AT,38,17827,vienna.at,
+AT,39,18076,khm.at,entertainment
+AT,40,18466,onb.ac.at,
+AT,41,18507,meinbezirk.at,entertainment
+AT,42,19516,pages.at,
+AT,43,20259,hearthis.at,
+AT,44,20315,oeamtc.at,
+AT,45,20316,geizhals.at,news and politics
+AT,46,20378,iiasa.ac.at,
+AT,47,21087,uni-linz.ac.at,
+AT,48,22233,meduniwien.ac.at,
+AT,49,23167,fhstp.ac.at,
+AT,50,23372,news.at,news and politics
+AT,51,23625,herold.at,entertainment
+AT,52,23904,futurezone.at,news and politics
+AT,53,24297,inode.at,
+AT,54,24699,8ung.at,
+AT,55,26074,iblog.at,
+AT,56,26481,zamg.ac.at,scholarship
+AT,57,27099,wu-wien.ac.at,software
+AT,58,27610,tu-graz.ac.at,
+AT,59,27629,wirtschaftsblatt.at,news and politics
+AT,60,29856,willhaben.at,entertainment
+AT,61,29869,aau.at,
+AT,62,30137,apa.at,commerce
+AT,63,30164,schoenbrunn.at,
+AT,64,30514,steiermark.at,
+AT,65,30541,belvedere.at,news and politics
+AT,66,31085,kfunigraz.ac.at,
+AT,67,31450,thedailywh.at,error
+AT,68,31474,arbeiterkammer.at,
+AT,69,31503,thelocal.at,news and politics
+AT,70,31774,profil.at,news and politics
+AT,71,32299,donau-uni.ac.at,
+AT,72,32319,121w.at,
+AT,73,32364,eduhi.at,commerce
+AT,74,33205,heim.at,
+AT,75,33465,bergfex.at,entertainment
+AT,76,33979,post.at,commerce
+AT,77,34139,modoo.at,
+AT,78,34488,zaun-wj.at,
+AT,79,34616,pinterest.at,
+AT,80,36074,wien.at,
+AT,81,36308,uni-salzburg.at,
+AT,82,36498,albertina.at,
+AT,83,37161,statistik.at,entertainment
+AT,84,37357,priv.at,
+AT,85,38222,wiener-staatsoper.at,entertainment
+AT,86,38916,ocg.at,
+AT,87,39012,moncler-jacken.at,
+AT,88,39250,wkoecg.at,
+AT,89,40446,tarux-teifen.at,
+AT,90,40805,ecml.at,
+AT,91,41763,linz.at,
+AT,92,41766,windhaag-perg.at,
+AT,93,42272,wienerlinien.at,
+AT,94,42281,dagopert.at,
+AT,95,42638,nhm-wien.ac.at,
+AT,96,43061,hjv2016.at,
+AT,97,43630,sparkasse.at,commerce
+AT,98,43766,noctua.at,
+AT,99,44081,wikipedia.at,
+AT,100,45233,sil.at,
+AT,101,45703,austria-trend.at,
+AT,102,46035,salzburg.at,
+AT,103,47184,mozarteum.at,entertainment
+AT,104,47438,ams.at,
+AT,105,47481,asfinag.at,
+AT,106,47684,graz.at,
+AT,107,47846,salzburgerfestspiele.at,entertainment
+AT,108,49284,northside-club.at,
+AT,109,49392,schoenmann.at,
+AT,110,49474,mak.at,news and politics
+AT,111,50128,gmuend.at,
+AT,112,50224,alpenverein.at,
+AT,113,50367,kitz-eyewear.at,
+AT,114,50922,mqw.at,
+AT,115,51162,noen.at,
+AT,116,51956,tiscover.at,
+AT,117,52287,mur.at,
+AT,118,52824,ceramill.at,
+AT,119,52920,nic.at,
+AT,120,53522,falter.at,
+AT,121,53672,izia.at,
+AT,122,53966,vetmeduni.ac.at,
+AT,123,54516,mdw.ac.at,
+AT,124,55384,raiffeisen.at,commerce
+AT,125,55568,fffff.at,news and politics
+AT,126,55847,wetter.at,news and politics
+AT,127,55909,disconnected-by-peer.at,
+AT,128,56124,museum-joanneum.at,
+AT,129,56525,salzkammergut.at,
+AT,130,56613,webnode.at,
+AT,131,56929,tirol.at,
+AT,132,57731,alles-bedruckt.at,
+AT,133,57919,oenb.at,
+AT,134,58043,roteskreuz.at,
+AT,135,59997,heirat.at,
+AT,136,60180,exito.at,
+AT,137,60379,schule.at,
+AT,138,61243,vorarlberg.at,
+AT,139,61358,fh-joanneum.at,
+AT,140,61547,biofuerst.at,
+AT,141,62525,mobapp.at,
+AT,142,62563,almstadl.at,
+AT,143,62627,femmestyle.co.at,
+AT,144,62797,netdoktor.at,error
+AT,145,63270,baerental-party.at,
+AT,146,63578,smartwealth.at,
+AT,147,64982,spar.at,
+AT,148,65585,austriantimes.at,junk
+AT,149,65990,mimikama.at,news and politics
+AT,150,66360,dasbundeslandradio.at,
+AT,151,66957,cityzenyoga.at,
+AT,152,67189,e-binding.at,
+AT,153,67528,whimp.at,
+AT,154,67820,zoovienna.at,
+AT,155,68105,solali.at,
+AT,156,68545,ppir.at,
+AT,157,68890,aeiou.at,
+AT,158,69702,kindertest.at,
+AT,159,69871,foto-mitterer.at,
+AT,160,69918,umweltbundesamt.at,
+AT,161,70644,leibnitz.at,
+AT,162,70928,salzburg24.at,
+AT,163,71461,masswerk.at,
+AT,164,71730,grossglockner.at,
+AT,165,71975,gk-sportsplacement.at,
+AT,166,72173,wienerphilharmoniker.at,
+AT,167,73474,gesundefamilie.at,
+AT,168,73520,proglas.at,
+AT,169,73716,4senses.at,
+AT,170,74824,generaliopen.at,
+AT,171,74865,almrausch24.at,
+AT,172,74896,mumok.at,
+AT,173,75125,renner-rene.at,
+AT,174,75159,fatpad.at,
+AT,175,75230,utanet.at,
+AT,176,75453,fh-ooe.at,
+AT,177,75457,andreaschrenk.at,
+AT,178,75597,funoase.at,
+AT,179,75794,bankaustria.at,commerce
+AT,180,76196,kaernten.at,
+AT,181,76744,freemedia.at,entertainment
+AT,182,76857,kibbie.at,
+AT,183,76976,mm-bar.at,
+AT,184,77988,austria13.at,
+AT,185,78073,trend.at,
+AT,186,78212,dns-tronix.at,
+AT,187,78874,vu-wien.ac.at,
+AT,188,79205,techmo-zweiradservice.at,
+AT,189,79585,buytickets.at,
+AT,190,79643,conrad.at,
+AT,191,79971,msc-rietz.at,
+AT,192,80244,hofburg-wien.at,
+AT,193,80404,internic.at,
+AT,194,81120,ffg.at,
+AT,195,81162,jamscout.at,
+AT,196,81738,ait.ac.at,
+AT,197,81788,mrschadenservice.at,
+AT,198,82162,hohetauern.at,
+AT,199,82231,duer-naturholzmoebel.at,
+AT,200,82256,wienmuseum.at,
+AT,201,82473,hotel-pension-peck.at,
+AT,202,83100,fjsoft.at,
+AU,1,287,abc.net.au,news and politics
+AU,2,365,smh.com.au,news and politics
+AU,3,455,news.com.au,entertainment
+AU,4,685,google.com.au,news and politics
+AU,6,870,blogspot.com.au,commerce
+AU,7,955,nsw.gov.au,commerce
+AU,8,961,theage.com.au,news and politics
+AU,9,1066,theaustralian.com.au,news and politics
+AU,10,1095,anu.edu.au,entertainment
+AU,11,1308,unsw.edu.au,news and politics
+AU,13,1475,unimelb.edu.au,commerce
+AU,14,1529,uq.edu.au,news and politics
+AU,16,1794,sbs.com.au,news and politics
+AU,17,1858,heraldsun.com.au,entertainment
+AU,18,1917,monash.edu.au,entertainment
+AU,19,2015,dailytelegraph.com.au,news and politics
+AU,20,2026,csiro.au,
+AU,21,2068,adelaide.edu.au,
+AU,22,2108,ebay.com.au,commerce
+AU,23,2404,businessinsider.com.au,news and politics
+AU,24,2524,sydney.edu.au,scholarship
+AU,25,2543,ninemsn.com.au,news and politics
+AU,26,2600,usyd.edu.au,
+AU,27,2612,iinet.net.au,commerce
+AU,28,2628,uwa.edu.au,
+AU,30,2884,curtin.edu.au,
+AU,31,2992,nla.gov.au,scholarship
+AU,32,3205,rmit.edu.au,commerce
+AU,35,3495,mq.edu.au,entertainment
+AU,36,3496,environment.gov.au,news and politics
+AU,37,3908,couriermail.com.au,software
+AU,38,3915,brisbanetimes.com.au,entertainment
+AU,39,4052,qut.edu.au,commerce
+AU,40,4143,gizmodo.com.au,commerce
+AU,41,4213,ozemail.com.au,commerce
+AU,42,4301,uts.edu.au,
+AU,43,4344,bom.gov.au,news and politics
+AU,45,4612,immi.gov.au,commerce
+AU,46,4697,uow.edu.au,
+AU,47,4838,griffith.edu.au,
+AU,49,5241,latrobe.edu.au,
+AU,50,5344,abs.gov.au,news and politics
+AU,51,5420,adelaidenow.com.au,software
+AU,52,5516,deakin.edu.au,scholarship
+AU,53,5548,newcastle.edu.au,scholarship
+AU,54,5569,canberratimes.com.au,entertainment
+AU,55,5597,aph.gov.au,news and politics
+AU,56,5810,border.gov.au,
+AU,57,5923,telstra.com.au,commerce
+AU,58,5946,unisa.edu.au,entertainment
+AU,59,6059,9news.com.au,entertainment
+AU,60,6086,qantas.com.au,commerce
+AU,61,6179,ato.gov.au,entertainment
+AU,62,6406,realestate.com.au,news and politics
+AU,63,6571,utas.edu.au,entertainment
+AU,64,6686,dfat.gov.au,news and politics
+AU,65,6752,nt.gov.au,
+AU,66,6779,austlii.edu.au,news and politics
+AU,67,6891,eventbrite.com.au,commerce
+AU,68,7055,csu.edu.au,commerce
+AU,69,7074,perthnow.com.au,commerce
+AU,71,7149,skynews.com.au,entertainment
+AU,72,7252,health.gov.au,
+AU,73,7338,tpg.com.au,commerce
+AU,74,7414,huffingtonpost.com.au,
+AU,75,7456,embassy.gov.au,
+AU,76,7574,optusnet.com.au,
+AU,77,7578,auspost.com.au,commerce
+AU,78,7845,oaic.gov.au,commerce
+AU,79,8040,domain.com.au,news and politics
+AU,80,8069,thewest.com.au,
+AU,81,8073,gumtree.com.au,commerce
+AU,82,8122,flinders.edu.au,
+AU,83,8150,australia.gov.au,news and politics
+AU,84,8314,tripadvisor.com.au,entertainment
+AU,85,8384,murdoch.edu.au,commerce
+AU,86,8434,asx.com.au,entertainment
+AU,87,8464,lifehacker.com.au,commerce
+AU,88,8479,watoday.com.au,news and politics
+AU,89,8503,act.gov.au,
+AU,90,8585,seek.com.au,entertainment
+AU,91,8606,nch.com.au,commerce
+AU,92,8735,jcu.edu.au,
+AU,93,8883,pinterest.com.au,
+AU,94,8992,kotaku.com.au,entertainment
+AU,95,9114,une.edu.au,
+AU,96,9229,computerworld.com.au,commerce
+AU,97,9291,swin.edu.au,
+AU,98,9519,njedwardsmowing.com.au,
+AU,99,9607,canberra.edu.au,commerce
+AU,100,9610,itnews.com.au,commerce
+AU,101,9864,homeaffairs.gov.au,
+AU,102,9909,asic.gov.au,news and politics
+AU,103,10107,commbank.com.au,commerce
+AU,104,10225,yellowpages.com.au,news and politics
+AU,105,10299,smartcompany.com.au,commerce
+AU,106,10405,foxsports.com.au,entertainment
+AU,107,10423,whirlpool.net.au,software
+AU,108,10538,vicnet.net.au,
+AU,109,10613,humanservices.gov.au,commerce
+AU,111,10914,caradvice.com.au,news and politics
+AU,112,11002,uws.edu.au,
+AU,113,11101,truelocal.com.au,entertainment
+AU,114,11213,tenplay.com.au,news and politics
+AU,115,11313,nine.com.au,
+AU,116,11399,amazon.com.au,commerce
+AU,117,11672,usq.edu.au,
+AU,118,11764,accc.gov.au,commerce
+AU,119,11766,crikey.com.au,news and politics
+AU,120,11831,defence.gov.au,
+AU,121,12034,legislation.gov.au,
+AU,122,12227,kidspot.com.au,entertainment
+AU,123,12276,taste.com.au,entertainment
+AU,124,12393,radioaustralia.net.au,news and politics
+AU,125,12515,australianmuseum.net.au,news and politics
+AU,126,12687,business.gov.au,commerce
+AU,127,12738,vogue.com.au,entertainment
+AU,128,12924,rba.gov.au,entertainment
+AU,129,13107,zdnet.com.au,commerce
+AU,130,13253,thinktotal.com.au,
+AU,131,13446,drive.com.au,commerce
+AU,132,13506,nab.com.au,
+AU,133,13728,mja.com.au,scholarship
+AU,135,13793,choice.com.au,commerce
+AU,136,13852,raisingchildren.net.au,
+AU,137,13883,crazydomains.com.au,commerce
+AU,138,14218,scu.edu.au,
+AU,139,14228,finder.com.au,
+AU,140,14284,swinburne.edu.au,
+AU,141,14365,optus.com.au,commerce
+AU,142,14485,awm.gov.au,commerce
+AU,143,14620,ecu.edu.au,scholarship
+AU,144,14741,idg.com.au,
+AU,145,14933,cnet.com.au,
+AU,146,14962,beyondblue.org.au,
+AU,147,15055,iprimus.com.au,
+AU,148,15103,mamamia.com.au,entertainment
+AU,149,15141,vu.edu.au,
+AU,150,15163,westpac.com.au,commerce
+AU,151,15302,virtronics.com.au,
+AU,152,16614,reckon.com.au,
+AU,153,16760,bond.edu.au,
+AU,154,16893,spinalhub.com.au,
+AU,155,16986,booktopia.com.au,entertainment
+AU,156,16994,baitntackle.com.au,
+AU,157,17200,cqu.edu.au,
+AU,158,17503,ballarat.edu.au,
+AU,159,17562,cio.com.au,commerce
+AU,160,17627,theherald.com.au,
+AU,161,17731,museumvictoria.com.au,entertainment
+AU,162,17808,humanrights.gov.au,news and politics
+AU,163,17891,ibtimes.com.au,
+AU,164,17901,netspace.net.au,commerce
+AU,165,17910,nhmrc.gov.au,scholarship
+AU,166,18042,goldcoastbulletin.com.au,
+AU,167,18056,businessspectator.com.au,news and politics
+AU,168,18202,acu.edu.au,news and politics
+AU,169,18311,sunshinecoastdaily.com.au,commerce
+AU,170,18339,buyessays.com.au,
+AU,171,18371,aneed.com.au,
+AU,172,18526,reneweconomy.com.au,
+AU,173,18530,essay-writing.com.au,
+AU,174,18731,ticketek.com.au,commerce
+AU,175,18918,jbhifi.com.au,commerce
+AU,176,19172,anz.com.au,
+AU,177,19178,mumbrella.com.au,commerce
+AU,178,19324,penguin.com.au,entertainment
+AU,179,19347,designcrowd.com.au,
+AU,180,19411,sthelensaccommodation.com.au,
+AU,181,19697,gutenberg.net.au,
+AU,182,19961,comlaw.gov.au,
+AU,183,20096,smartraveller.gov.au,news and politics
+AU,184,20117,afl.com.au,entertainment
+AU,185,20186,bigpond.net.au,error
+AU,186,20254,maxdesign.com.au,
+AU,187,20276,themercury.com.au,
+AU,188,20351,danitaslingerie.com.au,
+AU,189,20373,hairtrade.com.au,
+AU,190,20399,australiangeographic.com.au,
+AU,191,20525,endangered-animals.com.au,
+AU,192,20544,tga.gov.au,
+AU,193,20722,museumsvictoria.com.au,
+AU,194,20903,ga.gov.au,news and politics
+AU,195,20961,moneysmart.gov.au,
+AU,196,21329,traveller.com.au,entertainment
+AU,197,21433,ntnews.com.au,
+AU,198,21450,thenewdaily.com.au,
+AU,199,21452,naa.gov.au,
+AU,200,21546,aihw.gov.au,
+AU,201,21551,acma.gov.au,software
+AU,202,21895,treasury.gov.au,
+AU,203,22054,graciousliving.com.au,
+AU,204,22176,insportzknox.com.au,
+AU,205,22216,austrade.gov.au,
+AU,206,22944,lccare.org.au,
+AU,207,22980,greenleft.org.au,scholarship
+AU,208,23252,westernsydney.edu.au,
+AU,209,23368,svavic.com.au,
+AU,210,23466,dubbomtb.org.au,
+AU,211,23546,alphalink.com.au,
+BE,1,16,youtu.be,entertainment
+BE,2,1679,skynet.be,entertainment
+BE,3,1843,google.be,entertainment
+BE,4,2079,telenet.be,commerce
+BE,5,2366,kuleuven.be,entertainment
+BE,6,2615,blogspot.be,entertainment
+BE,7,2963,ugent.be,news and politics
+BE,8,3474,ulg.ac.be,junk
+BE,9,3992,ulb.ac.be,scholarship
+BE,10,4459,fgov.be,news and politics
+BE,11,4516,rtbf.be,news and politics
+BE,12,4895,vub.ac.be,
+BE,13,5060,pandora.be,
+BE,14,5062,lesoir.be,news and politics
+BE,15,6018,lesflyers.be,
+BE,16,6026,belgium.be,news and politics
+BE,17,6099,skynetblogs.be,entertainment
+BE,18,6413,nieuwsblad.be,news and politics
+BE,19,6695,standaard.be,entertainment
+BE,20,7053,kuleuven.ac.be,
+BE,21,7172,hln.be,news and politics
+BE,22,7268,scarlet.be,
+BE,23,7293,ucl.ac.be,
+BE,24,7497,lalibre.be,news and politics
+BE,25,8063,urlr.be,
+BE,26,8446,uclouvain.be,news and politics
+BE,27,9531,dhnet.be,news and politics
+BE,28,9872,rtl.be,news and politics
+BE,29,9888,deredactie.be,news and politics
+BE,30,10156,musictri.be,
+BE,31,10484,knack.be,news and politics
+BE,32,10561,ua.ac.be,
+BE,33,11482,demorgen.be,news and politics
+BE,34,11502,seld.be,
+BE,35,12564,fci.be,
+BE,36,12818,vlaanderen.be,
+BE,37,14514,levif.be,news and politics
+BE,38,14599,gva.be,entertainment
+BE,39,14924,bloggen.be,entertainment
+BE,40,15815,wallonie.be,news and politics
+BE,41,15971,7sur7.be,news and politics
+BE,42,16289,vrt.be,
+BE,43,16507,qgo.be,
+BE,44,16674,vtm.be,news and politics
+BE,45,17692,ebay.be,commerce
+BE,46,17728,uliege.be,
+BE,47,17758,onlc.be,
+BE,48,17772,uantwerpen.be,
+BE,49,18965,belgianrail.be,entertainment
+BE,50,19793,belsign.be,
+BE,51,20616,tijd.be,news and politics
+BE,52,20762,kookgek.be,
+BE,53,21805,sudinfo.be,entertainment
+BE,54,21949,rdcu.be,
+BE,55,21973,irisnet.be,
+BE,56,22295,rug.ac.be,
+BE,57,22593,hbvl.be,entertainment
+BE,58,22814,seniorennet.be,entertainment
+BE,59,23945,brusselsairport.be,
+BE,60,24045,acea.be,
+BE,61,24375,viviou.be,
+BE,62,24431,2dehands.be,junk
+BE,63,24880,laboremus.be,
+BE,64,25492,sport.be,
+BE,65,26997,mathiasbynens.be,software
+BE,66,27626,diplomatie.be,junk
+BE,67,28144,durvenproeven.be,
+BE,68,29375,akkoord.be,
+BE,69,29881,gent.be,
+BE,70,30076,bozar.be,
+BE,71,30185,antwerpen.be,
+BE,72,30357,ping.be,
+BE,73,31648,lecho.be,
+BE,74,33082,uhasselt.be,
+BE,75,33702,tuna.be,
+BE,76,34226,ritmica.be,
+BE,77,34438,cfwb.be,
+BE,78,34554,sporza.be,entertainment
+BE,79,34990,2link.be,
+BE,80,36919,edubit.be,
+BE,81,36939,dindesign.be,
+BE,82,36943,personalchef.be,
+BE,83,37354,namur.be,
+BE,84,37801,b-rail.be,
+BE,85,37885,eua.be,entertainment
+BE,86,38031,bpost.be,commerce
+BE,87,38642,monclerjassen.be,
+BE,88,38954,fundp.ac.be,
+BE,89,39688,een.be,
+BE,90,39763,fkgent.be,
+BE,91,39814,brugge.be,
+BE,92,40303,goedkope-uggs.be,
+BE,93,40355,unitesaintexupery.be,
+BE,94,40924,evangile.be,
+BE,95,41656,webhosting.be,
+BE,96,42380,skins.be,entertainment
+BE,97,43358,oma.be,
+BE,98,44863,canvas.be,
+BE,99,45400,delijn.be,
+BE,100,45666,nbb.be,
+BE,101,47442,maruta.be,
+BE,102,47799,logopediehuis.be,
+BE,103,49014,sol-utions.be,
+BE,104,49367,exacode.be,
+BE,105,49772,tiscali.be,
+BE,106,49903,fontainedejade.be,
+BE,107,50157,sanidri.be,
+BE,108,50288,kookforum.be,
+BE,109,50499,humo.be,
+BE,110,51071,swing.be,
+BE,111,51654,promoving.be,
+BE,112,51932,vito.be,
+BE,113,52072,forumup.be,
+BE,114,52866,fitup.be,
+BE,115,53157,goudengids.be,
+BE,116,53311,lucdc.be,
+BE,117,53945,imec.be,
+BE,118,53981,mommen.be,
+BE,119,54432,breathingstone.be,
+BE,120,54609,bemiddelinggent.be,
+BE,121,54709,fidelity-soft.be,
+BE,122,55086,stubru.be,entertainment
+BE,123,57112,ingoodcompany.be,
+BE,124,57170,tournai.be,
+BE,125,57621,precheurs.be,
+BE,126,57860,metrotime.be,
+BE,127,57929,xooit.be,
+BE,128,58555,ambaburundi.be,
+BE,129,59352,bnbbike.be,
+BE,130,59464,icwyt.be,
+BE,131,59909,rockwerchter.be,
+BE,132,59940,fine-arts-museum.be,
+BE,133,60621,kapaza.be,commerce
+BE,134,61098,arbj.be,
+BE,135,61116,kinehealth.be,
+BE,136,61710,claridge.be,
+BE,137,61758,proximus.be,news and politics
+BE,138,62057,cr24.be,
+BE,139,62663,meteo.be,news and politics
+BE,140,62911,vdab.be,entertainment
+BE,141,63668,ramcl.be,
+BE,142,63986,kcuf.be,
+BE,143,64230,belislam.be,
+BE,144,64295,funeral-home.be,
+BE,145,64484,varsenarebadmintonclub.be,
+BE,146,64596,mess.be,
+BE,147,64901,wrestlingfans.be,
+BE,148,64955,atomium.be,
+BE,149,65152,tuifly.be,
+BE,150,65240,makeawishforkids.be,
+BE,151,65379,gentsefarmakring.be,
+BE,152,65383,immouniversum.be,
+BE,153,65580,unamur.be,
+BE,154,65944,radio1.be,
+BE,155,66119,eapc.be,
+BE,156,67645,2ememain.be,junk
+BE,157,68886,jexiste.be,
+BE,158,69260,xpert-immobilier.be,
+BE,159,69545,ing.be,commerce
+BE,160,69612,lebiosacre.be,
+BE,161,69927,spa-francorchamps.be,
+BE,162,70172,dns.be,entertainment
+BE,163,70804,lerelaisdelabelette.be,
+BE,164,71122,dnsbelgium.be,
+BE,165,71161,bemulb.be,
+BE,166,71865,fee-ona.be,
+BE,167,72170,kbr.be,
+BE,168,73173,grafikal.be,
+BE,169,73346,tkchriston.be,
+BE,170,73446,vetosteo.be,
+BE,171,74280,naturalsciences.be,
+BE,172,74967,express.be,
+BE,173,75020,mo.be,
+BE,174,75249,mathcad.be,
+BE,175,75319,ishop.be,
+BE,176,75356,skydroneprojects.be,
+BE,177,75403,kvlvretie.be,
+BE,178,75548,y2u.be,entertainment
+BE,179,75671,gezondheidskrant.be,
+BE,180,76076,ama.be,
+BE,181,76312,vib.be,
+BE,182,76902,lameuse.be,entertainment
+BE,183,77545,bruzz.be,
+BE,184,77879,sevensoulmotion.be,
+BE,185,78161,afspraakjes.be,
+BE,186,78628,visitbrussels.be,
+BE,187,79746,wielerteamcamcole.be,
+BE,188,80226,inlijstingenjafacoko.be,
+BE,189,80294,jesoutiensdominiquetilmans.be,
+BE,190,80612,le117.be,
+BE,191,80695,sessibo.be,
+BE,192,80712,bv-f.be,
+BE,193,80964,delieux.be,
+BE,194,81048,brusselsgrandprix.be,
+BE,195,81503,start.be,news and politics
+BE,196,82040,www.mil.be,
+BE,197,83138,amisreunis.be,
+BE,198,84745,kbc.be,commerce
+BE,199,84771,brusselsathletics.be,
+BE,200,84844,privacycommission.be,
+CA,2,274,cbc.ca,entertainment
+CA,4,320,google.ca,news and politics
+CA,6,450,blogspot.ca,commerce
+CA,8,508,utoronto.ca,junk
+CA,9,652,ubc.ca,entertainment
+CA,10,926,amazon.ca,commerce
+CA,11,996,mcgill.ca,scholarship
+CA,12,1009,pinterest.ca,
+CA,13,1047,sfu.ca,news and politics
+CA,14,1062,ualberta.ca,scholarship
+CA,15,1137,uwaterloo.ca,news and politics
+CA,16,1176,huffingtonpost.ca,news and politics
+CA,17,1223,ctvnews.ca,news and politics
+CA,19,1365,globalnews.ca,news and politics
+CA,20,1368,python.ca,
+CA,21,1489,ucalgary.ca,scholarship
+CA,22,1499,uvic.ca,news and politics
+CA,23,1661,yorku.ca,scholarship
+CA,25,1900,queensu.ca,scholarship
+CA,26,2078,canoe.ca,entertainment
+CA,27,2138,globalresearch.ca,news and politics
+CA,28,2214,shaw.ca,commerce
+CA,29,2269,mcmaster.ca,entertainment
+CA,31,2365,canada.ca,
+CA,32,2405,umontreal.ca,entertainment
+CA,33,2455,uwo.ca,scholarship
+CA,34,2572,dal.ca,news and politics
+CA,35,2602,sympatico.ca,news and politics
+CA,36,2749,newswire.ca,news and politics
+CA,37,2758,uottawa.ca,junk
+CA,38,2811,macleans.ca,news and politics
+CA,39,2814,ebay.ca,commerce
+CA,40,2946,ctv.ca,news and politics
+CA,41,2947,usask.ca,scholarship
+CA,42,2969,carleton.ca,scholarship
+CA,43,3216,uoguelph.ca,
+CA,45,3247,umanitoba.ca,
+CA,46,3492,uqam.ca,
+CA,47,3501,radio-canada.ca,news and politics
+CA,48,3534,ulaval.ca,commerce
+CA,49,3556,eventbrite.ca,commerce
+CA,50,3882,alberta.ca,scholarship
+CA,51,3906,concordia.ca,news and politics
+CA,52,3934,lapresse.ca,news and politics
+CA,53,4000,metronews.ca,news and politics
+CA,54,4188,mun.ca,scholarship
+CA,55,4546,toronto.ca,entertainment
+CA,56,4645,ryerson.ca,news and politics
+CA,57,4664,ontario.ca,junk
+CA,59,4908,nfb.ca,junk
+CA,60,5044,kijiji.ca,commerce
+CA,61,5386,uwindsor.ca,porn
+CA,62,5582,tsn.ca,news and politics
+CA,63,5665,thechronicleherald.ca,news and politics
+CA,64,5861,indigo.ca,commerce
+CA,65,5865,yelp.ca,news and politics
+CA,66,5920,canadapost.ca,commerce
+CA,67,6024,cmaj.ca,scholarship
+CA,68,6058,unb.ca,news and politics
+CA,69,6150,yellowpages.ca,commerce
+CA,70,6399,tripadvisor.ca,entertainment
+CA,71,6470,bell.ca,commerce
+CA,72,6801,identi.ca,commerce
+CA,73,7108,vancouver.ca,
+CA,74,7830,sportsnet.ca,commerce
+CA,75,7933,cancer.ca,
+CA,76,8059,novascotia.ca,
+CA,78,8300,bestbuy.ca,commerce
+CA,79,8457,brocku.ca,scholarship
+CA,80,8475,usherbrooke.ca,
+CA,83,8850,europenow.ca,
+CA,84,8958,uregina.ca,
+CA,85,9024,bankofcanada.ca,
+CA,86,9093,canadiantire.ca,commerce
+CA,87,9613,clubrunner.ca,
+CA,88,9879,homeworkhelponline.ca,
+CA,89,9906,kwurbain.ca,
+CA,90,10476,gnb.ca,
+CA,91,10712,uwinnipeg.ca,
+CA,92,10885,citynews.ca,news and politics
+CA,94,11056,michaelkors-outlet.ca,
+CA,95,11161,websites.ca,
+CA,96,11383,ccohs.ca,
+CA,97,11425,bnn.ca,news and politics
+CA,98,11949,ocdsb.ca,
+CA,99,11962,wlu.ca,scholarship
+CA,100,12055,michael-korsoutlet.ca,
+CA,101,12125,uggscanadaugg.ca,
+CA,102,12245,thetyee.ca,
+CA,103,12302,cyberpresse.ca,entertainment
+CA,104,12341,idrc.ca,news and politics
+CA,105,12546,coachoutletcanada.ca,
+CA,106,12974,essay-writer.ca,
+CA,107,13001,redcross.ca,
+CA,108,13103,ticketmaster.ca,commerce
+CA,109,13111,viarail.ca,
+CA,110,13139,cogeco.ca,commerce
+CA,111,13148,burberry-outlet-canada.ca,
+CA,112,13520,coachcanadaoutlet.ca,
+CA,113,13553,exclaim.ca,entertainment
+CA,114,13620,cdalliance.ca,
+CA,116,13737,statcan.ca,
+CA,117,13822,ccchinese.ca,
+CA,118,14024,uleth.ca,scholarship
+CA,119,14037,uggsbootscanada.ca,
+CA,120,14058,walmart.ca,commerce
+CA,121,14282,mec.ca,commerce
+CA,122,14290,craigslist.ca,commerce
+CA,123,14375,acadiau.ca,
+CA,124,14488,163.ca,
+CA,125,14770,homedepot.ca,commerce
+CA,126,15040,salaki.ca,
+CA,127,15083,trmconsulting.ca,
+CA,128,15223,polymtl.ca,error
+CA,129,15229,turtledreams.ca,
+CA,130,15334,canadagoosesoutlet.ca,
+CA,131,15361,rcinet.ca,news and politics
+CA,132,15423,oakleysunglasses-canada.ca,
+CA,133,15465,cabv.ca,
+CA,134,15469,christianlouboutin-shoes.ca,
+CA,135,15493,swarovski-canada.ca,
+CA,136,15561,athabascau.ca,
+CA,137,15579,raybanoutlet.ca,
+CA,138,15624,nikeair-max.ca,
+CA,139,15716,uquebec.ca,
+CA,140,15734,tommyhilfigerca.ca,
+CA,141,15738,goldenantler.ca,
+CA,142,15978,coach-outletonline.ca,
+CA,143,16058,claudeprovencher.ca,
+CA,144,16066,citizenlab.ca,
+CA,145,16141,rabble.ca,
+CA,146,16325,adidas-shoes.ca,
+CA,147,16385,ncf.ca,
+CA,148,16409,bcit.ca,entertainment
+CA,149,16453,aol.ca,junk
+CA,150,17045,cmha.ca,
+CA,151,17245,besthealthmag.ca,error
+CA,152,17472,michelf.ca,
+CA,153,17550,trentu.ca,
+CA,154,17702,thecanadianencyclopedia.ca,
+CA,155,17743,michae-kors-outlet.ca,
+CA,156,17945,the-northface.ca,
+CA,157,18553,drpower.ca,
+CA,158,18722,dmfulfillment.ca,
+CA,159,18902,burberryoutlet.ca,
+CA,160,18975,calgary.ca,
+CA,161,19012,upei.ca,
+CA,162,19158,zoneti.ca,
+CA,163,19229,north.ca,
+CA,164,19417,futureshop.ca,commerce
+CA,165,19551,sherwoodcopy.ca,
+CA,166,19655,edmonton.ca,
+CA,167,19769,lakeheadu.ca,
+CA,168,19787,stfx.ca,religion
+CA,169,20035,historymuseum.ca,
+CA,170,20091,fmga.ca,
+CA,171,20111,canadagooseoutletjackets.ca,
+CA,172,20120,diabetes.ca,
+CA,173,20225,nrc.ca,
+CA,174,20333,canadagoosejacketscanada.ca,
+CA,175,20338,ottawa.ca,
+CA,176,20358,readersdigest.ca,scholarship
+CA,177,20479,oakleysunglassescanada.ca,
+CA,178,20483,banffcentre.ca,
+CA,179,20640,lung.ca,
+CA,180,20674,womenofwoodstock.ca,
+CA,181,20839,cyncb.ca,
+CA,182,20881,uqac.ca,
+CA,183,20944,haleysautoandpawn.ca,
+CA,184,20970,trentonbethel.ca,
+CA,185,21153,rickdesign.ca,
+CA,186,21186,msn.ca,news and politics
+CA,187,21249,liberal.ca,
+CA,188,21563,bdc.ca,
+CA,189,22195,itbusiness.ca,
+CA,190,22257,gallery.ca,scholarship
+CA,191,22321,tvanouvelles.ca,news and politics
+CA,192,22417,iisd.ca,news and politics
+CA,193,22958,cheapraybans.ca,
+CA,194,23226,collectionscanada.ca,news and politics
+CA,195,23310,saca.ca,
+CA,196,23644,realtor.ca,commerce
+CA,197,23669,costco.ca,commerce
+CA,198,23702,civilization.ca,
+CA,199,23993,smu.ca,
+CA,200,24037,foodnetwork.ca,porn
+CA,201,24051,ohgaming.ca,
+CA,202,24082,mediasmarts.ca,
+CA,203,24124,snook.ca,software
+CA,204,24206,viu.ca,
+CA,205,24327,conferenceboard.ca,
+CA,206,24333,linux.ca,
+CA,207,24361,billmartin.ca,
+CA,208,24492,magma.ca,
+CA,209,24581,uggsoutlet.ca,
+CA,210,24608,drok.ca,
+CA,211,24615,airbnb.ca,porn
+CA,212,24976,ufv.ca,entertainment
+CA,213,24983,uggs--canada.ca,
+CA,214,25247,mta.ca,
+CH,1,645,ethz.ch,religion
+CH,2,866,cern.ch,scholarship
+CH,3,874,iso.ch,
+CH,4,875,admin.ch,news and politics
+CH,5,1572,epfl.ch,junk
+CH,6,1631,google.ch,entertainment
+CH,7,2073,ipcc.ch,scholarship
+CH,8,2125,unige.ch,
+CH,9,2172,swissinfo.ch,news and politics
+CH,10,2624,blogspot.ch,entertainment
+CH,11,2783,uzh.ch,
+CH,12,3030,nzz.ch,news and politics
+CH,13,3204,unibe.ch,
+CH,14,3381,fourmilab.ch,entertainment
+CH,15,3998,20min.ch,news and politics
+CH,16,5109,srf.ch,news and politics
+CH,17,5134,unibas.ch,
+CH,18,5196,tagesanzeiger.ch,news and politics
+CH,19,5375,blick.ch,news and politics
+CH,20,5486,unil.ch,
+CH,21,6258,sbb.ch,commerce
+CH,22,6648,rts.ch,news and politics
+CH,23,6767,ecmm.ch,
+CH,24,6829,diana-aubonne.ch,
+CH,25,7229,iec.ch,scholarship
+CH,26,7940,letemps.ch,news and politics
+CH,27,8380,unifr.ch,news and politics
+CH,28,8702,bluewin.ch,news and politics
+CH,29,8742,square7.ch,
+CH,30,9536,unhchr.ch,news and politics
+CH,31,9573,unizh.ch,
+CH,32,10297,tdg.ch,news and politics
+CH,33,11075,uci.ch,
+CH,34,11133,search.ch,porn
+CH,35,11463,oetiker.ch,
+CH,36,12182,hostpoint.ch,
+CH,37,12195,lematin.ch,news and politics
+CH,38,13337,ghostwriterschweiz.ch,
+CH,39,13480,hon.ch,scholarship
+CH,40,13579,unisg.ch,
+CH,41,13910,swisscom.ch,commerce
+CH,42,15242,switch.ch,
+CH,43,15385,unog.ch,scholarship
+CH,44,16134,bazonline.ch,news and politics
+CH,45,17118,ebu.ch,scholarship
+CH,46,17155,24heures.ch,news and politics
+CH,47,17787,ricardo.ch,commerce
+CH,48,18105,cyberduck.ch,
+CH,49,18329,unep.ch,
+CH,50,18809,post.ch,commerce
+CH,51,19288,linkbun.ch,
+CH,52,20132,bonpourtonpoil.ch,
+CH,53,20542,zhaw.ch,
+CH,54,20679,bossard-zaunbau.ch,
+CH,55,21300,gastro-24.ch,
+CH,56,22169,thelocal.ch,
+CH,57,22707,wmo.ch,news and politics
+CH,58,22791,stadt-zuerich.ch,
+CH,59,22831,unine.ch,
+CH,60,23122,handelszeitung.ch,
+CH,61,23431,zermatt.ch,news and politics
+CH,62,23778,wikileaks.ch,error
+CH,63,24487,datacomm.ch,
+CH,64,24686,salon-auto.ch,entertainment
+CH,65,25440,tissot.ch,
+CH,66,26026,migros.ch,
+CH,67,26647,driversforum.ch,
+CH,68,26672,flos-freeware.ch,
+CH,69,26723,psi.ch,
+CH,70,26847,mammut.ch,
+CH,71,26893,fhnw.ch,
+CH,72,27033,ge.ch,commerce
+CH,73,27461,vd.ch,
+CH,74,27947,ville-ge.ch,entertainment
+CH,75,28134,aargauerzeitung.ch,
+CH,76,28505,bernerzeitung.ch,junk
+CH,77,28775,snb.ch,
+CH,78,29299,zh.ch,
+CH,79,30273,rsi.ch,entertainment
+CH,80,31154,tsr.ch,news and politics
+CH,81,31315,ssrdm.ch,
+CH,82,31689,cryptorocket.ch,
+CH,83,31831,tcs.ch,
+CH,84,32386,ebay.ch,commerce
+CH,85,32411,bestcity.ch,
+CH,86,32517,ticketcorner.ch,
+CH,87,32879,bfh.ch,
+CH,88,33102,sunrise.ch,commerce
+CH,89,33482,empa.ch,error
+CH,90,33512,usi.ch,news and politics
+CH,91,33617,derbund.ch,junk
+CH,92,33695,bs.ch,
+CH,93,34316,gva.ch,
+CH,94,34385,ch.ch,news and politics
+CH,95,34663,capitalb.ch,
+CH,96,34768,zhdk.ch,
+CH,97,34933,top-domains.ch,
+CH,98,35366,pupo.ch,
+CH,99,35426,l-d-b.ch,
+CH,100,35433,exigo.ch,
+CH,101,35613,ville-geneve.ch,
+CH,102,35805,luzernerzeitung.ch,
+CH,103,35862,mergimtari.ch,
+CH,104,35957,parlament.ch,error
+CH,105,36259,watson.ch,news and politics
+CH,106,36322,unhcr.ch,
+CH,107,36452,tagblatt.ch,news and politics
+CH,108,36464,michael-korstaschen.ch,
+CH,109,36759,nikeairmaxschweiz.ch,
+CH,110,36838,hslu.ch,
+CH,111,38280,pctipp.ch,
+CH,112,38473,paintress.ch,
+CH,113,38608,wwf.ch,news and politics
+CH,114,38635,epey.ch,
+CH,115,38739,monclerjackenschweiz.ch,
+CH,116,38852,tcrn.ch,commerce
+CH,117,38953,rittolas.ch,
+CH,118,39822,uggschweiz.ch,
+CH,119,40307,stmoritz.ch,
+CH,120,40333,snf.ch,
+CH,121,40868,hispeed.ch,
+CH,122,41051,coop.ch,
+CH,123,41367,ulkus.ch,
+CH,124,41810,be.ch,
+CH,125,42096,finma.ch,
+CH,126,42238,teamelec.ch,
+CH,127,42243,lalanguedesbois.ch,
+CH,128,42327,kitesailingworld.ch,
+CH,129,42587,dwcompta.ch,
+CH,130,42887,local.ch,commerce
+CH,131,43458,jungfrau.ch,
+CH,132,43860,webergipser.ch,
+CH,133,45599,graduateinstitute.ch,
+CH,134,45974,simonar.ch,
+CH,135,47592,freitag.ch,
+CH,136,47847,dtvgrenchen.ch,
+CH,137,48710,matthias-ziegler.ch,
+CH,138,49334,autostoppp.ch,
+CH,139,50165,rhb.ch,
+CH,140,50808,wsl.ch,
+CH,141,50865,who.ch,
+CH,142,51024,myhostpoint.ch,
+CH,143,51302,tor2web.ch,
+CH,144,51419,davos.ch,
+CH,145,52353,mscgva.ch,commerce
+CH,146,52360,ovhegi.ch,
+CH,147,52527,amaxworld.ch,
+CH,148,52704,bilan.ch,commerce
+CH,149,52817,icn.ch,software
+CH,150,52823,educanet2.ch,
+CH,151,53068,idsia.ch,software
+CH,152,53357,lazart.ch,
+CH,153,53562,starticket.ch,
+CH,154,53972,fondationbeyeler.ch,entertainment
+CH,155,54086,infomaniak.ch,commerce
+CH,156,54461,ti.ch,
+CH,157,54581,wagenschenke.ch,
+CH,158,54681,beobachter.ch,
+CH,159,54738,mspsports.ch,
+CH,160,55279,immogruyere.ch,
+CH,161,55439,weltwoche.ch,news and politics
+CH,162,55483,rro.ch,
+CH,163,55505,raiffeisen.ch,
+CH,164,55508,tio.ch,
+CH,165,57352,srgssr.ch,news and politics
+CH,166,57591,publiceye.ch,
+CH,167,57626,gl-med.ch,
+CH,168,57864,webland.ch,
+CH,169,57965,graubuenden.ch,news and politics
+CH,170,58182,bikesaver.ch,
+CH,171,58455,autoscout24.ch,news and politics
+CH,172,58869,radu.ch,
+CH,173,58966,hixie.ch,
+CH,174,59132,sg.ch,
+CH,175,59623,demenagements-devis.ch,
+CH,176,60016,suedostschweiz.ch,
+CH,177,61530,ag.ch,software
+CH,178,61653,granges-melanges.ch,
+CH,179,61952,eawag.ch,
+CH,180,62073,sonntagszeitung.ch,news and politics
+CH,181,63546,skoliose-therapie.ch,
+CH,182,63566,slf.ch,
+CH,183,65148,cajoue.ch,
+CH,184,65159,wargame.ch,
+CH,185,66226,imadex.ch,
+CH,186,66476,digitec.ch,commerce
+CH,187,67298,pocketpc.ch,entertainment
+CH,188,67516,kunsthaus.ch,news and politics
+CH,189,67763,fr.ch,
+CH,190,68232,hesge.ch,
+CH,191,68302,orellfuessli.ch,
+CH,192,68446,fredtache.ch,
+CH,193,68843,lausanne.ch,
+CH,194,68930,m0n0.ch,commerce
+CH,195,69308,oris.ch,commerce
+CH,196,69697,holi.ch,
+CH,197,70139,comparis.ch,error
+CH,198,71019,populus.ch,
+CH,199,71128,steinbildhauersymposium.ch,
+CH,200,71868,cash.ch,
+COM,1,1,google.com,entertainment
+COM,2,2,facebook.com,entertainment
+COM,3,3,youtube.com,entertainment
+COM,4,4,twitter.com,entertainment
+COM,5,5,microsoft.com,commerce
+COM,6,6,linkedin.com,entertainment
+COM,7,8,plus.google.com,entertainment
+COM,8,9,apple.com,commerce
+COM,9,10,instagram.com,entertainment
+COM,10,12,adobe.com,software
+COM,11,14,itunes.apple.com,software
+COM,12,15,wordpress.com,commerce
+COM,13,17,vimeo.com,software
+COM,14,18,blogspot.com,entertainment
+COM,15,19,pinterest.com,software
+COM,16,20,maps.google.com,entertainment
+COM,17,22,play.google.com,software
+COM,18,23,yahoo.com,entertainment
+COM,19,24,amazon.com,commerce
+COM,20,25,googletagmanager.com,commerce
+COM,21,26,player.vimeo.com,software
+COM,22,28,docs.google.com,software
+COM,23,29,tumblr.com,software
+COM,24,30,flickr.com,software
+COM,25,31,github.com,software
+COM,26,33,get.adobe.com,software
+COM,27,37,godaddy.com,commerce
+COM,28,38,gravatar.com,software
+COM,29,39,nytimes.com,news and politics
+COM,30,40,sites.google.com,entertainment
+COM,31,41,reddit.com,software
+COM,32,42,soundcloud.com,software
+COM,33,46,mcc.godaddy.com,
+COM,34,48,cnn.com,news and politics
+COM,35,49,virginmedia.com,entertainment
+COM,36,51,weebly.com,software
+COM,37,52,amazonaws.com,error
+COM,38,54,accounts.google.com,entertainment
+COM,39,55,dropbox.com,software
+COM,40,56,theguardian.com,news and politics
+COM,41,59,forbes.com,entertainment
+COM,42,61,tinyurl.com,software
+COM,43,62,msn.com,news and politics
+COM,44,64,qq.com,news and politics
+COM,45,65,issuu.com,software
+COM,46,67,oracle.com,commerce
+COM,47,68,wsj.com,news and politics
+COM,48,69,aol.com,news and politics
+COM,49,70,imdb.com,entertainment
+COM,50,71,bing.com,software
+COM,51,74,wix.com,software
+COM,52,75,reuters.com,news and politics
+COM,53,76,paypal.com,commerce
+COM,54,77,go.com,entertainment
+COM,55,78,live.com,software
+COM,56,79,huffingtonpost.com,news and politics
+COM,57,81,myspace.com,entertainment
+COM,58,82,washingtonpost.com,news and politics
+COM,59,84,bloomberg.com,entertainment
+COM,60,85,mysql.com,commerce
+COM,61,87,ibm.com,software
+COM,62,88,wixsite.com,
+COM,63,91,ebay.com,commerce
+COM,64,92,bp.blogspot.com,error
+COM,65,94,cpanel.com,
+COM,66,95,windows.microsoft.com,software
+COM,67,96,hp.com,commerce
+COM,68,97,medium.com,news and politics
+COM,69,101,cnet.com,commerce
+COM,70,102,vk.com,news and politics
+COM,71,103,opera.com,software
+COM,72,104,bbc.com,news and politics
+COM,73,105,weibo.com,news and politics
+COM,74,106,wp.com,commerce
+COM,75,108,macromedia.com,
+COM,76,109,time.com,news and politics
+COM,77,110,about.com,news and politics
+COM,78,111,usatoday.com,news and politics
+COM,79,112,businessinsider.com,news and politics
+COM,80,113,imgur.com,software
+COM,81,114,jimdo.com,commerce
+COM,82,115,addthis.com,entertainment
+COM,83,117,wired.com,entertainment
+COM,84,118,digg.com,entertainment
+COM,85,119,dailymotion.com,software
+COM,86,120,surveymonkey.com,scholarship
+COM,87,122,eventbrite.com,commerce
+COM,88,123,blogger.com,entertainment
+COM,89,125,ted.com,religion
+COM,90,127,googleusercontent.com,entertainment
+COM,91,130,livejournal.com,commerce
+COM,92,131,webs.com,commerce
+COM,93,134,feedburner.com,entertainment
+COM,94,135,statcounter.com,commerce
+COM,95,136,nature.com,scholarship
+COM,96,137,stumbleupon.com,entertainment
+COM,97,138,wiley.com,religion
+COM,98,139,youtube-nocookie.com,error
+COM,99,140,mail.google.com,entertainment
+COM,100,141,typepad.com,commerce
+COM,101,142,tripod.com,commerce
+COM,102,143,latimes.com,news and politics
+COM,103,144,2.bp.blogspot.com,entertainment
+COM,104,146,sciencedirect.com,entertainment
+COM,105,149,scribd.com,commerce
+COM,106,154,geocities.com,commerce
+COM,107,156,kickstarter.com,entertainment
+COM,108,157,feeds.feedburner.com,news and politics
+COM,109,158,yelp.com,news and politics
+COM,110,159,techcrunch.com,commerce
+COM,111,162,list-manage.com,commerce
+COM,112,163,i0.wp.com,
+COM,113,164,hugedomains.com,commerce
+COM,114,165,m.facebook.com,news and politics
+COM,115,166,nationalgeographic.com,news and politics
+COM,116,167,i1.wp.com,
+COM,117,169,i2.wp.com,junk
+COM,118,171,4.bp.blogspot.com,entertainment
+COM,119,172,photobucket.com,commerce
+COM,120,174,3.bp.blogspot.com,entertainment
+COM,121,175,1.bp.blogspot.com,entertainment
+COM,122,176,etsy.com,commerce
+COM,123,178,sun.com,commerce
+COM,124,180,wpa.qq.com,
+COM,125,181,deviantart.com,porn
+COM,126,182,spotify.com,commerce
+COM,127,183,ft.com,entertainment
+COM,128,184,xinhuanet.com,news and politics
+COM,129,185,163.com,news and politics
+COM,130,187,samsung.com,commerce
+COM,131,188,springer.com,religion
+COM,132,189,baidu.com,software
+COM,133,191,addtoany.com,software
+COM,134,192,disqus.com,software
+COM,135,195,mashable.com,commerce
+COM,136,196,wikia.com,junk
+COM,137,198,buzzfeed.com,entertainment
+COM,138,200,cbsnews.com,news and politics
+COM,139,201,foxnews.com,news and politics
+COM,140,202,cnbc.com,scholarship
+COM,141,203,skype.com,software
+COM,142,204,youku.com,news and politics
+COM,143,205,parallels.com,commerce
+COM,144,206,engadget.com,commerce
+COM,145,207,tripadvisor.com,entertainment
+COM,146,209,theatlantic.com,news and politics
+COM,147,210,taobao.com,commerce
+COM,148,211,intel.com,commerce
+COM,149,212,economist.com,news and politics
+COM,150,213,translate.google.com,software
+COM,151,214,android.com,entertainment
+COM,152,215,us.com,
+COM,153,225,cisco.com,commerce
+COM,154,228,sohu.com,news and politics
+COM,155,229,dev.mysql.com,software
+COM,156,230,buydomains.com,commerce
+COM,157,231,zdnet.com,commerce
+COM,158,232,goodreads.com,software
+COM,159,234,example.com,software
+COM,160,235,gizmodo.com,commerce
+COM,161,236,redhat.com,software
+COM,162,237,webmd.com,scholarship
+COM,163,238,link.springer.com,religion
+COM,164,240,zend.com,commerce
+COM,165,241,eepurl.com,entertainment
+COM,166,244,uk.com,
+COM,167,246,bandcamp.com,entertainment
+COM,168,247,theverge.com,commerce
+COM,169,249,netscape.com,
+COM,170,251,squarespace.com,commerce
+COM,171,252,prnewswire.com,commerce
+COM,172,253,i.imgur.com,porn
+COM,173,258,fb.com,entertainment
+COM,174,259,nginx.com,
+COM,175,260,alibaba.com,commerce
+COM,176,261,oreilly.com,software
+COM,177,264,fc2.com,commerce
+COM,178,265,usnews.com,news and politics
+COM,179,268,booking.com,entertainment
+COM,180,269,dell.com,commerce
+COM,181,271,fortune.com,entertainment
+COM,182,273,office.com,commerce
+COM,183,277,constantcontact.com,commerce
+COM,184,279,angelfire.com,entertainment
+COM,185,280,nbcnews.com,news and politics
+COM,186,281,stackoverflow.com,software
+COM,187,282,cloudflare.com,commerce
+COM,188,283,meetup.com,entertainment
+COM,189,285,ning.com,commerce
+COM,190,286,wikihow.com,news and politics
+COM,191,292,vice.com,news and politics
+COM,192,293,marriott.com,news and politics
+COM,193,296,sciencedaily.com,scholarship
+COM,194,298,whatsapp.com,software
+COM,195,301,mp.weixin.qq.com,commerce
+COM,196,302,symantec.com,software
+COM,197,303,chicagotribune.com,news and politics
+COM,198,305,newyorker.com,news and politics
+COM,199,307,mozilla.com,software
+COM,200,309,businesswire.com,commerce
+COM,201,310,indiatimes.com,news and politics
+COM,202,312,mediafire.com,software
+COM,203,313,indiegogo.com,commerce
+COM,204,315,hilton.com,entertainment
+COM,205,316,marketwatch.com,news and politics
+COM,206,318,ifeng.com,news and politics
+COM,207,319,slate.com,news and politics
+COM,208,321,nydailynews.com,entertainment
+COM,209,322,arstechnica.com,news and politics
+COM,210,324,quora.com,software
+COM,211,326,fastcompany.com,commerce
+COM,212,327,open.spotify.com,entertainment
+COM,213,328,businessweek.com,commerce
+COM,214,331,sfgate.com,news and politics
+COM,215,332,news.yahoo.com,news and politics
+COM,216,334,calendar.google.com,entertainment
+COM,217,337,over-blog.com,entertainment
+COM,218,339,scientificamerican.com,scholarship
+COM,219,340,storify.com,news and politics
+COM,220,344,ikea.com,commerce
+COM,221,345,foursquare.com,entertainment
+COM,222,346,sagepub.com,scholarship
+COM,223,349,howstuffworks.com,news and politics
+COM,224,352,list-manage1.com,commerce
+COM,225,353,giphy.com,entertainment
+COM,226,354,bizjournals.com,software
+COM,227,356,mailchimp.com,commerce
+COM,228,357,phpbb.com,software
+COM,229,358,nypost.com,entertainment
+COM,230,363,ubuntu.com,commerce
+COM,231,364,v.qq.com,software
+COM,232,367,zendesk.com,commerce
+COM,233,368,evernote.com,software
+COM,234,370,tinypic.com,software
+COM,235,372,cbslocal.com,news and politics
+COM,236,374,newsweek.com,news and politics
+COM,237,375,weather.com,entertainment
+COM,238,376,plesk.com,
+COM,239,377,elegantthemes.com,commerce
+COM,240,378,box.com,commerce
+COM,241,379,barnesandnoble.com,commerce
+COM,242,381,mapquest.com,commerce
+COM,243,383,discovery.com,news and politics
+COM,244,384,livestream.com,software
+COM,245,386,nokia.com,software
+COM,246,389,tandfonline.com,entertainment
+COM,247,390,delicious.com,entertainment
+COM,248,391,inc.com,commerce
+COM,249,393,yolasite.com,commerce
+COM,250,395,alexa.com,commerce
+COM,251,396,com.com,
+COM,252,397,entrepreneur.com,entertainment
+COM,253,398,rt.com,news and politics
+COM,254,399,boston.com,news and politics
+COM,255,405,dropboxusercontent.com,error
+COM,256,408,verisign.com,commerce
+COM,257,413,java.com,software
+COM,258,414,britannica.com,scholarship
+COM,259,416,dropcatch.com,
+COM,260,418,steampowered.com,software
+COM,261,422,walmart.com,commerce
+COM,262,425,venturebeat.com,commerce
+COM,263,426,myshopify.com,commerce
+COM,264,427,merriam-webster.com,religion
+COM,265,429,prezi.com,software
+COM,266,430,teamviewer.com,software
+COM,267,431,bmj.com,scholarship
+COM,268,432,instructables.com,software
+COM,269,433,lifehacker.com,software
+COM,270,435,dribbble.com,software
+COM,271,437,enable-javascript.com,software
+COM,272,441,ibtimes.com,news and politics
+COM,273,443,appspot.com,entertainment
+COM,274,447,theglobeandmail.com,news and politics
+COM,275,448,technorati.com,news and politics
+COM,276,449,timeanddate.com,software
+COM,277,451,newscientist.com,scholarship
+COM,278,452,themeisle.com,
+COM,279,453,pcworld.com,commerce
+COM,280,456,wunderground.com,news and politics
+COM,281,457,psychologytoday.com,news and politics
+COM,282,460,so.com,junk
+COM,283,461,netflix.com,commerce
+COM,284,462,gofundme.com,entertainment
+COM,285,464,prweb.com,commerce
+COM,286,465,w3schools.com,software
+COM,287,469,dw.com,error
+COM,288,472,qz.com,news and politics
+COM,289,475,wufoo.com,software
+COM,290,477,vmware.com,commerce
+COM,291,478,ign.com,entertainment
+COM,292,482,aliexpress.com,commerce
+COM,293,483,ehow.com,commerce
+COM,294,486,amazon-adsystem.com,
+COM,295,489,elsevier.com,scholarship
+COM,296,492,ihg.com,entertainment
+COM,297,493,nike.com,commerce
+COM,298,494,jquery.com,commerce
+COM,299,495,rollingstone.com,entertainment
+COM,300,496,deloitte.com,commerce
+COM,301,498,oup.com,entertainment
+COM,302,499,news.google.com,entertainment
+COM,303,503,groups.yahoo.com,news and politics
+COM,304,504,pixabay.com,commerce
+COM,305,505,t.qq.com,news and politics
+COM,306,507,homestead.com,commerce
+COM,307,509,examiner.com,news and politics
+COM,308,510,pcmag.com,commerce
+COM,309,511,jiathis.com,software
+COM,310,512,livescience.com,news and politics
+COM,311,513,msdn.com,
+COM,312,515,000webhost.com,commerce
+COM,313,516,answers.com,scholarship
+COM,314,517,novell.com,software
+COM,315,520,biomedcentral.com,scholarship
+COM,316,522,hubspot.com,commerce
+COM,317,525,siemens.com,commerce
+COM,318,526,sky.com,commerce
+COM,319,527,gmail.com,entertainment
+COM,320,528,hexun.com,news and politics
+COM,321,530,thenextweb.com,commerce
+COM,322,533,mac.com,commerce
+COM,323,539,hollywoodreporter.com,entertainment
+COM,324,542,att.com,commerce
+COM,325,548,blog.com,error
+COM,326,549,wpengine.com,commerce
+COM,327,550,adweek.com,news and politics
+COM,328,552,getpocket.com,news and politics
+COM,329,554,variety.com,entertainment
+COM,330,555,vox.com,news and politics
+COM,331,556,salon.com,news and politics
+COM,332,558,freewebs.com,commerce
+COM,333,559,webnode.com,commerce
+COM,334,560,platform.twitter.com,junk
+COM,335,561,thedailybeast.com,news and politics
+COM,336,563,chron.com,news and politics
+COM,337,566,nba.com,news and politics
+COM,338,570,namecheap.com,commerce
+COM,339,572,envato.com,commerce
+COM,340,573,urbandictionary.com,porn
+COM,341,575,googleblog.com,
+COM,342,577,bitly.com,news and politics
+COM,343,578,jd.com,commerce
+COM,344,580,tmall.com,commerce
+COM,345,581,nymag.com,news and politics
+COM,346,582,steamcommunity.com,entertainment
+COM,347,584,elpais.com,entertainment
+COM,348,585,smugmug.com,software
+COM,349,586,sony.com,commerce
+COM,350,587,dictionary.com,entertainment
+COM,351,588,xing.com,scholarship
+COM,352,589,wikidot.com,software
+COM,353,592,getbootstrap.com,commerce
+COM,354,596,wikispaces.com,software
+COM,355,597,staticflickr.com,error
+COM,356,598,reference.com,news and politics
+COM,357,600,politico.com,news and politics
+COM,358,601,asus.com,commerce
+COM,359,605,accuweather.com,news and politics
+COM,360,606,thefreedictionary.com,religion
+COM,361,609,playstation.com,entertainment
+COM,362,610,msnbc.com,news and politics
+COM,363,611,digitaltrends.com,commerce
+COM,364,614,gotowebinar.com,commerce
+COM,365,615,mlb.com,news and politics
+COM,366,616,shutterstock.com,news and politics
+COM,367,617,mtv.com,entertainment
+COM,368,618,salesforce.com,commerce
+COM,369,619,campaign-archive1.com,software
+COM,370,623,cygwin.com,software
+COM,371,625,nvidia.com,commerce
+COM,372,626,investopedia.com,news and politics
+COM,373,627,shutterfly.com,commerce
+COM,374,630,aljazeera.com,news and politics
+COM,375,631,shopify.com,commerce
+COM,376,632,campaign-archive2.com,software
+COM,377,635,technologyreview.com,commerce
+COM,378,639,fifa.com,entertainment
+COM,379,640,lycos.com,news and politics
+COM,380,646,thestar.com,news and politics
+COM,381,650,codeplex.com,software
+COM,382,651,stackexchange.com,software
+COM,383,654,gartner.com,commerce
+COM,384,655,lg.com,commerce
+COM,385,658,lonelyplanet.com,entertainment
+COM,386,660,airbnb.com,entertainment
+COM,387,661,thoughtco.com,
+COM,388,662,twimg.com,error
+COM,389,664,bigcartel.com,commerce
+COM,390,666,securityfocus.com,software
+COM,391,667,blackberry.com,software
+COM,392,668,feedproxy.google.com,software
+COM,393,669,windowsphone.com,software
+COM,394,670,naver.com,news and politics
+COM,395,671,statista.com,commerce
+COM,396,672,chinanews.com,news and politics
+COM,397,674,list-manage2.com,commerce
+COM,398,675,target.com,commerce
+COM,399,676,4shared.com,software
+COM,400,677,prestashop.com,commerce
+CZ,1,937,phoca.cz,software
+CZ,2,1472,wz.cz,news and politics
+CZ,3,2991,cuni.cz,news and politics
+CZ,4,3306,google.cz,news and politics
+CZ,5,3541,idnes.cz,news and politics
+CZ,6,4184,xf.cz,
+CZ,7,4363,cvut.cz,
+CZ,8,4441,unas.cz,
+CZ,9,5024,muni.cz,news and politics
+CZ,10,5908,blog.cz,news and politics
+CZ,11,6335,blogspot.cz,entertainment
+CZ,12,6927,skauting.cz,
+CZ,13,7018,webgarden.cz,
+CZ,14,7041,webnode.cz,commerce
+CZ,15,7133,radio.cz,news and politics
+CZ,16,7219,cas.cz,
+CZ,17,7696,seznam.cz,news and politics
+CZ,18,7854,euweb.cz,
+CZ,19,8211,estranky.cz,news and politics
+CZ,20,8414,sweb.cz,entertainment
+CZ,21,8496,windguru.cz,software
+CZ,22,8603,webz.cz,
+CZ,23,8843,ic.cz,
+CZ,24,8983,vutbr.cz,news and politics
+CZ,25,8991,ceskatelevize.cz,news and politics
+CZ,26,9206,mysteria.cz,
+CZ,27,9417,volny.cz,junk
+CZ,28,9470,borec.cz,
+CZ,29,9595,mzv.cz,news and politics
+CZ,30,10787,webzdarma.cz,
+CZ,31,11025,mapy.cz,news and politics
+CZ,32,11318,centrum.cz,news and politics
+CZ,33,11752,novinky.cz,news and politics
+CZ,34,11803,tiscali.cz,commerce
+CZ,35,13143,petrpalous.cz,
+CZ,36,14093,wgz.cz,
+CZ,37,14548,upol.cz,
+CZ,38,15109,kvalitne.cz,
+CZ,39,16460,toplist.cz,software
+CZ,40,16622,ihned.cz,news and politics
+CZ,41,16896,rozhlas.cz,news and politics
+CZ,42,17168,csa.cz,
+CZ,43,17321,7x.cz,
+CZ,44,18451,denik.cz,news and politics
+CZ,45,18935,lekarny-ipc.cz,
+CZ,46,19340,zcu.cz,
+CZ,47,19631,or.cz,
+CZ,48,19694,blesk.cz,news and politics
+CZ,49,20359,lidovky.cz,news and politics
+CZ,50,20714,vse.cz,religion
+CZ,51,21117,ceskenoviny.cz,news and politics
+CZ,52,22659,4fan.cz,
+CZ,53,22744,nazory.cz,
+CZ,54,22990,active24.cz,
+CZ,55,23171,mujweb.cz,
+CZ,56,23393,csfd.cz,news and politics
+CZ,57,23601,shop1.cz,
+CZ,58,23917,pamaservis.cz,
+CZ,59,25608,warszawa.cz,
+CZ,60,25644,bvv.cz,
+CZ,61,25745,aktualne.cz,news and politics
+CZ,62,26004,czu.cz,
+CZ,63,27589,ovh.cz,
+CZ,64,28160,nova.cz,news and politics
+CZ,65,28866,tyden.cz,news and politics
+CZ,66,28894,jakpsatweb.cz,software
+CZ,67,29322,chytrak.cz,
+CZ,68,30666,tode.cz,
+CZ,69,30698,eurotechnik.cz,
+CZ,70,31510,wbs.cz,
+CZ,71,32710,hrad.cz,news and politics
+CZ,72,33748,pilawm.cz,
+CZ,73,33935,bijoux-components.cz,
+CZ,74,34184,cnb.cz,
+CZ,75,35284,bandzone.cz,
+CZ,76,35636,9e.cz,
+CZ,77,36019,kpzinfo.cz,
+CZ,78,36325,brana.cz,
+CZ,79,36511,mvcr.cz,news and politics
+CZ,80,36817,msmt.cz,
+CZ,81,37835,justice.cz,news and politics
+CZ,82,38046,vsb.cz,
+CZ,83,38797,loosp.cz,
+CZ,84,38921,osadyuprkova.cz,
+CZ,85,39384,alesnavratil.cz,
+CZ,86,39796,cun.cz,
+CZ,87,39864,rokycansko.cz,
+CZ,88,40382,8u.cz,
+CZ,89,40811,mfcr.cz,commerce
+CZ,90,41123,alza.cz,commerce
+CZ,91,41182,czechcentres.cz,
+CZ,92,41613,e-obec.cz,
+CZ,93,41672,aramat.cz,
+CZ,94,41805,blueboard.cz,
+CZ,95,42298,cd.cz,
+CZ,96,42609,akipro.cz,
+CZ,97,42786,fcviktoria.cz,
+CZ,98,43280,cmelak.cz,
+CZ,99,43668,ifyzika.cz,
+CZ,100,44979,savana-hosting.cz,
+CZ,101,45138,czech.cz,scholarship
+CZ,102,45884,buyang.cz,
+CZ,103,46183,websnadno.cz,
+CZ,104,46329,libimseti.cz,news and politics
+CZ,105,47131,zive.cz,news and politics
+CZ,106,47304,jcu.cz,
+CZ,107,47368,czso.cz,news and politics
+CZ,108,47975,triometal.cz,
+CZ,109,48359,hys.cz,
+CZ,110,48389,mendelu.cz,
+CZ,111,48746,prodejce.cz,
+CZ,112,49100,houlin.cz,
+CZ,113,49389,vlada.cz,news and politics
+CZ,114,49662,crk.cz,
+CZ,115,49794,blk-slavia-praha.cz,
+CZ,116,51049,parlamentnilisty.cz,news and politics
+CZ,117,51064,funsite.cz,
+CZ,118,51426,zazrakyduse.cz,
+CZ,119,51485,dpp.cz,
+CZ,120,52160,e15.cz,news and politics
+CZ,121,52945,nic.cz,software
+CZ,122,53827,chmi.cz,
+CZ,123,54016,agropodluzan.cz,
+CZ,124,54128,atlas.cz,
+CZ,125,54291,g6.cz,
+CZ,126,54296,vccchomutov.cz,
+CZ,127,54569,fotopast-forum.cz,
+CZ,128,55564,wilsonandwhite.cz,
+CZ,129,55678,heureux.cz,
+CZ,130,55822,nakupnidivadlo.cz,
+CZ,131,55888,heureka.cz,news and politics
+CZ,132,56257,nkp.cz,
+CZ,133,56563,mariekorseltova.cz,
+CZ,134,56677,drevovzahrade.cz,
+CZ,135,56729,voroplavba.cz,
+CZ,136,56846,vyrobce.cz,
+CZ,137,58399,auto.cz,news and politics
+CZ,138,59139,praskova-lakovna.cz,
+CZ,139,60065,mpsv.cz,
+CZ,140,60690,kavarnaoaza.cz,
+CZ,141,61711,mainecoon.cz,
+CZ,142,61800,soom.cz,news and politics
+CZ,143,61813,brno.cz,news and politics
+CZ,144,62145,smetko.cz,
+CZ,145,62510,classicmodels.cz,
+CZ,146,62744,sdruzeniantilopa.cz,
+CZ,147,63130,gamerzone.cz,
+CZ,148,63428,kamilpestak.cz,
+CZ,149,63441,skipetriny.cz,
+CZ,150,63867,tym.cz,
+CZ,151,64945,seonastroje.cz,
+CZ,152,65497,utb.cz,
+CZ,153,65883,o2.cz,commerce
+CZ,154,66012,blueto.cz,
+CZ,155,66414,web2001.cz,
+CZ,156,66613,zarybnicky.cz,
+CZ,157,66838,brontosaurus.cz,
+CZ,158,67055,iprima.cz,news and politics
+CZ,159,67360,haza-kv.cz,
+CZ,160,67484,webpark.cz,
+CZ,161,67849,expats.cz,
+CZ,162,68082,stream.cz,news and politics
+CZ,163,68098,martinzima.cz,
+CZ,164,68498,amg-global.cz,
+CZ,165,68619,rottdesign.cz,
+CZ,166,68656,narodni-divadlo.cz,news and politics
+CZ,167,68799,xfly.cz,
+CZ,168,69579,hobsovice.cz,
+CZ,169,70674,psp.cz,news and politics
+CZ,170,70844,lupa.cz,news and politics
+CZ,171,72032,reggae.cz,
+CZ,172,72477,moxo.cz,
+CZ,173,72623,multiservice.cz,
+CZ,174,72709,donghuongnghetinh.cz,
+CZ,175,73417,jobs.cz,news and politics
+CZ,176,73495,kampanula.cz,
+CZ,177,73705,nm.cz,news and politics
+CZ,178,73777,danaj.cz,
+CZ,179,73973,php5.cz,
+CZ,180,73980,rosa-os.cz,
+CZ,181,74298,aukro.cz,commerce
+CZ,182,74310,petrlechner.cz,
+CZ,183,74317,pmf-institut.cz,
+CZ,184,74326,bcdelfin.cz,
+CZ,185,74599,advsuroviny.cz,
+CZ,186,74763,skoda110r.cz,
+CZ,187,74960,vscht.cz,
+CZ,188,76014,laskaapenize.cz,
+CZ,189,76159,polletsro.cz,
+CZ,190,76803,7u.cz,
+CZ,191,77592,strelnicemu.cz,
+CZ,192,77727,chatujme.cz,
+CZ,193,77902,pragueconspiracy.cz,
+CZ,194,78118,keriani.cz,
+CZ,195,78201,valka.cz,news and politics
+CZ,196,79122,jinazahrada.cz,
+CZ,197,79201,bodylab.cz,
+CZ,198,79808,inshop.cz,
+CZ,199,80055,proces.cz,
+CZ,200,80357,army.cz,
+DE,1,53,t-online.de,entertainment
+DE,2,177,google.de,entertainment
+DE,3,248,blogspot.de,entertainment
+DE,4,329,amazon.de,commerce
+DE,5,371,spiegel.de,news and politics
+DE,6,562,arnebrachhold.de,software
+DE,7,845,ccc.de,news and politics
+DE,8,854,welt.de,news and politics
+DE,9,898,aol.de,news and politics
+DE,10,945,siemens.de,
+DE,11,977,mpg.de,scholarship
+DE,12,1000,ebay.de,commerce
+DE,13,1078,heise.de,news and politics
+DE,14,1178,sueddeutsche.de,news and politics
+DE,15,1194,bild.de,news and politics
+DE,16,1224,zeit.de,news and politics
+DE,17,1408,goethe.de,entertainment
+DE,18,1556,focus.de,news and politics
+DE,19,1570,bund.de,news and politics
+DE,20,1577,dw.de,news and politics
+DE,21,1610,e-recht24.de,news and politics
+DE,22,1682,fraunhofer.de,
+DE,23,1701,fu-berlin.de,news and politics
+DE,24,1767,myblog.de,
+DE,25,1972,zdf.de,software
+DE,26,2039,uni-muenchen.de,entertainment
+DE,27,2059,dw-world.de,news and politics
+DE,28,2093,uni-heidelberg.de,commerce
+DE,29,2228,bahn.de,commerce
+DE,30,2234,online.de,commerce
+DE,31,2235,stern.de,news and politics
+DE,32,2302,tum.de,
+DE,33,2369,rwth-aachen.de,commerce
+DE,34,2396,wdr.de,news and politics
+DE,35,2418,tagesspiegel.de,news and politics
+DE,36,2518,berlin.de,news and politics
+DE,37,2522,uni-bonn.de,religion
+DE,38,2534,uni-hamburg.de,porn
+DE,39,2545,web.de,news and politics
+DE,40,2561,hu-berlin.de,entertainment
+DE,41,2565,ozerov.de,
+DE,42,2623,tu-berlin.de,news and politics
+DE,43,2717,uni-koeln.de,news and politics
+DE,44,2721,gesetze-im-internet.de,news and politics
+DE,45,2781,diplo.de,news and politics
+DE,46,2823,ndr.de,news and politics
+DE,47,2834,uni-freiburg.de,
+DE,48,2840,chip.de,commerce
+DE,49,2880,arcor.de,news and politics
+DE,50,2881,bundestag.de,news and politics
+DE,51,2901,br.de,news and politics
+DE,52,2981,tagesschau.de,news and politics
+DE,53,3019,bayern.de,news and politics
+DE,54,3109,uni-frankfurt.de,
+DE,55,3117,nrw.de,news and politics
+DE,56,3121,rp-online.de,news and politics
+DE,57,3197,uni-bremen.de,
+DE,58,3208,npage.de,commerce
+DE,59,3256,rapidshare.de,error
+DE,60,3272,freenet.de,news and politics
+DE,61,3288,tu-dresden.de,scholarship
+DE,62,3307,beepworld.de,commerce
+DE,63,3371,uni-stuttgart.de,news and politics
+DE,64,3375,uni-leipzig.de,scholarship
+DE,65,3378,n-tv.de,news and politics
+DE,66,3479,1und1.de,commerce
+DE,67,3506,taz.de,news and politics
+DE,68,3568,uni-tuebingen.de,religion
+DE,69,3675,uni-muenster.de,religion
+DE,70,3712,funpic.de,commerce
+DE,71,3752,website-start.de,error
+DE,72,3818,uni-goettingen.de,
+DE,73,3868,uni-hannover.de,
+DE,74,4030,uni-mainz.de,scholarship
+DE,75,4072,mobile.de,commerce
+DE,76,4074,hamburg.de,entertainment
+DE,77,4087,etracker.de,junk
+DE,78,4113,uni-erlangen.de,scholarship
+DE,79,4120,auswaertiges-amt.de,news and politics
+DE,80,4164,swr.de,news and politics
+DE,81,4251,ruhr-uni-bochum.de,news and politics
+DE,82,4264,uni-kiel.de,commerce
+DE,83,4355,abload.de,software
+DE,84,4368,adac.de,scholarship
+DE,85,4377,businessinsider.de,
+DE,86,4403,tu-darmstadt.de,scholarship
+DE,87,4411,thelocal.de,news and politics
+DE,88,4436,rtl.de,news and politics
+DE,89,4458,golem.de,news and politics
+DE,90,4508,wiwo.de,news and politics
+DE,91,4599,dlr.de,news and politics
+DE,92,4603,berlios.de,
+DE,93,4605,uni-trier.de,commerce
+DE,94,4706,arbeitsagentur.de,news and politics
+DE,95,4738,lycos.de,
+DE,96,4852,mdr.de,news and politics
+DE,97,4932,uni-bielefeld.de,error
+DE,98,4959,destatis.de,news and politics
+DE,99,4966,myvideo.de,entertainment
+DE,100,4985,bundesregierung.de,news and politics
+DE,101,5008,presseportal.de,news and politics
+DE,102,5114,daserste.de,entertainment
+DE,103,5153,muenchen.de,news and politics
+DE,104,5163,deutschlandfunk.de,news and politics
+DE,105,5168,uni-karlsruhe.de,commerce
+DE,106,5169,telekom.de,commerce
+DE,107,5232,derwesten.de,news and politics
+DE,108,5242,abendblatt.de,news and politics
+DE,109,5243,test.de,news and politics
+DE,110,5255,morgenpost.de,news and politics
+DE,111,5285,daad.de,news and politics
+DE,112,5395,blog.de,news and politics
+DE,113,5407,tu-chemnitz.de,scholarship
+DE,114,5428,fr.de,
+DE,115,5503,bmwi.de,scholarship
+DE,116,5584,uni-wuerzburg.de,
+DE,117,5694,cebit.de,
+DE,118,5756,mastercard.de,
+DE,119,5882,snafu.de,
+DE,120,5993,uni-regensburg.de,
+DE,121,6028,ard.de,news and politics
+DE,122,6103,ksta.de,news and politics
+DE,123,6195,ardmediathek.de,news and politics
+DE,124,6291,giga.de,commerce
+DE,125,6304,motorola.de,
+DE,126,6311,pinterest.de,
+DE,127,6359,computerbild.de,news and politics
+DE,128,6426,uni-potsdam.de,
+DE,129,6429,uni-kl.de,
+DE,130,6443,uni-saarland.de,
+DE,131,6481,uni-konstanz.de,
+DE,132,6565,uni-jena.de,scholarship
+DE,133,6632,dradio.de,news and politics
+DE,134,6647,bmbf.de,
+DE,135,6706,berlinale.de,
+DE,136,6713,uni-ulm.de,scholarship
+DE,137,6716,uni-marburg.de,religion
+DE,138,6718,finanznachrichten.de,news and politics
+DE,139,6722,fr-online.de,news and politics
+DE,140,6818,berliner-zeitung.de,news and politics
+DE,141,6825,bpb.de,news and politics
+DE,142,6884,thomann.de,software
+DE,143,6889,uni-due.de,
+DE,144,6946,tripadvisor.de,entertainment
+DE,145,6985,wetteronline.de,software
+DE,146,6992,xobor.de,news and politics
+DE,147,6993,giz.de,scholarship
+DE,148,7008,augsburger-allgemeine.de,news and politics
+DE,149,7029,manager-magazin.de,news and politics
+DE,150,7051,akadem-ghostwriter.de,
+DE,151,7169,ihk.de,news and politics
+DE,152,7234,eventim.de,entertainment
+DE,153,7240,gwdg.de,
+DE,154,7270,kfw.de,
+DE,155,7318,uni-mannheim.de,religion
+DE,156,7357,prosieben.de,news and politics
+DE,157,7476,umweltbundesamt.de,news and politics
+DE,158,7534,hessen.de,
+DE,159,7633,3sat.de,news and politics
+DE,160,7643,denic.de,news and politics
+DE,161,7652,niedersachsen.de,
+DE,162,7653,uni-duesseldorf.de,scholarship
+DE,163,7669,domainname.de,
+DE,164,7697,kubik-rubik.de,
+DE,165,7717,uni-kassel.de,
+DE,166,7721,stuttgarter-zeitung.de,news and politics
+DE,167,7880,bundesbank.de,
+DE,168,7889,hosteurope.de,commerce
+DE,169,7953,adobe.de,
+DE,170,7964,duden.de,news and politics
+DE,171,7984,conrad.de,commerce
+DE,172,7996,merkur.de,news and politics
+DE,173,8005,badische-zeitung.de,news and politics
+DE,174,8016,hannovermesse.de,
+DE,175,8020,juris.de,
+DE,176,8029,br-online.de,entertainment
+DE,177,8062,autobild.de,news and politics
+DE,178,8072,uni-giessen.de,entertainment
+DE,179,8082,uni-halle.de,
+DE,180,8083,uni-bayreuth.de,
+DE,181,8084,facebook.de,news and politics
+DE,182,8174,deinprovider.de,
+DE,183,8195,juraforum.de,news and politics
+DE,184,8202,eventbrite.de,
+DE,185,8285,dfb.de,entertainment
+DE,186,8419,maxdome.de,software
+DE,187,8473,t3n.de,news and politics
+DE,188,8493,pcwelt.de,commerce
+DE,189,8502,rbb-online.de,news and politics
+DE,190,8577,glamour.de,entertainment
+DE,191,8587,sachsen.de,
+DE,192,8625,uni-oldenburg.de,commerce
+DE,193,8670,claida-immobilien.de,
+DE,194,8736,rlp.de,
+DE,195,8748,zdnet.de,commerce
+DE,196,8754,homepagemodules.de,news and politics
+DE,197,8788,bundesfinanzministerium.de,
+DE,198,8832,tu-bs.de,
+DE,199,8848,pic-upload.de,software
+DE,200,8861,kicker.de,news and politics
+ES,1,485,google.es,commerce
+ES,2,613,blogspot.com.es,entertainment
+ES,3,824,esy.es,porn
+ES,4,1054,elmundo.es,news and politics
+ES,5,1117,hol.es,entertainment
+ES,7,1496,abc.es,news and politics
+ES,8,1819,rtve.es,news and politics
+ES,9,2017,amazon.es,commerce
+ES,10,2209,upm.es,news and politics
+ES,11,2512,20minutos.es,news and politics
+ES,12,2887,csic.es,news and politics
+ES,13,2929,ucm.es,news and politics
+ES,14,3157,europapress.es,news and politics
+ES,15,3582,eleconomista.es,news and politics
+ES,16,3691,ugr.es,news and politics
+ES,17,3850,boe.es,news and politics
+ES,18,3994,uv.es,scholarship
+ES,19,4225,itun.es,software
+ES,20,4228,us.es,news and politics
+ES,21,4362,terra.es,news and politics
+ES,22,4545,mialojamiento.es,
+ES,23,4702,rae.es,news and politics
+ES,24,4749,cervantes.es,news and politics
+ES,25,4755,upv.es,news and politics
+ES,26,4840,diariodehuelva.es,
+ES,27,4926,eldiario.es,news and politics
+ES,28,5121,movistar.es,entertainment
+ES,29,5218,juntadeandalucia.es,news and politics
+ES,30,5228,unizar.es,news and politics
+ES,31,5287,enoavia.es,
+ES,32,5310,uam.es,news and politics
+ES,33,5396,uma.es,news and politics
+ES,34,5521,gva.es,news and politics
+ES,35,5910,webnode.es,commerce
+ES,36,5919,mcu.es,scholarship
+ES,37,5999,publico.es,news and politics
+ES,38,6398,tripadvisor.es,entertainment
+ES,39,6471,ifema.es,porn
+ES,40,6576,iespana.es,
+ES,41,6815,elcorteingles.es,commerce
+ES,42,6959,ua.es,scholarship
+ES,43,7125,lycos.es,
+ES,44,7198,um.es,news and politics
+ES,45,7256,lavozdegalicia.es,news and politics
+ES,46,7297,autocaravanastenerife.es,
+ES,47,7439,ehu.es,scholarship
+ES,48,7514,uab.es,
+ES,49,7603,usal.es,news and politics
+ES,50,7616,uc3m.es,
+ES,51,7620,ebay.es,commerce
+ES,52,7790,uvigo.es,
+ES,53,7871,telecinco.es,news and politics
+ES,54,7910,orange.es,commerce
+ES,55,8146,mec.es,news and politics
+ES,56,8160,sport.es,entertainment
+ES,57,8257,larazon.es,news and politics
+ES,58,8284,uva.es,
+ES,59,8527,shar.es,news and politics
+ES,60,8627,unirioja.es,news and politics
+ES,61,8929,ine.es,scholarship
+ES,62,9002,uned.es,scholarship
+ES,63,9070,uji.es,
+ES,64,9110,museodelprado.es,scholarship
+ES,65,9494,wanadoo.es,commerce
+ES,66,9787,xn--peabeticadecana-zqb.es,
+ES,67,9942,oldiestation.es,
+ES,68,10102,uniovi.es,
+ES,69,10114,consumer.es,news and politics
+ES,70,10155,4pets.es,
+ES,71,10304,que.es,news and politics
+ES,72,10496,uclm.es,
+ES,73,10705,pinterest.es,
+ES,74,10742,huffingtonpost.es,news and politics
+ES,75,10792,aena.es,commerce
+ES,76,10910,agpd.es,
+ES,77,11045,rediris.es,
+ES,78,11137,ub.es,news and politics
+ES,79,11154,lacaixa.es,news and politics
+ES,80,11221,usc.es,junk
+ES,81,11931,ideal.es,news and politics
+ES,82,12204,lasprovincias.es,news and politics
+ES,83,12344,mythem.es,
+ES,84,12624,ulpgc.es,
+ES,85,12645,jcyl.es,news and politics
+ES,86,12796,lne.es,news and politics
+ES,87,12847,educalo.es,
+ES,88,12877,navarra.es,scholarship
+ES,89,12878,uco.es,
+ES,90,12921,aemet.es,news and politics
+ES,91,12930,elpais.es,entertainment
+ES,92,12947,gacio.es,
+ES,93,12948,bne.es,
+ES,94,13035,blogspot.es,commerce
+ES,95,13200,gnap.es,
+ES,96,13398,laverdad.es,news and politics
+ES,97,13600,museoreinasofia.es,news and politics
+ES,98,13789,aragon.es,
+ES,99,13825,unav.es,porn
+ES,100,13892,arrakis.es,news and politics
+ES,101,13986,uib.es,
+ES,102,14083,madrid.es,news and politics
+ES,103,14124,diariosur.es,news and politics
+ES,104,14296,juanabellan.com.es,
+ES,105,14351,lavanguardia.es,news and politics
+ES,106,14399,xunta.es,news and politics
+ES,107,14486,nikeair-max.es,
+ES,108,14508,bcn.es,
+ES,109,14523,michael-kors.com.es,
+ES,110,14569,upc.es,
+ES,111,14579,omegas-relojes.es,
+ES,112,14790,ovh.es,commerce
+ES,113,15013,nike-airmax.es,
+ES,114,15071,rojadirecta.es,news and politics
+ES,115,15418,muyinteresante.es,junk
+ES,116,15419,cope.es,news and politics
+ES,117,15625,dgt.es,news and politics
+ES,118,15744,heraldo.es,news and politics
+ES,119,15861,unican.es,
+ES,120,16017,gewinnspiele.es,
+ES,121,16081,fnac.es,commerce
+ES,122,16178,uah.es,
+ES,123,16447,congreso.es,news and politics
+ES,124,16613,adofa.es,
+ES,125,16737,elcomercio.es,news and politics
+ES,126,16871,oakleys.org.es,
+ES,127,16887,renfe.es,news and politics
+ES,128,16913,cruzroja.es,
+ES,129,16982,raybans.org.es,
+ES,130,17030,guca.es,
+ES,131,17060,pulseraspandora.com.es,
+ES,132,17103,iac.es,
+ES,133,17104,adidasshoes.org.es,
+ES,134,17378,omega-relojes.es,
+ES,135,17424,travel-experience.es,
+ES,136,17549,deusto.es,
+ES,137,17555,urjc.es,
+ES,138,17667,eventbrite.es,
+ES,139,17687,vogue.es,news and politics
+ES,140,17689,unex.es,
+ES,141,17741,thelocal.es,news and politics
+ES,142,17858,farodevigo.es,news and politics
+ES,143,17878,seg-social.es,news and politics
+ES,144,17950,cerrajeriasaavedra.es,
+ES,145,18020,correos.es,entertainment
+ES,146,18161,ull.es,
+ES,147,18389,serdavi.es,
+ES,148,18573,uca.es,
+ES,149,18695,mejorensayo.es,
+ES,150,18855,adidas-shoes.es,
+ES,151,18985,canalsur.es,news and politics
+ES,152,19010,new-balanceshoes.es,
+ES,153,19060,elnortedecastilla.es,news and politics
+ES,154,19401,agenciatributaria.es,
+ES,155,19527,udc.es,
+ES,156,19538,bde.es,
+ES,157,19557,elle.es,commerce
+ES,158,19695,hoy.es,news and politics
+ES,159,19927,isciii.es,
+ES,160,20076,ondacero.es,news and politics
+ES,161,20360,educacion.es,news and politics
+ES,162,20383,paginasamarillas.es,news and politics
+ES,163,20606,actiweb.es,
+ES,164,20661,unileon.es,
+ES,165,21410,forointersectorial.es,
+ES,166,21465,odiseasport.es,
+ES,167,21659,guggenheim-bilbao.es,entertainment
+ES,168,21786,lovebyt.es,
+ES,169,21845,raspberryshop.es,
+ES,170,22017,creatuforo.es,
+ES,171,22046,laliga.es,entertainment
+ES,172,22236,trasplantedepeloforo.es,
+ES,173,22302,sonar.es,
+ES,174,22630,universia.es,
+ES,175,22899,parador.es,
+ES,176,23047,mens-app.es,
+ES,177,23236,eldia.es,news and politics
+ES,178,23241,daciaenmadrid.es,
+ES,179,23256,cnt.es,news and politics
+ES,180,23366,uhu.es,error
+ES,181,23371,eldiariomontanes.es,news and politics
+ES,182,23410,folturillo.com.es,
+ES,184,23441,gestionatuproyecto.es,
+ES,185,23514,nikeshoes.org.es,
+ES,186,23518,uecdn.es,
+ES,187,23648,ual.es,
+ES,188,23767,nike-rosherun.com.es,
+ES,189,23825,claytoneventos.es,
+ES,190,24074,teinteresa.es,news and politics
+ES,191,24107,msc.es,
+ES,192,24814,jccm.es,
+ES,193,25028,onforb.es,commerce
+ES,194,25262,caib.es,
+ES,195,25390,pawsarl.es,
+ES,196,25747,elsevier.es,
+ES,197,25949,diariodenavarra.es,software
+ES,198,25957,aukali.es,
+ES,199,26131,teranautas.es,
+ES,200,26194,trackingmi.es,
+ES,201,26195,nacva.es,
+ES,202,26210,anadelgado.es,
+FR,1,116,free.fr,commerce
+FR,2,359,google.fr,news and politics
+FR,4,439,blogspot.fr,entertainment
+FR,5,593,lemonde.fr,news and politics
+FR,7,813,lefigaro.fr,news and politics
+FR,8,902,amazon.fr,commerce
+FR,9,987,pagesperso-orange.fr,news and politics
+FR,10,1086,ec-lyon.fr,
+FR,11,1252,unblog.fr,news and politics
+FR,12,1374,wanadoo.fr,news and politics
+FR,13,1379,orange.fr,news and politics
+FR,14,1723,liberation.fr,news and politics
+FR,15,1777,rfi.fr,news and politics
+FR,16,1886,leparisien.fr,news and politics
+FR,17,1975,cnrs.fr,scholarship
+FR,18,2137,paris.fr,news and politics
+FR,19,2272,lexpress.fr,news and politics
+FR,20,2317,francetvinfo.fr,news and politics
+FR,21,2323,inria.fr,
+FR,22,2346,louvre.fr,scholarship
+FR,23,2400,lesechos.fr,news and politics
+FR,24,2452,bnf.fr,scholarship
+FR,25,2668,online.fr,commerce
+FR,26,2879,lycos.fr,news and politics
+FR,27,3086,iarc.fr,news and politics
+FR,28,3154,lepoint.fr,news and politics
+FR,29,3290,sfr.fr,news and politics
+FR,30,3298,tf1.fr,news and politics
+FR,31,3553,allocine.fr,news and politics
+FR,32,3717,20minutes.fr,news and politics
+FR,33,3743,cnil.fr,news and politics
+FR,35,4135,ouest-france.fr,news and politics
+FR,36,4332,service-public.fr,news and politics
+FR,37,4340,huffingtonpost.fr,news and politics
+FR,38,4427,ebay.fr,commerce
+FR,39,4483,voila.fr,news and politics
+FR,40,4521,lequipe.fr,entertainment
+FR,41,4665,france.fr,news and politics
+FR,42,4730,latribune.fr,news and politics
+FR,43,4784,webnode.fr,porn
+FR,44,5184,ens.fr,
+FR,45,5263,onlinehome.fr,junk
+FR,46,5275,culture.fr,
+FR,47,5336,letour.fr,entertainment
+FR,48,5382,jussieu.fr,
+FR,49,5406,europe1.fr,news and politics
+FR,50,5587,u-strasbg.fr,
+FR,51,5667,tripadvisor.fr,entertainment
+FR,52,5714,xooit.fr,news and politics
+FR,53,5843,centrepompidou.fr,news and politics
+FR,54,5848,handbrake.fr,commerce
+FR,55,5849,rtl.fr,news and politics
+FR,56,5879,inra.fr,news and politics
+FR,57,5943,assemblee-nationale.fr,news and politics
+FR,59,6089,ladepeche.fr,news and politics
+FR,60,6261,canalplus.fr,entertainment
+FR,61,6314,musee-orsay.fr,news and politics
+FR,62,6412,senat.fr,news and politics
+FR,63,6440,insee.fr,news and politics
+FR,64,6550,mycanal.fr,news and politics
+FR,65,6585,ina.fr,news and politics
+FR,66,6611,inist.fr,news and politics
+FR,67,6623,mediapart.fr,news and politics
+FR,68,6786,lci.fr,
+FR,69,7028,archives-ouvertes.fr,scholarship
+FR,70,7049,sudouest.fr,news and politics
+FR,71,7076,france3.fr,news and politics
+FR,72,7085,laposte.fr,commerce
+FR,73,7132,1and1.fr,commerce
+FR,74,7202,france2.fr,news and politics
+FR,75,7225,pagesjaunes.fr,error
+FR,76,7371,slate.fr,news and politics
+FR,77,7398,thelocal.fr,news and politics
+FR,78,7609,club-internet.fr,
+FR,79,7618,chez-alice.fr,
+FR,80,7628,franceinter.fr,news and politics
+FR,81,7708,challenges.fr,news and politics
+FR,82,7762,doctissimo.fr,scholarship
+FR,83,7856,elle.fr,entertainment
+FR,84,7863,unice.fr,
+FR,85,7902,ratp.fr,news and politics
+FR,86,7952,sante.fr,
+FR,87,8031,over-blog.fr,
+FR,88,8126,festival-cannes.fr,porn
+FR,89,8200,leboncoin.fr,news and politics
+FR,90,8223,mtxserv.fr,
+FR,91,8249,ens-lyon.fr,
+FR,92,8430,univ-lyon1.fr,error
+FR,93,8681,pinterest.fr,
+FR,94,8704,lejdd.fr,news and politics
+FR,95,8776,gouvernement.fr,news and politics
+FR,96,8792,lavoixdunord.fr,news and politics
+FR,97,8839,franceculture.fr,news and politics
+FR,98,8887,univ-paris5.fr,
+FR,99,8931,club.fr,
+FR,101,9052,telerama.fr,news and politics
+FR,102,9139,francebleu.fr,news and politics
+FR,103,9385,ademe.fr,news and politics
+FR,104,9410,monde-diplomatique.fr,news and politics
+FR,105,9436,cea.fr,scholarship
+FR,106,9439,mnhn.fr,entertainment
+FR,107,9572,elysee.fr,news and politics
+FR,108,9626,chateauversailles.fr,junk
+FR,109,9652,aol.fr,news and politics
+FR,110,9743,francetv.fr,news and politics
+FR,111,10153,radiofrance.fr,news and politics
+FR,112,10250,estores.fr,
+FR,113,10283,edf.fr,news and politics
+FR,114,10412,neuf.fr,
+FR,115,10641,larousse.fr,news and politics
+FR,116,10702,u-psud.fr,
+FR,117,10731,univ-paris1.fr,news and politics
+FR,118,11041,zdnet.fr,news and politics
+FR,119,11057,inserm.fr,scholarship
+FR,120,11061,pasteur.fr,news and politics
+FR,121,11119,onlc.fr,
+FR,122,11141,ntic.fr,
+FR,123,11173,archi.fr,junk
+FR,124,11243,cnam.fr,
+FR,125,11298,vogue.fr,news and politics
+FR,126,11337,colette.fr,
+FR,127,11506,obspm.fr,news and politics
+FR,128,11691,pole-emploi.fr,news and politics
+FR,129,11743,education.fr,news and politics
+FR,130,11798,letelegramme.fr,news and politics
+FR,131,11963,upmc.fr,
+FR,132,11967,cef.fr,
+FR,133,12002,sciencespo.fr,junk
+FR,134,12133,persee.fr,scholarship
+FR,135,12193,onlinefootballmanager.fr,
+FR,136,12247,psg.fr,news and politics
+FR,137,12421,eventbrite.fr,
+FR,138,12554,cirad.fr,
+FR,139,12666,franceinfo.fr,news and politics
+FR,140,12766,livehost.fr,
+FR,141,12788,humanite.fr,news and politics
+FR,142,12874,doudounemonclerpascher.fr,
+FR,143,13077,leprogres.fr,news and politics
+FR,144,13208,univ-rennes1.fr,
+FR,145,13308,midilibre.fr,news and politics
+FR,146,13453,univ-mrs.fr,
+FR,147,13479,unicaen.fr,porn
+FR,148,13639,monsite-orange.fr,
+FR,149,13709,univ-nantes.fr,
+FR,150,13734,airfrance.fr,commerce
+FR,151,13755,ameli.fr,commerce
+FR,152,13942,cite-sciences.fr,
+FR,153,14036,uggsaustralia.fr,
+FR,154,14195,imag.fr,
+FR,155,14201,atlantico.fr,news and politics
+FR,156,14289,capital.fr,news and politics
+FR,157,14337,eklablog.fr,commerce
+FR,158,14364,djyako.fr,
+FR,159,14415,letudiant.fr,news and politics
+FR,160,14476,scooterchinois.fr,
+FR,161,14544,uggs-boots.fr,
+FR,162,14644,6play.fr,news and politics
+FR,163,14683,unistra.fr,
+FR,164,14745,tomsguide.fr,software
+FR,165,14826,premiere.fr,entertainment
+FR,166,14846,sciencesetavenir.fr,news and politics
+FR,167,14861,metronews.fr,news and politics
+FR,168,14880,spiruline-oi.fr,
+FR,169,14930,banque-france.fr,
+FR,170,15054,cnes.fr,
+FR,171,15061,catholique.fr,
+FR,172,15064,france5.fr,news and politics
+FR,173,15271,u-bordeaux.fr,
+FR,174,15274,besanconkid.fr,
+FR,175,15409,marieclaire.fr,news and politics
+FR,176,15535,loria.fr,
+FR,177,15587,polytechnique.fr,
+FR,178,15599,parisaeroport.fr,
+FR,179,15756,carrefour.fr,junk
+FR,180,16133,hellocoton.fr,news and politics
+FR,181,16135,caf.fr,news and politics
+FR,182,16149,univ-paris-diderot.fr,
+FR,183,16197,mmi-lepuy.fr,
+FR,184,16255,eurosport.fr,entertainment
+FR,185,16431,monuments-nationaux.fr,
+FR,186,16735,ircam.fr,news and politics
+FR,187,16843,ac-grenoble.fr,news and politics
+FR,188,16955,fff.fr,news and politics
+FR,189,17073,operadeparis.fr,
+FR,190,17203,typepad.fr,
+FR,191,17290,dauphine.fr,
+FR,192,17300,in2p3.fr,
+FR,193,17371,ralphlauren-pascher.fr,
+FR,194,17373,businessinsider.fr,
+FR,195,17390,tiscali.fr,
+FR,196,17526,ujf-grenoble.fr,
+FR,197,17633,sciences-po.fr,
+FR,198,17740,ird.fr,news and politics
+FR,199,17748,comptacloud.fr,
+FR,200,17817,scoutsdelaroche.fr,
+FR,201,17924,sorbonne.fr,
+FR,202,17940,agoravox.fr,news and politics
+FR,203,17978,univ-lille1.fr,error
+FR,204,17987,dinovia.fr,
+FR,205,18057,beteavone.fr,
+GR,1,2871,sch.gr,entertainment
+GR,2,3190,blogspot.gr,entertainment
+GR,3,3673,ntua.gr,commerce
+GR,4,3879,auth.gr,entertainment
+GR,5,4662,google.gr,entertainment
+GR,6,5726,ionio.gr,software
+GR,7,6532,uoa.gr,entertainment
+GR,8,7035,upatras.gr,
+GR,9,7754,uoi.gr,
+GR,10,8105,otenet.gr,commerce
+GR,11,9876,forth.gr,
+GR,12,10528,itn-horeca.gr,
+GR,13,13293,uoc.gr,
+GR,14,13426,ert.gr,news and politics
+GR,15,13460,inpatmos.gr,
+GR,16,14112,hotelsissy.gr,
+GR,17,16505,kathimerini.gr,news and politics
+GR,18,16771,visitgreece.gr,
+GR,19,16806,culture.gr,
+GR,20,16861,protothema.gr,news and politics
+GR,21,18297,tovima.gr,news and politics
+GR,22,18936,melissasthaumata.gr,
+GR,23,19152,mfa.gr,news and politics
+GR,24,19429,mostro.gr,
+GR,25,19599,euroma.gr,
+GR,26,19875,praksisemployability.gr,
+GR,27,20700,viacon.gr,
+GR,28,20991,in.gr,news and politics
+GR,29,21856,uom.gr,
+GR,30,22193,campingalphios.gr,
+GR,31,22869,aueb.gr,
+GR,32,23673,invest.com.gr,
+GR,33,24196,atromitosmet.gr,
+GR,34,24201,forthnet.gr,
+GR,35,24264,enudreio.gr,
+GR,36,24366,digisec.gr,
+GR,37,24485,plethro.gr,
+GR,38,24950,pblogs.gr,entertainment
+GR,39,25117,impanagiotopoulos.gr,
+GR,40,25632,paramarketing.gr,commerce
+GR,41,27710,olp.gr,
+GR,42,27988,pathfinder.gr,entertainment
+GR,43,28280,haris-hotel.gr,
+GR,44,28441,georgiosdaravalis.gr,
+GR,45,28794,femens.gr,
+GR,46,29039,ourania-hliadou.gr,
+GR,47,29053,sportgate.gr,
+GR,48,29170,aegean.gr,
+GR,49,29286,epidavros.gr,
+GR,50,29884,panglis.gr,
+GR,51,30943,tanea.gr,junk
+GR,52,31559,orthodontic-zaparas.gr,
+GR,53,31862,skai.gr,news and politics
+GR,54,32025,amna.gr,commerce
+GR,55,32054,dentoplan.gr,
+GR,56,32136,prolead.gr,
+GR,57,32441,thermometro.gr,
+GR,58,33466,patonis.gr,
+GR,59,33621,naftemporiki.gr,news and politics
+GR,60,34421,sdikigoria.gr,
+GR,61,34678,ble.gr,
+GR,62,34771,epszakynthou.gr,
+GR,63,35640,imbrostavern.gr,
+GR,64,36102,aeath.gr,
+GR,65,36563,andriustours.gr,
+GR,66,37589,duth.gr,
+GR,67,38660,iefimerida.gr,entertainment
+GR,68,38939,greekfolkart.gr,
+GR,69,38963,madacom.gr,
+GR,70,39141,kosvoyannis.gr,
+GR,71,39273,capital.gr,news and politics
+GR,72,39445,uth.gr,
+GR,73,39551,spirito.gr,
+GR,74,40312,hol.gr,
+GR,75,40317,lifo.gr,entertainment
+GR,76,40380,balltime.gr,
+GR,77,40409,sait-a.gr,
+GR,78,41298,enet.gr,news and politics
+GR,79,41423,focuswebtv.gr,
+GR,80,41610,slinardos.gr,
+GR,81,41640,ethnos.gr,news and politics
+GR,82,41789,yalishotel.gr,
+GR,83,41815,aokfc.gr,
+GR,84,41847,aia.gr,
+GR,85,41877,greekdiamondproperties.gr,
+GR,86,42088,kavala-sports.gr,
+GR,87,43074,eap.gr,
+GR,88,43881,minedu.gov.gr,
+GR,89,43888,creativityfilms.gr,
+GR,90,45347,tourmpoules.gr,
+GR,91,45872,agroktisma.gr,
+GR,92,46046,zougla.gr,news and politics
+GR,93,46570,varvarezou.gr,
+GR,94,47699,omegatechnology.gr,
+GR,95,47757,festivals.gr,
+GR,96,48173,iliohamogelo.gr,
+GR,97,48514,ypes.gr,
+GR,98,49169,makrismotors.gr,
+GR,99,49618,newsbeast.gr,news and politics
+GR,100,50021,news247.gr,news and politics
+GR,101,50593,theacropolismuseum.gr,
+GR,102,50688,dkonstantopoulos.gr,
+GR,103,51585,drmitsonis.gr,
+GR,104,52752,asopdias.gr,
+GR,105,52921,unipi.gr,
+GR,106,54227,hellenicparliament.gr,
+GR,107,54519,atmistirio.gr,
+GR,108,54648,hantesbikes.gr,
+GR,109,54725,bankofgreece.gr,
+GR,110,54934,mydiatrofi.gr,
+GR,111,54975,dafmoulas.gr,
+GR,112,55031,forumup.gr,
+GR,113,55134,agathonas.gr,
+GR,114,55994,newsbomb.gr,news and politics
+GR,115,56036,apogee.com.gr,
+GR,116,56042,paradoxic-paragraphs.gr,
+GR,117,56095,statistics.gr,entertainment
+GR,118,56198,gtp.gr,entertainment
+GR,119,56493,gazzetta.gr,junk
+GR,120,56992,fordfiestaclub.gr,
+GR,121,58640,hvogiatzis.gr,
+GR,122,58916,newyorkactingstudio.gr,
+GR,123,59142,michelarakis.gr,
+GR,124,59784,tuc.gr,
+GR,125,59905,topsites.gr,
+GR,126,60739,palla.gr,
+GR,127,61449,digicell.gr,
+GR,128,61540,iris.net.gr,
+GR,129,61551,erfc.gr,
+GR,130,61715,imerisia-ver.gr,
+GR,131,62229,campingdias.gr,
+GR,132,62318,portearmee.gr,
+GR,133,62483,ecucinekolonelos.gr,
+GR,134,62768,kostas-iakovou.gr,
+GR,135,64085,e-nutri.gr,
+GR,136,64888,gsev.gr,
+GR,137,64991,saligari-snail.gr,
+GR,138,65615,samarasstelios.gr,
+GR,139,65666,rafes.gr,
+GR,140,65967,meteo.gr,entertainment
+GR,141,66908,korifisuites.gr,
+GR,142,67140,webnode.gr,commerce
+GR,143,67767,marfi-marine.gr,
+GR,144,68114,fragkos.gr,
+GR,145,68363,destylehome.gr,
+GR,146,68422,relation.gr,
+GR,147,68425,sxedio-b.gr,
+GR,148,68725,iguanagold.gr,
+GR,149,68796,newsit.gr,news and politics
+GR,150,69031,fibran.gr,
+GR,151,69258,volcanoblue.gr,
+GR,152,69276,welltherm.com.gr,
+GR,153,69346,sport24.gr,entertainment
+GR,154,69396,gnto.gov.gr,
+GR,155,69500,lefkadasoccerclub.gr,
+GR,156,69668,tetras-consult.gr,
+GR,157,70198,thetoc.gr,news and politics
+GR,158,70897,apostolides.gr,
+GR,159,70987,demokritos.gr,
+GR,160,71075,gallery.gr,
+GR,161,71119,agriniofans.gr,
+GR,162,71877,dermatina100.gr,
+GR,163,72740,triantafyllou-stathis.gr,
+GR,164,72819,tzakia-karagiannakos.gr,
+GR,165,73496,vgt.gr,
+GR,166,73508,avaton.com.gr,
+GR,167,74127,eplant.gr,
+GR,168,74470,piraeusbank.gr,commerce
+GR,169,74866,chiosfood.gr,
+GR,170,74945,unitedbrands.gr,
+GR,171,75014,pallinotropio.gr,
+GR,172,75437,ekka.gr,
+GR,173,75513,smartpharmacy.gr,
+GR,174,75524,oaed.gr,software
+GR,175,75658,efsyn.gr,
+GR,176,75719,solgio.gr,
+GR,177,76091,imerisia.gr,news and politics
+GR,178,77044,deya-festos.gr,
+GR,179,77646,dpsalimou.gr,
+GR,180,78336,palo.gr,
+GR,181,78394,adoos.com.gr,
+GR,182,78535,antenna.gr,news and politics
+GR,183,78895,noa.gr,
+GR,184,79323,benaki.gr,
+GR,185,79324,ekt.gr,
+GR,186,80095,grnet.gr,commerce
+GR,187,80284,nikis-cs.gr,
+GR,188,80544,letrina-travel.gr,
+GR,189,80557,transmission.com.gr,
+GR,190,80841,ethnegersia.gr,
+GR,191,81273,makedoniki-properties.gr,
+GR,192,81691,proaccess.gr,
+GR,193,81900,tvxs.gr,news and politics
+GR,194,82959,datum.com.gr,
+GR,195,83233,huffingtonpost.gr,
+GR,196,83237,gntaskas.gr,
+GR,197,83427,euro2day.gr,news and politics
+GR,198,83871,prokirixi.gr,
+GR,199,84186,athinapapadaki.gr,
+GR,200,84511,viva.gr,
+HU,1,2193,pe.hu,
+HU,2,2948,sxc.hu,news and politics
+HU,3,3481,atw.hu,commerce
+HU,4,3923,uw.hu,
+HU,5,4947,elte.hu,
+HU,6,5013,blog.hu,news and politics
+HU,7,5347,google.hu,commerce
+HU,8,6054,bme.hu,
+HU,9,6121,mplayerhq.hu,
+HU,10,7647,blogspot.hu,entertainment
+HU,11,10046,extra.hu,
+HU,12,10245,index.hu,news and politics
+HU,13,10431,u-szeged.hu,
+HU,14,11113,wga.hu,junk
+HU,15,12565,sulinet.hu,scholarship
+HU,16,14303,ininet.hu,
+HU,17,14598,kormany.hu,news and politics
+HU,18,14867,kfki.hu,religion
+HU,19,16166,sztaki.hu,news and politics
+HU,20,16713,ceu.hu,
+HU,21,16957,origo.hu,news and politics
+HU,22,17059,battanet.hu,
+HU,23,17326,unideb.hu,
+HU,24,17355,nhely.hu,
+HU,25,17484,freeweb.hu,entertainment
+HU,26,18104,funpic.hu,commerce
+HU,27,18743,nyf.hu,
+HU,28,20523,zsiraf.hu,
+HU,29,20739,egaming.hu,
+HU,30,21211,centrumnet.hu,
+HU,31,22280,gportal.hu,news and politics
+HU,33,22851,fw.hu,
+HU,34,23731,elektro-kamleithner.hu,
+HU,35,24042,freeblog.hu,entertainment
+HU,36,24131,engventure.hu,
+HU,37,24334,iif.hu,
+HU,38,24854,pte.hu,
+HU,39,24937,lugosinagy.hu,
+HU,40,24961,freelove.hu,news and politics
+HU,41,25599,oszk.hu,
+HU,42,26401,videa.hu,news and politics
+HU,43,26679,fenyofa01.hu,
+HU,44,28699,hvg.hu,news and politics
+HU,45,28838,forpsi.hu,
+HU,46,30067,mfa.gov.hu,news and politics
+HU,48,30812,budafokibolgarok.hu,
+HU,49,31593,blogger.hu,
+HU,50,32066,mno.hu,news and politics
+HU,51,33230,kineziologia-szennyai.hu,
+HU,52,33745,szecsoiskola.hu,
+HU,53,35077,maricsekteam.hu,
+HU,54,36293,mente.hu,
+HU,55,36303,reformatus.hu,
+HU,56,36565,c3.hu,scholarship
+HU,57,36888,sportdieta.hu,
+HU,58,37321,ferolak.hu,
+HU,59,38592,destiny2.hu,
+HU,60,39239,goodboy.hu,
+HU,61,39928,indavideo.hu,news and politics
+HU,62,40129,24.hu,
+HU,63,40161,lap.hu,news and politics
+HU,64,41001,ize.hu,news and politics
+HU,65,41241,mta.hu,news and politics
+HU,66,41854,site.hu,
+HU,67,42394,nol.hu,news and politics
+HU,68,42570,rsoe.hu,
+HU,69,44440,ferenczporta.hu,
+HU,70,44477,ujfehertoref.hu,
+HU,71,45203,uni-miskolc.hu,news and politics
+HU,72,46165,szentgyorgypince.hu,
+HU,73,46707,bodysport.hu,
+HU,74,46808,tdmagazin.hu,
+HU,75,47143,sziget.hu,news and politics
+HU,76,47419,fekidosz.hu,
+HU,77,47730,kollagenkave.hu,
+HU,78,48781,bbj.hu,news and politics
+HU,79,48988,visitheviz.hu,
+HU,80,49250,varius.hu,
+HU,81,49814,mindenkilapja.hu,commerce
+HU,82,50334,ranoi.hu,
+HU,83,51743,eoldal.hu,
+HU,84,52204,kertlak.hu,
+HU,85,52245,nyugat.hu,news and politics
+HU,86,52539,mnb.hu,news and politics
+HU,87,52620,dothub.hu,
+HU,88,53884,holnapunk.hu,
+HU,89,54346,dietasarok.hu,
+HU,90,54394,kepfeltoltes.hu,commerce
+HU,91,55090,kodalykollegium.hu,
+HU,92,55145,budapestinfo.hu,news and politics
+HU,93,55798,webnode.hu,commerce
+HU,94,56416,pharmagitagyogyszertar.hu,
+HU,95,56448,hetibetevo.hu,
+HU,96,56523,cafeblog.hu,entertainment
+HU,97,56821,kisbiroholding.hu,
+HU,98,58669,mome.hu,
+HU,99,58696,oroshaza.hu,
+HU,100,58827,mezeitunde.hu,
+HU,101,59484,schnauzermentes.hu,
+HU,102,61340,zagagro.hu,
+HU,103,61592,parlament.hu,news and politics
+HU,104,61812,hirado.hu,commerce
+HU,105,61826,t-online.hu,error
+HU,106,61912,h2omagazin.hu,
+HU,107,62077,tuticuccok.hu,
+HU,108,62150,ruhaoutlet.hu,
+HU,109,62325,karpitszerviz.hu,
+HU,110,62880,5percado.hu,
+HU,111,63196,worx.hu,
+HU,112,63417,cleverproducts.hu,
+HU,113,63517,ksh.hu,news and politics
+HU,114,63962,gaalweb.hu,
+HU,115,64561,brokermonitor.hu,
+HU,116,64678,comfortapartments.hu,
+HU,117,65699,444.hu,news and politics
+HU,118,66106,portfolio.hu,news and politics
+HU,119,66200,edupc.hu,
+HU,120,66263,drhalasiugyved.hu,
+HU,121,66723,drh.hu,
+HU,122,67495,diginyomda.hu,
+HU,123,67665,underbosskft.hu,
+HU,124,68298,intellio.hu,
+HU,125,68484,bud.hu,commerce
+HU,126,68857,uni-corvinus.hu,
+HU,127,68949,lucfalva.hu,
+HU,128,69734,vasalovarazs.hu,
+HU,129,70126,nlcafe.hu,news and politics
+HU,130,70387,x3.hu,
+HU,131,70403,nomadiapark.hu,
+HU,132,70516,liontech.hu,
+HU,133,71384,triaszgep.hu,
+HU,134,71918,budapest.hu,news and politics
+HU,135,72446,kurkumin.hu,
+HU,136,73100,met.hu,news and politics
+HU,137,73851,netdieta.hu,
+HU,138,74740,vallalkozoinegyed.hu,junk
+HU,139,74747,balassiintezet.hu,
+HU,140,75920,florahaz.hu,
+HU,141,75947,mimi.hu,
+HU,142,76108,angoltanulasonline.hu,
+HU,143,76214,csillagszuletik.hu,
+HU,144,76540,blikk.hu,news and politics
+HU,145,77307,agroservice.hu,
+HU,146,77895,medvekuria.hu,
+HU,147,78032,hubaz.hu,
+HU,148,78449,carmen.hu,
+HU,149,79962,lovasok.hu,
+HU,150,79982,3millioforint.hu,
+HU,151,80472,krill-olaj.hu,
+HU,152,81042,hencidatanc.hu,
+HU,153,81772,hupont.hu,
+HU,154,82082,technoprodukt.hu,
+HU,155,82479,mme.hu,
+HU,156,83108,jogtar.hu,
+HU,157,83253,tabuladesign.hu,
+HU,158,83986,tlap.hu,
+HU,159,85082,aliscabrassband.hu,
+HU,160,85205,mediaklikk.hu,news and politics
+HU,161,85957,ertedmegyek.hu,
+HU,162,86006,mecsektanc.hu,
+HU,163,86352,port.hu,news and politics
+HU,164,86379,df57.hu,
+HU,165,87074,szmikus.hu,
+HU,166,87421,grannys.hu,
+HU,167,87612,powerbuilder.hu,
+HU,168,87931,magyarorszag.hu,scholarship
+HU,169,87962,csobad.hu,
+HU,170,88159,dzsingiszd.hu,
+HU,171,88242,csopakinyaralo.hu,
+HU,172,88530,terebess.hu,religion
+HU,173,88907,tudasterelmelet.hu,
+HU,174,89014,geoflame.hu,
+HU,175,89016,petcomkft.hu,
+HU,176,89468,markicsaba.hu,
+HU,177,89937,levinson-star.hu,
+HU,178,90014,openhobby.hu,
+HU,179,90275,nemzetisport.hu,news and politics
+HU,180,90289,kingapartments.hu,
+HU,181,90559,bdcool.hu,
+HU,182,90761,rostkave.hu,
+HU,183,91366,petrassydr.hu,
+HU,184,91558,tokajikonyvtar.hu,
+HU,185,91739,delfinjogsi.hu,
+HU,186,91853,utanfutopark.hu,
+HU,187,91910,magyarhirlap.hu,news and politics
+HU,188,92013,jofogas.hu,news and politics
+HU,189,92099,mti.hu,commerce
+HU,190,93033,mandounion.hu,
+HU,191,93467,paradoxmagyarorszag.hu,
+HU,192,93548,bkv.hu,
+HU,193,93723,proinf.hu,
+HU,194,93928,yachtegylet.hu,
+HU,195,94057,nyme.hu,
+HU,196,94398,siocamping.hu,
+HU,197,94631,srta.hu,
+HU,198,95153,bui.hu,
+HU,199,95375,botanicus-budapest.hu,
+HU,200,95795,tmfriends.hu,
+HU,201,95849,ingatlanbaja.hu,
+HU,202,96186,merck-laboreszkoz.hu,
+IT,1,521,google.it,entertainment
+IT,2,621,scoop.it,commerce
+IT,3,890,blogspot.it,entertainment
+IT,4,1043,repubblica.it,news and politics
+IT,5,1330,corriere.it,news and politics
+IT,6,1526,libero.it,news and politics
+IT,7,1638,smarturl.it,entertainment
+IT,8,2267,lastampa.it,news and politics
+IT,9,2324,amazon.it,commerce
+IT,10,2336,rai.it,entertainment
+IT,11,2445,esteri.it,news and politics
+IT,12,2531,ansa.it,news and politics
+IT,13,2537,tiscali.it,commerce
+IT,14,2642,cnr.it,
+IT,15,2789,virgilio.it,news and politics
+IT,16,2936,unibo.it,scholarship
+IT,17,3227,beniculturali.it,news and politics
+IT,18,3731,gazzetta.it,entertainment
+IT,19,3742,justpaste.it,news and politics
+IT,20,3823,uniroma1.it,entertainment
+IT,21,3922,unimi.it,entertainment
+IT,22,4138,ebay.it,commerce
+IT,23,4430,polimi.it,entertainment
+IT,24,4619,unipi.it,
+IT,25,4636,redd.it,commerce
+IT,26,4803,chilp.it,commerce
+IT,27,4826,mediaset.it,entertainment
+IT,31,5480,unipd.it,news and politics
+IT,34,5725,garanteprivacy.it,
+IT,35,5828,infn.it,
+IT,36,6055,monmar.it,
+IT,37,6114,minikami.it,
+IT,38,6135,bitcoin.it,software
+IT,39,6193,gelocal.it,error
+IT,40,6196,unige.it,
+IT,41,6346,cooplareggia.it,
+IT,43,6434,forumup.it,software
+IT,44,6460,tripadvisor.it,entertainment
+IT,45,6486,unina.it,entertainment
+IT,46,6731,unito.it,news and politics
+IT,47,6735,unifi.it,
+IT,48,6741,giovaniconnection.it,
+IT,50,6967,vogue.it,news and politics
+IT,51,7002,ilfattoquotidiano.it,news and politics
+IT,52,7006,binged.it,scholarship
+IT,53,7014,sky.it,commerce
+IT,54,7086,polito.it,news and politics
+IT,55,7189,ciccarelli1930.it,
+IT,56,7192,lasoracesira.it,
+IT,57,7413,ilgiornale.it,junk
+IT,58,7466,alice.it,error
+IT,60,7508,thunderclap.it,commerce
+IT,61,7741,kataweb.it,news and politics
+IT,62,7760,spettacolovivo.it,
+IT,63,7862,unitn.it,scholarship
+IT,65,7920,register.it,commerce
+IT,66,8051,amatodemolizioni.it,
+IT,67,8087,spuntiespuntini.it,
+IT,68,8218,placehold.it,porn
+IT,69,8305,mangiareperdimagrire.it,
+IT,70,8397,consulenzeeservizialleimpreseeaziende.it,
+IT,73,8568,mediazioniapec.it,
+IT,74,8720,bonex.it,
+IT,75,8731,camera.it,news and politics
+IT,76,8734,ilmessaggero.it,news and politics
+IT,77,8743,xoom.it,
+IT,78,8755,governo.it,news and politics
+IT,79,8756,viveremontese.it,
+IT,80,9081,i.redd.it,
+IT,81,9158,myblog.it,entertainment
+IT,82,9197,oliocopar.it,
+IT,83,9387,agi.it,news and politics
+IT,84,9473,seiconsulting.it,
+IT,85,9641,forumfree.it,error
+IT,86,9664,weddinggayfriendly.it,
+IT,87,9695,istat.it,
+IT,88,9902,decorgarden.it,
+IT,89,9913,royalgardenrc.it,
+IT,90,9934,autogm.it,
+IT,91,10031,panorama.it,entertainment
+IT,92,10036,domenicomagnifica.it,
+IT,93,10099,uniroma3.it,
+IT,94,10140,visevi.it,
+IT,95,10144,curellamarmi.it,
+IT,96,10290,villaggiodeimiceti.it,
+IT,97,10300,hsambiente.it,
+IT,99,10377,trestoremolise.it,
+IT,100,10474,coccoliomc.it,
+IT,102,10590,rainews.it,entertainment
+IT,103,10602,istruzione.it,scholarship
+IT,104,10717,dlvr.it,news and politics
+IT,105,10748,rioneportamarina.it,
+IT,106,10749,blucobalto.it,
+IT,107,10796,accademiagoccediluce.it,
+IT,108,10850,enzoallegri.it,
+IT,109,10899,brigantesrl.it,
+IT,110,11071,rutulicantores.it,
+IT,111,11103,cattedralepozzuoli.it,
+IT,113,11122,gianfratecarnipregiate.it,
+IT,114,11155,parcheggiromatiburtina.it,
+IT,116,11251,vetriolovenerdisanto.it,
+IT,117,11264,gazzettaufficiale.it,
+IT,118,11335,azzurrochevalore.it,
+IT,119,11346,unive.it,
+IT,121,11467,casajungla.it,
+IT,122,11556,proandpro.it,
+IT,123,11582,quasarsinduno.it,
+IT,124,11598,associazione3h.it,
+IT,125,11614,inter.it,entertainment
+IT,126,11637,associazioneridere.it,
+IT,127,11656,italia.it,
+IT,128,11681,verticalview.it,
+IT,129,11733,aruba.it,commerce
+IT,130,11746,ilmeteo.it,commerce
+IT,131,11749,wired.it,news and politics
+IT,132,11805,crceramiche.it,
+IT,133,11883,camcom.it,scholarship
+IT,134,12106,bedandbreakfastcasamalerba.it,
+IT,135,12197,esteticaannaclub.it,
+IT,136,12202,associazionehombre.it,
+IT,137,12237,masiglass.it,
+IT,138,12297,clyp.it,
+IT,139,12433,fisioterapiastaf.it,
+IT,140,12463,asianews.it,religion
+IT,141,12492,radiologiaoncologica.it,
+IT,142,12535,hotel-montecarlo.it,
+IT,143,12578,sannicolac5.it,
+IT,144,12622,studio-blu.it,
+IT,145,12628,pssvigilanza.it,
+IT,146,12637,tizianacatanzani.it,
+IT,147,12780,ibs.it,commerce
+IT,148,12825,1ru.it,
+IT,149,12870,uniroma2.it,
+IT,150,12902,huffingtonpost.it,news and politics
+IT,151,13016,giuseppevenezia.it,
+IT,152,13075,salute.gov.it,
+IT,153,13079,potenzameteo.it,
+IT,154,13136,webnode.it,
+IT,155,13160,agenziaentrate.gov.it,news and politics
+IT,156,13340,thelocal.it,
+IT,157,13358,azionesorriso.it,
+IT,158,13388,assisicamereclaudio.it,
+IT,159,13397,treccani.it,scholarship
+IT,160,13529,enea.it,
+IT,161,13646,paginegialle.it,commerce
+IT,162,13653,tim.it,software
+IT,163,13672,carpinoanna.it,
+IT,165,13708,unipr.it,
+IT,166,13741,iol.it,
+IT,167,13774,poste.it,commerce
+IT,168,13835,studiodentisticocesanoboscone.it,
+IT,169,13865,areapostel.it,
+IT,170,13889,ircerassuntarecanati.it,
+IT,171,13901,corrieredellosport.it,entertainment
+IT,172,13926,zappiens.it,
+IT,173,14123,unisi.it,
+IT,174,14223,cineca.it,scholarship
+IT,175,14247,senato.it,junk
+IT,176,14272,eventbrite.it,
+IT,177,14323,inps.it,news and politics
+IT,179,14330,walserdesign.it,
+IT,180,14333,pin.it,
+IT,181,14420,circuitpsgminibasket.it,
+IT,182,14585,leonardo.it,news and politics
+IT,183,14653,agriverdesa.it,
+IT,184,14712,lafiaccoladellapace.it,
+IT,185,14767,supereva.it,
+IT,186,14857,lycos.it,
+IT,187,14944,ticketone.it,entertainment
+IT,188,14960,yhoo.it,news and politics
+IT,190,15011,lookweb.it,
+IT,191,15037,ilpost.it,news and politics
+IT,192,15108,webalice.it,news and politics
+IT,194,15200,ugodambrosi.it,
+IT,195,15278,unibz.it,
+IT,196,15301,azaabsolute.it,
+IT,197,15354,oneminutesite.it,
+IT,198,15362,sicipiscine.it,
+IT,199,15407,unicas.it,
+IT,200,15441,elitexecutive.it,
+IT,201,15445,rockpop60.it,
+IT,204,15679,quamsi.it,
+IT,205,15711,t-nails.it,
+IT,206,15868,fanpage.it,news and politics
+IT,207,16007,mymovies.it,error
+IT,208,16022,basketsanmichele.it,
+IT,210,16103,html.it,software
+IT,211,16183,unipv.it,
+IT,212,16218,parcomonsignore.it,
+IT,213,16261,agtmi.it,
+IT,214,16337,difesa.it,
+IT,215,16512,gelateriacortese.it,
+IT,216,16590,unict.it,
+IT,217,16765,m-point.it,
+IT,218,16865,pasticcerialibutti.it,
+IT,219,16940,pallanuotolecco.it,
+IT,221,17219,ovh.it,commerce
+IT,222,17268,poliziadistato.it,news and politics
+IT,224,17314,beppegrillo.it,news and politics
+IT,225,17465,unical.it,
+JP,1,412,yahoo.co.jp,entertainment
+JP,2,424,sakura.ne.jp,software
+JP,3,536,google.co.jp,entertainment
+JP,4,624,hatena.ne.jp,news and politics
+JP,5,642,amazon.co.jp,commerce
+JP,6,659,biglobe.ne.jp,news and politics
+JP,7,688,rakuten.co.jp,commerce
+JP,8,713,ameblo.jp,entertainment
+JP,9,868,geocities.jp,news and politics
+JP,10,959,goo.ne.jp,entertainment
+JP,11,1029,japantimes.co.jp,news and politics
+JP,12,1050,nhk.or.jp,entertainment
+JP,13,1134,livedoor.jp,
+JP,14,1249,blogspot.jp,entertainment
+JP,15,1262,blog.livedoor.jp,entertainment
+JP,16,1289,u-tokyo.ac.jp,scholarship
+JP,17,1297,b.hatena.ne.jp,news and politics
+JP,18,1407,exblog.jp,news and politics
+JP,19,1521,so-net.ne.jp,news and politics
+JP,20,1662,ocn.ne.jp,news and politics
+JP,21,1666,main.jp,software
+JP,22,1702,infoseek.co.jp,software
+JP,23,1812,nikkeibp.co.jp,news and politics
+JP,24,1943,plala.or.jp,commerce
+JP,25,2065,yomiuri.co.jp,news and politics
+JP,26,2126,jugem.jp,entertainment
+JP,27,2191,kyoto-u.ac.jp,scholarship
+JP,28,2208,jst.go.jp,news and politics
+JP,29,2245,impress.co.jp,junk
+JP,30,2322,nicovideo.jp,entertainment
+JP,31,2362,naver.jp,news and politics
+JP,33,2563,dion.ne.jp,commerce
+JP,34,2622,japanpost.jp,news and politics
+JP,35,2631,emb-japan.go.jp,error
+JP,36,2697,hi-ho.ne.jp,commerce
+JP,37,2796,mainichi.jp,news and politics
+JP,38,2843,mynavi.jp,entertainment
+JP,39,2852,coocan.jp,software
+JP,40,2940,mhlw.go.jp,scholarship
+JP,41,2951,excite.co.jp,entertainment
+JP,42,2982,keio.ac.jp,news and politics
+JP,43,3035,geocities.co.jp,news and politics
+JP,44,3156,mlit.go.jp,news and politics
+JP,45,3171,www.ne.jp,
+JP,46,3196,mofa.go.jp,news and politics
+JP,47,3265,meti.go.jp,news and politics
+JP,48,3282,softbank.jp,news and politics
+JP,49,3285,asahi-net.or.jp,news and politics
+JP,50,3342,xsrv.jp,junk
+JP,51,3398,shop-pro.jp,entertainment
+JP,52,3530,nttdocomo.co.jp,news and politics
+JP,53,3581,nikkei.co.jp,news and politics
+JP,54,3586,tbs.co.jp,entertainment
+JP,55,3738,tv-tokyo.co.jp,entertainment
+JP,56,3769,interq.or.jp,commerce
+JP,57,3772,dti.ne.jp,commerce
+JP,58,3812,itmedia.co.jp,commerce
+JP,59,3864,nintendo.co.jp,commerce
+JP,60,3917,toshiba.co.jp,scholarship
+JP,61,3953,blog.jp,software
+JP,62,4040,nii.ac.jp,news and politics
+JP,63,4059,shinobi.jp,entertainment
+JP,64,4084,osaka-u.ac.jp,scholarship
+JP,65,4145,panasonic.co.jp,news and politics
+JP,66,4261,rakuten.ne.jp,commerce
+JP,67,4319,ntv.co.jp,entertainment
+JP,68,4366,ana.co.jp,entertainment
+JP,69,4382,yaplog.jp,entertainment
+JP,70,4409,sub.jp,software
+JP,71,4412,mixi.jp,entertainment
+JP,72,4423,odn.ne.jp,news and politics
+JP,73,4447,chu.jp,
+JP,74,4469,vector.co.jp,software
+JP,75,4593,gnavi.co.jp,entertainment
+JP,76,4648,rim.or.jp,
+JP,77,4679,nagoya-u.ac.jp,
+JP,78,4682,ameba.jp,news and politics
+JP,79,4694,hokudai.ac.jp,
+JP,80,4751,jma.go.jp,news and politics
+JP,81,4799,jal.co.jp,commerce
+JP,82,4829,fujitv.co.jp,news and politics
+JP,83,4902,tsukuba.ac.jp,entertainment
+JP,84,4927,jaxa.jp,scholarship
+JP,85,4929,atpages.jp,software
+JP,86,5072,mext.go.jp,scholarship
+JP,87,5132,kir.jp,commerce
+JP,88,5139,env.go.jp,scholarship
+JP,89,5145,sourceforge.jp,software
+JP,90,5233,kyushu-u.ac.jp,
+JP,91,5270,tv-asahi.co.jp,entertainment
+JP,92,5278,tohoku.ac.jp,
+JP,93,5324,panasonic.jp,commerce
+JP,94,5348,allabout.co.jp,entertainment
+JP,95,5479,toyota.co.jp,news and politics
+JP,96,5495,home.ne.jp,software
+JP,97,5614,bekkoame.ne.jp,
+JP,98,5644,jnto.go.jp,entertainment
+JP,99,5684,jreast.co.jp,entertainment
+JP,100,5727,cool.ne.jp,
+JP,101,5767,soumu.go.jp,scholarship
+JP,102,5768,kantei.go.jp,news and politics
+JP,103,5819,ndl.go.jp,entertainment
+JP,104,5851,big.or.jp,software
+JP,105,5914,osdn.jp,software
+JP,106,6185,moo.jp,
+JP,107,6377,canon.jp,entertainment
+JP,108,6378,sony.jp,commerce
+JP,109,6382,titech.ac.jp,scholarship
+JP,110,6504,honda.co.jp,commerce
+JP,111,6511,din.or.jp,
+JP,112,6543,maff.go.jp,entertainment
+JP,113,6575,xdomain.jp,
+JP,114,6595,sony.co.jp,commerce
+JP,115,6645,cao.go.jp,entertainment
+JP,116,6759,yjtag.jp,
+JP,117,6821,sharp.co.jp,software
+JP,118,6849,ddo.jp,software
+JP,119,6857,hiroshima-u.ac.jp,
+JP,120,6947,dip.jp,commerce
+JP,121,6951,zaq.ne.jp,news and politics
+JP,122,6976,aist.go.jp,
+JP,123,7063,adobe.co.jp,
+JP,124,7136,lolipop.jp,software
+JP,125,7254,riken.jp,
+JP,126,7298,nta.go.jp,scholarship
+JP,127,7317,capcom.co.jp,news and politics
+JP,128,7328,ritsumei.ac.jp,news and politics
+JP,131,7535,sblo.jp,entertainment
+JP,132,7767,webcrow.jp,
+JP,133,7826,jetro.go.jp,entertainment
+JP,134,7834,privacymark.jp,
+JP,136,7934,kobe-u.ac.jp,news and politics
+JP,137,8012,mapion.co.jp,entertainment
+JP,138,8067,waseda.jp,news and politics
+JP,139,8117,ascii.jp,news and politics
+JP,140,8180,eonet.ne.jp,news and politics
+JP,142,8255,doorblog.jp,junk
+JP,144,8389,tepco.co.jp,news and politics
+JP,145,8421,oricon.co.jp,entertainment
+JP,146,8437,ciao.jp,
+JP,147,8444,hotpepper.jp,entertainment
+JP,148,8463,halfmoon.jp,
+JP,149,8469,mufg.jp,scholarship
+JP,150,8618,jrc.or.jp,scholarship
+JP,151,8661,konami.jp,entertainment
+JP,152,8690,hitachi.co.jp,commerce
+JP,153,8698,kadokawa.co.jp,commerce
+JP,154,8816,atwiki.jp,entertainment
+JP,156,9012,heteml.jp,commerce
+JP,158,9299,kcn.ne.jp,
+JP,159,9374,hb.afl.rakuten.co.jp,commerce
+JP,160,9478,suntory.co.jp,entertainment
+JP,161,9508,kuronekoyamato.co.jp,commerce
+JP,162,9958,jica.go.jp,junk
+JP,163,9976,boj.or.jp,junk
+JP,164,10009,blogimg.jp,entertainment
+JP,165,10082,nissan.co.jp,entertainment
+JP,166,10132,eplus.jp,entertainment
+JP,167,10146,tsite.jp,commerce
+JP,168,10202,boo.jp,
+JP,169,10303,atmarkit.co.jp,entertainment
+JP,170,10403,stat.go.jp,news and politics
+JP,171,10447,shueisha.co.jp,entertainment
+JP,172,10503,tiki.ne.jp,
+JP,173,10523,sega.jp,commerce
+JP,174,10529,kyodonews.jp,commerce
+JP,175,10664,waseda.ac.jp,
+JP,176,10689,mof.go.jp,news and politics
+JP,177,10733,ipa.go.jp,
+JP,178,10761,weblio.jp,scholarship
+JP,179,10788,moj.go.jp,scholarship
+JP,180,10828,pia.jp,entertainment
+JP,182,10937,osaka.lg.jp,error
+JP,183,11026,mainichi.co.jp,news and politics
+JP,184,11088,tank.jp,
+JP,186,11130,hmv.co.jp,entertainment
+JP,187,11153,kinokuniya.co.jp,entertainment
+JP,188,11266,jtb.co.jp,entertainment
+JP,189,11296,affrc.go.jp,
+JP,190,11388,e-gov.go.jp,
+JP,191,11527,prtimes.jp,entertainment
+JP,192,11630,warnerbros.co.jp,
+JP,193,11659,itp.ne.jp,news and politics
+JP,195,11760,synapse.ne.jp,
+JP,196,11783,livedoor.blogimg.jp,junk
+JP,197,11800,shiseido.co.jp,
+JP,198,11853,disney.co.jp,
+JP,199,12008,princehotels.co.jp,
+JP,200,12092,ntt.co.jp,
+JP,201,12100,square-enix.co.jp,entertainment
+JP,202,12157,att.ne.jp,
+JP,203,12242,nagoya.jp,error
+JP,204,12295,fsa.go.jp,news and politics
+JP,205,12329,jpo.go.jp,junk
+JP,206,12333,med.or.jp,
+JP,207,12395,sonymusic.co.jp,entertainment
+JP,208,12401,daa.jp,
+JP,209,12413,carview.co.jp,commerce
+JP,210,12414,kodansha.co.jp,
+JP,211,12427,skr.jp,error
+NL,1,878,google.nl,entertainment
+NL,2,976,cwi.nl,
+NL,3,1026,xs4all.nl,entertainment
+NL,4,1211,blogspot.nl,entertainment
+NL,5,1250,uu.nl,religion
+NL,6,1752,tudelft.nl,commerce
+NL,7,1837,uva.nl,entertainment
+NL,8,2190,rug.nl,religion
+NL,9,2381,utwente.nl,entertainment
+NL,10,2778,tue.nl,software
+NL,11,3505,vu.nl,
+NL,12,3578,telegraaf.nl,news and politics
+NL,13,3660,nos.nl,entertainment
+NL,14,3700,rijksoverheid.nl,scholarship
+NL,15,3764,leidenuniv.nl,
+NL,16,4122,nu.nl,news and politics
+NL,17,4187,home.nl,
+NL,18,4375,nrc.nl,news and politics
+NL,19,4455,volkskrant.nl,entertainment
+NL,20,4465,wur.nl,
+NL,21,5320,ru.nl,entertainment
+NL,22,5380,planet.nl,
+NL,23,5562,ad.nl,entertainment
+NL,24,5672,rijksmuseum.nl,entertainment
+NL,25,5759,demon.nl,
+NL,26,6065,elitek.nl,
+NL,27,6541,chello.nl,
+NL,28,6578,hostnet.nl,
+NL,29,6707,jouwweb.nl,
+NL,30,7161,transip.nl,software
+NL,31,7331,wanadoo.nl,
+NL,32,7435,marktplaats.nl,commerce
+NL,33,7556,eur.nl,
+NL,34,7593,universiteitleiden.nl,
+NL,35,7822,vpro.nl,
+NL,36,7954,lycos.nl,
+NL,37,7976,rnw.nl,news and politics
+NL,38,8137,cbs.nl,news and politics
+NL,39,8206,elsevier.nl,
+NL,40,8221,npo.nl,news and politics
+NL,41,8297,startpagina.nl,news and politics
+NL,42,8484,vangoghmuseum.nl,
+NL,43,8626,dutchnews.nl,news and politics
+NL,44,8714,hyves.nl,entertainment
+NL,45,9215,belastingdienst.nl,commerce
+NL,46,9377,ns.nl,commerce
+NL,47,9763,tno.nl,
+NL,48,9974,trouw.nl,news and politics
+NL,49,10055,amsterdam.nl,
+NL,50,10228,dds.nl,entertainment
+NL,51,10430,knaw.nl,
+NL,52,10607,hccnet.nl,
+NL,53,10654,web-log.nl,
+NL,54,10817,rtl.nl,entertainment
+NL,55,10981,sanoma.nl,
+NL,56,11069,schiphol.nl,
+NL,57,11247,overheid.nl,
+NL,58,11283,rtlnieuws.nl,news and politics
+NL,59,11405,omroep.nl,
+NL,60,11522,maastrichtuniversity.nl,news and politics
+NL,61,11551,vara.nl,entertainment
+NL,62,11736,simpsite.nl,
+NL,63,12144,government.nl,news and politics
+NL,64,12353,tiscali.nl,
+NL,65,12362,bnnvara.nl,
+NL,66,12410,hetnet.nl,
+NL,67,12548,anwb.nl,commerce
+NL,68,12915,ziggo.nl,commerce
+NL,69,13165,dumpert.nl,porn
+NL,70,13242,parool.nl,entertainment
+NL,71,13523,rabobank.nl,commerce
+NL,72,13563,rivm.nl,
+NL,73,13694,hema.nl,commerce
+NL,74,13839,avrotros.nl,
+NL,75,13868,knmi.nl,news and politics
+NL,76,14334,rechtspraak.nl,news and politics
+NL,77,14513,fd.nl,
+NL,78,14919,wxs.nl,
+NL,79,15059,9292.nl,software
+NL,80,15462,rvo.nl,
+NL,81,15509,blogse.nl,
+NL,82,15540,euronet.nl,
+NL,83,15574,kvk.nl,entertainment
+NL,84,15697,ebay.nl,commerce
+NL,85,15895,wageningenur.nl,
+NL,86,16895,consumentenbond.nl,commerce
+NL,87,16944,stack.nl,
+NL,88,16995,michaelkors.co.nl,
+NL,89,17140,kb.nl,
+NL,90,17340,startkabel.nl,entertainment
+NL,91,17400,openoffice.nl,
+NL,92,17590,politie.nl,news and politics
+NL,93,17646,metronieuws.nl,software
+NL,94,17704,nltimes.nl,
+NL,95,17715,kun.nl,
+NL,96,17887,uvt.nl,
+NL,97,18124,robbast.nl,
+NL,98,18385,bnr.nl,
+NL,99,18459,rayban.co.nl,
+NL,100,18661,keukenhof.nl,
+NL,101,19218,kpn.nl,
+NL,102,19379,rotterdam.nl,
+NL,103,19513,ajax.nl,
+NL,104,19653,ing.nl,commerce
+NL,105,19674,webnode.nl,
+NL,106,19903,punt.nl,entertainment
+NL,107,19915,pagina.nl,
+NL,108,20079,ah.nl,commerce
+NL,109,20151,klimaatkeur.nl,
+NL,110,20477,stedelijk.nl,
+NL,111,20819,unimaas.nl,
+NL,112,20899,nieuws.nl,
+NL,113,20909,zonnet.nl,
+NL,114,20958,abnamro.nl,commerce
+NL,115,21080,nikeairmax90.nl,
+NL,116,21129,geenstijl.nl,porn
+NL,117,21173,max1.nl,
+NL,118,22145,omroepbrabant.nl,
+NL,119,22672,nike-rosherun.co.nl,
+NL,120,22738,postnl.nl,commerce
+NL,121,22797,horlogesrolex.nl,
+NL,122,22908,nike-huarache.co.nl,
+NL,123,22968,zeelandnet.nl,
+NL,124,23002,gelderlander.nl,
+NL,125,23142,air-maxschoenen.co.nl,
+NL,126,23185,flabber.nl,
+NL,127,23421,hindutemple.nl,
+NL,128,23486,eventbrite.nl,commerce
+NL,129,23511,mijnwebwinkel.nl,commerce
+NL,130,23636,hyvesgames.nl,entertainment
+NL,131,23660,dnb.nl,
+NL,132,23734,n-gamer.nl,
+NL,133,24129,ateliervandenboom.nl,
+NL,134,24329,emerce.nl,software
+NL,135,24386,iospress.nl,
+NL,136,24398,autoweek.nl,news and politics
+NL,137,24456,nike-airmax.nl,
+NL,138,24471,knvb.nl,
+NL,139,24516,iisg.nl,scholarship
+NL,140,24670,infonu.nl,scholarship
+NL,141,24778,ovh.nl,
+NL,142,24870,buienradar.nl,entertainment
+NL,143,24928,webklik.nl,
+NL,144,25266,managersonline.nl,
+NL,145,25466,defensie.nl,
+NL,146,25884,autoriteitpersoonsgegevens.nl,
+NL,147,25911,officielebekendmakingen.nl,
+NL,148,26740,funda.nl,entertainment
+NL,149,26758,businessinsider.nl,
+NL,150,27202,wewash.nl,
+NL,151,27388,nwo.nl,
+NL,152,27600,autoblog.nl,
+NL,153,27603,ticketmaster.nl,
+NL,154,27958,denhaag.nl,
+NL,155,28344,xsbb.nl,
+NL,156,28869,fok.nl,software
+NL,157,28872,webwereld.nl,commerce
+NL,158,29021,mijnalbum.nl,
+NL,159,29042,nike-schoenen.co.nl,
+NL,160,29104,decorrespondent.nl,news and politics
+NL,161,29307,horlogesrolexs.co.nl,
+NL,162,29376,minbuza.nl,
+NL,163,29517,tommyhilfigers.co.nl,
+NL,164,29629,adidas-shoes.co.nl,
+NL,165,29709,raybans-outlet.co.nl,
+NL,166,30011,tripadvisor.nl,entertainment
+NL,167,30074,blog.nl,news and politics
+NL,168,30088,tweedekamer.nl,
+NL,169,30182,voedingscentrum.nl,
+NL,170,30236,erasmusmc.nl,
+NL,171,30246,destentor.nl,
+NL,172,30388,psv.nl,
+NL,173,30408,weeronline.nl,software
+NL,174,30496,nporadio1.nl,
+NL,175,31121,henkzwiers.nl,
+NL,176,31138,fibbeadvocaten.nl,
+NL,177,31146,vtwonen.nl,
+NL,178,31224,uitzendinggemist.nl,news and politics
+NL,179,31368,bndestem.nl,
+NL,180,31792,at5.nl,
+NL,181,31815,leerik.nl,
+NL,182,31892,afm.nl,
+NL,183,32216,tele2.nl,
+NL,184,32382,rijkswaterstaat.nl,
+NL,185,32446,nederlandwereldwijd.nl,
+NL,186,32449,idfa.nl,
+NL,187,32472,ntr.nl,
+NL,188,32580,moncler.co.nl,
+NL,189,32596,sidn.nl,
+NL,190,32859,quicknet.nl,
+NL,191,32937,axc.nl,
+NL,192,33023,jouwpagina.nl,
+NL,193,33224,marketingfacts.nl,
+NL,194,33612,iae.nl,
+NL,195,33674,ed.nl,
+NL,196,33801,roelienkegort.nl,
+NL,197,33990,insomnia247.nl,software
+NL,198,34611,ideal.nl,
+NL,199,34905,eenvandaag.nl,
+NL,200,34914,koninklijkhuis.nl,entertainment
+ORG,1,7,wikipedia.org,religion
+ORG,2,11,wordpress.org,software
+ORG,3,13,en.wikipedia.org,news and politics
+ORG,4,32,w3.org,software
+ORG,5,34,mozilla.org,software
+ORG,6,35,apache.org,software
+ORG,7,57,httpd.apache.org,software
+ORG,8,58,validator.w3.org,software
+ORG,9,60,creativecommons.org,commerce
+ORG,10,63,gnu.org,software
+ORG,11,72,archive.org,news and politics
+ORG,12,83,wikimedia.org,scholarship
+ORG,13,93,debian.org,software
+ORG,14,129,web.archive.org,news and politics
+ORG,15,133,un.org,news and politics
+ORG,16,147,jigsaw.w3.org,
+ORG,17,150,ietf.org,commerce
+ORG,18,161,npr.org,news and politics
+ORG,19,168,commons.wikimedia.org,news and politics
+ORG,20,194,nginx.org,software
+ORG,21,216,fr.wikipedia.org,news and politics
+ORG,22,217,change.org,news and politics
+ORG,23,221,pbs.org,news and politics
+ORG,24,223,altervista.org,entertainment
+ORG,25,245,doi.org,
+ORG,26,256,joomla.org,software
+ORG,27,267,iso.org,scholarship
+ORG,28,270,unesco.org,scholarship
+ORG,29,278,de.wikipedia.org,news and politics
+ORG,30,289,sciencemag.org,scholarship
+ORG,31,297,dx.doi.org,scholarship
+ORG,32,308,worldbank.org,news and politics
+ORG,33,338,dmoz.org,news and politics
+ORG,34,341,bbb.org,commerce
+ORG,35,347,ieee.org,scholarship
+ORG,36,360,es.wikipedia.org,news and politics
+ORG,37,362,openssl.org,software
+ORG,38,369,postgresql.org,software
+ORG,39,373,slashdot.org,commerce
+ORG,40,380,drupal.org,software
+ORG,41,385,hbr.org,commerce
+ORG,42,387,oecd.org,news and politics
+ORG,43,415,mitre.org,
+ORG,44,417,cambridge.org,religion
+ORG,45,421,mayoclinic.org,scholarship
+ORG,46,423,freebsd.org,software
+ORG,47,428,wiktionary.org,porn
+ORG,48,438,apachefriends.org,software
+ORG,49,442,python.org,software
+ORG,50,466,kernel.org,software
+ORG,51,467,wiki.apache.org,software
+ORG,52,473,oxfordjournals.org,entertainment
+ORG,53,474,ap.org,news and politics
+ORG,54,476,fao.org,news and politics
+ORG,55,491,iana.org,software
+ORG,56,500,opensource.org,commerce
+ORG,57,514,faqs.org,news and politics
+ORG,58,518,rfc-editor.org,news and politics
+ORG,59,523,sitemaps.org,software
+ORG,60,529,pnas.org,scholarship
+ORG,61,534,arxiv.org,scholarship
+ORG,62,538,bitbucket.org,software
+ORG,63,540,fedoraproject.org,software
+ORG,64,544,apa.org,software
+ORG,65,546,kde.org,
+ORG,66,557,plos.org,
+ORG,67,564,cpan.org,software
+ORG,68,565,eff.org,news and politics
+ORG,69,568,olympic.org,entertainment
+ORG,70,571,networkadvertising.org,commerce
+ORG,71,574,suhosin.org,
+ORG,72,590,acs.org,scholarship
+ORG,73,595,openldap.org,software
+ORG,74,604,craigslist.org,commerce
+ORG,75,607,greenpeace.org,news and politics
+ORG,76,622,perl.org,commerce
+ORG,77,634,weforum.org,news and politics
+ORG,78,638,ru.wikipedia.org,scholarship
+ORG,79,647,phys.org,scholarship
+ORG,80,648,openstreetmap.org,entertainment
+ORG,81,686,imagemagick.org,porn
+ORG,82,689,dyndns.org,commerce
+ORG,83,690,openoffice.org,news and politics
+ORG,84,693,us.org,
+ORG,85,700,unicef.org,scholarship
+ORG,86,709,acm.org,commerce
+ORG,87,711,aboutcookies.org,
+ORG,88,719,nejm.org,news and politics
+ORG,89,722,zh.wikipedia.org,news and politics
+ORG,90,726,gutenberg.org,software
+ORG,91,730,icann.org,software
+ORG,92,735,coursera.org,scholarship
+ORG,93,744,jstor.org,scholarship
+ORG,94,751,postimg.org,porn
+ORG,95,776,redcross.org,entertainment
+ORG,96,777,gimp.org,software
+ORG,97,787,moodle.org,commerce
+ORG,98,792,cancer.org,scholarship
+ORG,99,793,videolan.org,software
+ORG,100,797,edublogs.org,porn
+ORG,101,805,allaboutcookies.org,
+ORG,102,807,nobelprize.org,religion
+ORG,103,823,isc.org,
+ORG,104,829,heart.org,scholarship
+ORG,105,832,mediawiki.org,software
+ORG,106,842,imf.org,news and politics
+ORG,107,876,eurekalert.org,news and politics
+ORG,108,885,squid-cache.org,software
+ORG,109,905,khanacademy.org,scholarship
+ORG,110,912,consumerreports.org,commerce
+ORG,111,929,ntp.org,
+ORG,112,942,pt.wikipedia.org,news and politics
+ORG,113,964,purl.org,
+ORG,114,979,spec.org,
+ORG,115,986,libpng.org,
+ORG,116,988,hrw.org,news and politics
+ORG,117,989,en.m.wikipedia.org,news and politics
+ORG,118,993,doxygen.org,commerce
+ORG,119,1003,lua.org,
+ORG,120,1004,gzip.org,
+ORG,121,1010,undp.org,commerce
+ORG,122,1012,pcre.org,
+ORG,123,1052,webdav.org,
+ORG,124,1060,freetype.org,
+ORG,125,1061,eclipse.org,software
+ORG,126,1064,hwg.org,
+ORG,127,1079,wikibooks.org,entertainment
+ORG,128,1084,pewresearch.org,news and politics
+ORG,129,1085,metmuseum.org,scholarship
+ORG,130,1092,bzip.org,
+ORG,131,1103,ama-assn.org,commerce
+ORG,132,1104,enlightenment.org,
+ORG,133,1110,konqueror.org,
+ORG,134,1112,ilo.org,scholarship
+ORG,135,1116,wikiquote.org,news and politics
+ORG,136,1120,wassenaar.org,
+ORG,137,1122,pewinternet.org,entertainment
+ORG,138,1125,apache-ssl.org,
+ORG,139,1130,ja.wikipedia.org,news and politics
+ORG,140,1131,ijg.org,
+ORG,141,1133,amnesty.org,news and politics
+ORG,142,1135,britishcouncil.org,news and politics
+ORG,143,1138,wikisource.org,scholarship
+ORG,144,1148,memcached.org,
+ORG,145,1151,cronolog.org,
+ORG,146,1152,specbench.org,
+ORG,147,1157,aarp.org,news and politics
+ORG,148,1158,filezilla-project.org,software
+ORG,149,1167,freetds.org,
+ORG,150,1188,xmlsoft.org,
+ORG,151,1201,raspberrypi.org,entertainment
+ORG,152,1202,fsf.org,scholarship
+ORG,153,1215,modsecurity.org,
+ORG,154,1218,ibiblio.org,news and politics
+ORG,155,1219,iop.org,scholarship
+ORG,156,1244,plosone.org,scholarship
+ORG,157,1246,moma.org,entertainment
+ORG,158,1269,opensuse.org,software
+ORG,159,1298,apachetutor.org,
+ORG,160,1299,virtualbox.org,software
+ORG,161,1326,ohchr.org,news and politics
+ORG,162,1331,7-zip.org,software
+ORG,163,1336,netperf.org,
+ORG,164,1347,postimage.org,porn
+ORG,165,1359,unixtools.org,
+ORG,166,1361,rsc.org,scholarship
+ORG,167,1364,thinkprogress.org,news and politics
+ORG,168,1367,eu.org,commerce
+ORG,169,1380,fas.org,news and politics
+ORG,170,1392,unep.org,news and politics
+ORG,171,1417,no-ip.org,software
+ORG,172,1418,nodejs.org,commerce
+ORG,173,1420,chromium.org,software
+ORG,174,1431,aclu.org,news and politics
+ORG,175,1436,gnome.org,commerce
+ORG,176,1469,avaaz.org,news and politics
+ORG,177,1498,wikileaks.org,software
+ORG,178,1527,alternet.org,news and politics
+ORG,179,1532,aappublications.org,
+ORG,180,1535,distcache.org,
+ORG,181,1538,edx.org,entertainment
+ORG,182,1539,wto.org,error
+ORG,183,1562,centos.org,software
+ORG,184,1564,lifehack.org,entertainment
+ORG,185,1586,diabetes.org,scholarship
+ORG,186,1616,mariadb.org,commerce
+ORG,187,1647,zotero.org,software
+ORG,188,1652,c-span.org,news and politics
+ORG,189,1655,worldcat.org,scholarship
+ORG,190,1670,notepad-plus-plus.org,software
+ORG,191,1672,kidshealth.org,entertainment
+ORG,192,1690,frontiersin.org,religion
+ORG,193,1703,torproject.org,software
+ORG,194,1707,tigris.org,
+ORG,195,1716,blender.org,software
+ORG,196,1732,wikitravel.org,entertainment
+ORG,197,1736,collegeboard.org,scholarship
+ORG,198,1754,unhcr.org,news and politics
+ORG,199,1781,ahajournals.org,scholarship
+ORG,200,1789,wikimapia.org,entertainment
+ORG,201,1800,nber.org,news and politics
+ORG,202,1803,americanbar.org,scholarship
+ORG,203,1807,nutrition.org,
+ORG,204,1813,alz.org,scholarship
+ORG,205,1824,meta.wikimedia.org,software
+ORG,206,1828,simplemachines.org,commerce
+ORG,207,1830,propublica.org,news and politics
+ORG,208,1846,aps.org,news and politics
+ORG,209,1854,ala.org,scholarship
+ORG,210,1864,rand.org,scholarship
+ORG,211,1897,documentcloud.org,
+ORG,212,1909,pri.org,news and politics
+ORG,213,1911,royalsocietypublishing.org,
+ORG,214,1916,nrdc.org,news and politics
+ORG,215,1925,aip.org,scholarship
+ORG,216,1928,peta.org,entertainment
+ORG,217,1944,ets.org,scholarship
+ORG,218,1946,ewg.org,scholarship
+ORG,219,1948,panda.org,news and politics
+ORG,220,1957,bitcoin.org,commerce
+ORG,221,1968,linux.org,software
+ORG,222,1991,prlog.org,news and politics
+ORG,223,2000,usgbc.org,scholarship
+ORG,224,2008,heritage.org,news and politics
+ORG,225,2010,dailystrength.org,scholarship
+ORG,226,2012,libreoffice.org,software
+ORG,227,2051,sphinx-doc.org,
+ORG,228,2054,nypl.org,scholarship
+ORG,229,2084,unenvironment.org,
+ORG,230,2091,ispconfig.org,
+ORG,231,2123,postimages.org,
+ORG,232,2141,worldwildlife.org,entertainment
+ORG,233,2151,britishmuseum.org,scholarship
+ORG,234,2168,fpdf.org,
+ORG,235,2199,letsencrypt.org,
+ORG,236,2202,amnh.org,scholarship
+ORG,237,2215,gnupg.org,software
+ORG,238,2220,leo.org,entertainment
+ORG,239,2223,netsons.org,
+ORG,240,2239,readthedocs.org,entertainment
+ORG,241,2244,mozilla-europe.org,
+ORG,242,2255,rferl.org,news and politics
+ORG,243,2265,sciencenews.org,scholarship
+ORG,244,2278,wnyc.org,news and politics
+ORG,245,2301,cancerresearchuk.org,scholarship
+ORG,246,2305,cfr.org,news and politics
+ORG,247,2318,aap.org,
+ORG,248,2330,kqed.org,entertainment
+ORG,249,2333,wbur.org,news and politics
+ORG,250,2334,iamsport.org,
+ORG,251,2353,commondreams.org,entertainment
+ORG,252,2356,democracynow.org,news and politics
+ORG,253,2358,inkscape.org,news and politics
+ORG,254,2370,pbskids.org,software
+ORG,255,2372,packagist.org,software
+ORG,256,2377,iea.org,news and politics
+ORG,257,2384,matomo.org,
+ORG,258,2385,tvtropes.org,religion
+ORG,259,2393,thepiratebay.org,software
+ORG,260,2395,example.org,software
+ORG,261,2402,wordpressfoundation.org,
+ORG,262,2409,cato.org,news and politics
+ORG,263,2410,jpn.org,commerce
+ORG,264,2415,unicode.org,software
+ORG,265,2430,clevelandclinic.org,junk
+ORG,266,2442,indymedia.org,news and politics
+ORG,267,2459,asm.org,entertainment
+ORG,268,2469,malwarebytes.org,commerce
+ORG,269,2480,mozdev.org,software
+ORG,270,2488,nfpa.org,
+ORG,271,2489,piwik.org,entertainment
+ORG,272,2502,icrc.org,news and politics
+ORG,273,2510,sqlite.org,commerce
+ORG,274,2516,gmpg.org,
+ORG,275,2521,marketplace.org,news and politics
+ORG,276,2535,nature.org,news and politics
+ORG,277,2553,unodc.org,news and politics
+ORG,278,2588,aspca.org,scholarship
+ORG,279,2601,publicradio.org,entertainment
+ORG,280,2604,humanesociety.org,
+ORG,281,2627,wfp.org,scholarship
+ORG,282,2629,mozillazine.org,scholarship
+ORG,283,2647,bitcointalk.org,news and politics
+ORG,284,2661,telegram.org,software
+ORG,285,2666,trust.org,news and politics
+ORG,286,2674,transparency.org,news and politics
+ORG,287,2678,hopkinsmedicine.org,scholarship
+ORG,288,2679,kff.org,news and politics
+ORG,289,2687,helpguide.org,scholarship
+ORG,290,2692,annals.org,scholarship
+ORG,291,2700,r-project.org,software
+ORG,292,2716,sierraclub.org,entertainment
+ORG,293,2732,poetryfoundation.org,scholarship
+ORG,294,2738,ambafrance.org,
+ORG,295,2741,freesound.org,entertainment
+ORG,296,2760,gatesfoundation.org,news and politics
+ORG,297,2793,lung.org,commerce
+ORG,298,2807,globalsecurity.org,news and politics
+ORG,299,2813,wireshark.org,software
+ORG,300,2821,owasp.org,software
+ORG,301,2829,iaea.org,news and politics
+ORG,302,2831,safer-networking.org,commerce
+ORG,303,2832,rubyonrails.org,commerce
+ORG,304,2845,rsf.org,scholarship
+ORG,305,2850,sil.org,scholarship
+ORG,306,2851,grist.org,news and politics
+ORG,307,2855,cert.org,
+ORG,308,2868,finra.org,news and politics
+ORG,309,2873,archlinux.org,software
+ORG,310,2888,kiva.org,news and politics
+ORG,311,2894,thinkquest.org,error
+ORG,312,2899,aafp.org,scholarship
+ORG,313,2903,americanprogress.org,news and politics
+ORG,314,2922,dokuwiki.org,
+ORG,315,2924,getcomposer.org,entertainment
+ORG,316,2931,jcp.org,news and politics
+ORG,317,2944,edweek.org,news and politics
+ORG,318,2950,nationalacademies.org,commerce
+ORG,319,2962,sans.org,junk
+ORG,320,2964,ncsl.org,entertainment
+ORG,321,2977,shrm.org,commerce
+ORG,322,2980,code.org,news and politics
+ORG,323,3001,ucsusa.org,news and politics
+ORG,324,3002,ushmm.org,news and politics
+ORG,325,3003,ghost.org,commerce
+ORG,326,3011,iata.org,scholarship
+ORG,327,3023,adblockplus.org,software
+ORG,328,3042,ada.org,
+ORG,329,3058,poynter.org,news and politics
+ORG,330,3061,oclc.org,scholarship
+ORG,331,3063,google.org,scholarship
+ORG,332,3071,opensecrets.org,news and politics
+ORG,333,3082,counterpunch.org,entertainment
+ORG,334,3087,guidestar.org,software
+ORG,335,3098,teamusa.org,entertainment
+ORG,336,3099,orcid.org,
+ORG,337,3105,random.org,software
+ORG,338,3120,webalizer.org,
+ORG,339,3127,marxists.org,news and politics
+ORG,340,3135,pewtrusts.org,
+ORG,341,3137,linuxfoundation.org,software
+ORG,342,3172,truth-out.org,news and politics
+ORG,343,3173,catb.org,entertainment
+ORG,344,3179,anquan.org,commerce
+ORG,345,3183,freeforums.org,commerce
+ORG,346,3201,sleepfoundation.org,
+ORG,347,3202,brainpickings.org,entertainment
+ORG,348,3223,tcpdf.org,
+ORG,349,3242,nami.org,entertainment
+ORG,350,3262,caringbridge.org,entertainment
+ORG,351,3264,ubuntuforums.org,software
+ORG,352,3273,owncloud.org,commerce
+ORG,353,3279,netbeans.org,software
+ORG,354,3294,openbsd.org,commerce
+ORG,355,3304,akc.org,commerce
+ORG,356,3310,doaj.org,
+ORG,357,3315,ruby-lang.org,
+ORG,358,3329,computer.org,scholarship
+ORG,359,3338,autismspeaks.org,
+ORG,360,3340,nongnu.org,
+ORG,361,3341,audubon.org,
+ORG,362,3347,ipl.org,news and politics
+ORG,363,3350,gentoo.org,software
+ORG,364,3351,essayswriting.org,
+ORG,365,3358,openclipart.org,software
+ORG,366,3366,familysearch.org,scholarship
+ORG,367,3386,project-syndicate.org,news and politics
+ORG,368,3390,americanheart.org,
+ORG,369,3394,oxfam.org,news and politics
+ORG,370,3399,sv.wikipedia.org,scholarship
+ORG,371,3400,oas.org,news and politics
+ORG,372,3401,mediamatters.org,news and politics
+ORG,373,3402,plannedparenthood.org,scholarship
+ORG,374,3422,wri.org,news and politics
+ORG,375,3431,iucn.org,news and politics
+ORG,376,3440,realtor.org,news and politics
+ORG,377,3451,stlouisfed.org,
+ORG,378,3454,unwomen.org,software
+ORG,379,3455,hubblesite.org,scholarship
+ORG,380,3478,freedesktop.org,software
+ORG,381,3480,ampproject.org,
+ORG,382,3483,lds.org,religion
+ORG,383,3487,tldp.org,software
+ORG,384,3508,aaas.org,scholarship
+ORG,385,3509,www3.weforum.org,
+ORG,386,3514,newadvent.org,religion
+ORG,387,3520,nationalgeographic.org,
+ORG,388,3533,openlibrary.org,scholarship
+ORG,389,3544,physiology.org,
+ORG,390,3560,aei.org,news and politics
+ORG,391,3561,golang.org,commerce
+ORG,392,3573,kintera.org,entertainment
+ORG,393,3579,opensocietyfoundations.org,news and politics
+ORG,394,3580,astm.org,commerce
+ORG,395,3583,oscars.org,entertainment
+ORG,396,3609,people-press.org,news and politics
+ORG,397,3613,eso.org,scholarship
+ORG,398,3617,guggenheim.org,entertainment
+ORG,399,3619,aacrjournals.org,
+ORG,400,3622,dreamwidth.org,news and politics
+PL,2,761,cba.pl,software
+PL,4,930,google.pl,entertainment
+PL,5,1165,home.pl,commerce
+PL,6,1447,nazwa.pl,commerce
+PL,7,1603,onet.pl,news and politics
+PL,9,1764,poznan.pl,news and politics
+PL,10,1793,wroc.pl,
+PL,11,1810,krakow.pl,news and politics
+PL,12,1866,art.pl,
+PL,14,2192,prv.pl,
+PL,16,2252,lublin.pl,
+PL,18,2406,wp.pl,news and politics
+PL,20,2707,blox.pl,news and politics
+PL,21,2724,webd.pl,software
+PL,23,2875,gda.pl,
+PL,24,2953,za.pl,
+PL,25,2990,interia.pl,commerce
+PL,26,2997,lodz.pl,entertainment
+PL,27,3045,bloog.pl,porn
+PL,28,3220,gazeta.pl,news and politics
+PL,31,3333,y0.pl,
+PL,32,3446,c0.pl,
+PL,33,3472,republika.pl,commerce
+PL,36,3623,uw.edu.pl,
+PL,38,4165,allegro.pl,commerce
+PL,40,4466,blog.pl,news and politics
+PL,43,4713,polskieradio.pl,news and politics
+PL,44,4906,ugu.pl,
+PL,47,5400,vot.pl,
+PL,48,5515,phorum.pl,news and politics
+PL,49,5617,hekko24.pl,
+PL,50,6119,wyborcza.pl,news and politics
+PL,51,6138,rekomunikacje.pl,
+PL,53,6393,jedlicze.pl,
+PL,55,6549,website.pl,
+PL,56,6626,herber.pl,
+PL,57,6685,ayz.pl,
+PL,58,6700,uj.edu.pl,
+PL,59,6831,fora.pl,entertainment
+PL,60,7182,amu.edu.pl,
+PL,61,7286,bielsko.pl,
+PL,62,7305,kielce.pl,
+PL,63,7397,pw.edu.pl,
+PL,64,7448,nyayaacademy.pl,
+PL,66,7597,agh.edu.pl,
+PL,67,7751,tvp.pl,news and politics
+PL,68,7766,hekko.pl,commerce
+PL,69,7890,rp.pl,news and politics
+PL,70,8342,tvn24.pl,news and politics
+PL,71,8805,party69.pl,
+PL,72,8977,boo.pl,
+PL,73,8996,msz.gov.pl,
+PL,74,9085,icm.edu.pl,news and politics
+PL,75,9224,torun.pl,
+PL,76,9294,ovh.pl,commerce
+PL,77,9442,strefa.pl,
+PL,79,9592,naszemiasto.pl,news and politics
+PL,80,9670,xaa.pl,
+PL,81,9927,chomikuj.pl,commerce
+PL,82,9930,cal.pl,
+PL,84,10142,sejm.gov.pl,news and politics
+PL,86,10343,umk.pl,scholarship
+PL,88,10544,upek.com.pl,
+PL,89,10596,pinger.pl,entertainment
+PL,91,11379,5v.pl,
+PL,92,11404,uwb.edu.pl,
+PL,95,12435,fotosik.pl,news and politics
+PL,96,12473,pio-izba.pl,
+PL,97,12521,kei.pl,
+PL,99,12620,money.pl,news and politics
+PL,101,12859,aq.pl,
+PL,102,13092,o2.pl,commerce
+PL,103,13149,w8w.pl,
+PL,105,13475,az.pl,commerce
+PL,106,13488,nasionarolnicze.pl,
+PL,107,13510,one.pl,
+PL,108,13541,e-blogi.pl,
+PL,109,13576,olx.pl,commerce
+PL,112,14143,superhost.pl,
+PL,114,14267,yoyo.pl,
+PL,116,14430,filmweb.pl,news and politics
+PL,117,14516,pewnapotencja.pl,
+PL,118,14576,internetdsl.pl,
+PL,119,14583,wum.edu.pl,
+PL,121,14866,kamagra69.pl,
+PL,122,14904,us.edu.pl,
+PL,123,14909,pap.pl,
+PL,124,15133,culture.pl,
+PL,125,15153,dl4.pl,
+PL,128,15753,fundacjapokolenia.pl,
+PL,129,15825,byd.pl,
+PL,130,15908,gazetaprawna.pl,news and politics
+PL,132,16002,prz.edu.pl,
+PL,133,16247,gdynia.pl,
+PL,134,16520,h2g.pl,
+PL,135,16602,gemius.pl,software
+PL,136,16608,apteka777.pl,
+PL,137,16633,bestviagra.pl,
+PL,138,16753,pk.edu.pl,
+PL,140,17096,sktk.pl,
+PL,142,17247,ekn.pl,
+PL,143,17252,gliwice.pl,
+PL,144,17587,dziennik.pl,news and politics
+PL,145,17716,gry-online.pl,entertainment
+PL,146,17847,pokazywarka.pl,
+PL,147,17882,wrzuta.pl,entertainment
+PL,149,18295,tarnow.pl,
+PL,150,18298,czescidozaluzji.pl,
+PL,151,18316,infor.pl,news and politics
+PL,152,18351,thenews.pl,news and politics
+PL,153,18377,neostrada.pl,
+PL,154,18397,se.pl,software
+PL,155,18447,zielonatabletka.pl,
+PL,156,18525,stat.gov.pl,scholarship
+PL,158,18542,newsweek.pl,news and politics
+PL,159,18577,webtuts.pl,
+PL,160,18602,cyberspace.com.pl,
+PL,161,18717,ceneo.pl,commerce
+PL,162,18803,goldenline.pl,commerce
+PL,163,18925,wprost.pl,news and politics
+PL,164,19044,wordpressy.pl,
+PL,165,19113,interiowo.pl,
+PL,166,19203,cjacht.pl,
+PL,167,19225,webpark.pl,
+PL,169,19333,polsl.pl,
+PL,170,19413,aptekakamagra.pl,
+PL,172,19475,mf.gov.pl,commerce
+PL,173,19771,gdansk.pl,
+PL,176,20157,pev.pl,
+PL,179,20353,tiny.pl,
+PL,180,20520,keep.pl,
+PL,182,20628,zhp.pl,
+PL,183,20893,opx.pl,
+PL,184,21001,fakt.pl,news and politics
+PL,185,21270,warszawam.pl,
+PL,186,21335,viagranajtaniej.pl,
+PL,187,21499,tvn.pl,entertainment
+PL,188,21604,bezdotykoweforum.pl,
+PL,189,21628,mocnedoznania.pl,
+PL,190,21679,xorg.pl,
+PL,191,21755,safistudio.pl,
+PL,192,21801,pan.pl,
+PL,193,21830,s5620.pl,
+PL,195,21932,leadn.pl,
+PL,199,22052,gratka.pl,commerce
+PL,200,22213,v10.pl,
+PL,202,22385,trojmiasto.pl,news and politics
+PL,203,22514,pb.pl,entertainment
+PL,204,22560,otomoto.pl,news and politics
+PL,205,22610,rozo.pl,
+PL,206,22668,odchudzaniebrzucha.pl,
+PL,207,22700,eioba.pl,scholarship
+PL,208,22826,friko.pl,
+PL,209,23037,bhlink.pl,
+PL,210,23304,polityka.pl,
+PL,211,23448,iq.pl,
+PL,212,23503,bankier.pl,news and politics
+PL,213,23686,konkomp.pl,
+PL,214,23714,civ.pl,
+PL,215,23797,mserwer.pl,
+PL,216,23928,koszalin.pl,
+PL,217,24023,ironsquad.pl,
+PL,219,24241,cin-bar.pl,
+PL,220,24400,lh.pl,
+PL,221,24416,nbp.pl,
+PL,222,24466,kylos.pl,
+PL,223,24503,mieszkaniesopot.pl,
+PL,224,24521,wizaz.pl,porn
+PL,225,24547,viagra.edu.pl,
+PL,227,24793,dobreprogramy.pl,commerce
+PL,228,24818,di.com.pl,
+PL,229,24876,demotywatory.pl,software
+PL,230,25101,pwn.pl,news and politics
+PL,231,25221,natemat.pl,news and politics
+PL,232,25238,forpsi.pl,
+PL,233,25590,etranslator.com.pl,
+PL,235,25854,digart.pl,news and politics
+PL,236,25921,freehost.pl,
+PL,237,25985,opoka.org.pl,
+PL,238,26042,niebieska-apteka.pl,
+PL,239,26096,blogan.pl,
+PL,240,26119,pttk.pl,
+PL,243,26957,rzetelnafirma.pl,
+PL,244,26965,oczamipinczera.pl,
+PL,245,27070,mimuw.edu.pl,
+PL,247,27355,siedlce.pl,
+PL,248,27392,zumi.pl,entertainment
+PL,249,27393,elektroda.pl,news and politics
+PL,250,27594,nordex-transport.pl,
+PL,251,27605,wybickiego2.pl,
+PL,252,27664,ms.gov.pl,
+PL,254,27769,wsap.edu.pl,
+PL,255,27962,echoaqustic.com.pl,
+PL,256,28009,nauka.gov.pl,
+PL,257,28140,apte24.pl,
+PL,258,28170,edukacjaprzygodowa.pl,
+PL,259,28273,blog4u.pl,
+PL,260,28276,panelsystem.pl,
+PL,261,28277,rmf24.pl,news and politics
+PL,262,28290,blogx.pl,
+PT,1,1019,sapo.pt,error
+PT,2,3271,blogspot.pt,entertainment
+PT,3,3713,up.pt,scholarship
+PT,4,3946,google.pt,news and politics
+PT,5,4504,uc.pt,
+PT,6,4992,unl.pt,
+PT,7,6234,ul.pt,
+PT,8,6404,cartronica.pt,
+PT,9,6800,uminho.pt,
+PT,10,8265,ulisboa.pt,
+PT,11,8613,publico.pt,news and politics
+PT,12,8697,utl.pt,
+PT,13,10265,rtp.pt,news and politics
+PT,14,10494,iol.pt,entertainment
+PT,15,11305,ua.pt,
+PT,16,15758,dn.pt,news and politics
+PT,17,18436,gulbenkian.pt,
+PT,18,21513,ucp.pt,
+PT,19,22277,jn.pt,news and politics
+PT,20,23201,xl.pt,news and politics
+PT,21,24558,restaurantequintadaluz.pt,
+PT,22,24884,utad.pt,
+PT,23,25128,portugal.gov.pt,news and politics
+PT,24,25408,fencaca.pt,
+PT,25,25420,desk7.pt,
+PT,26,26385,aeiou.pt,
+PT,27,27524,abola.pt,entertainment
+PT,28,28769,clix.pt,news and politics
+PT,29,29730,recortarpalavras.pt,
+PT,30,29874,uevora.pt,
+PT,31,30518,cmjornal.pt,
+PT,32,30851,cp.pt,commerce
+PT,33,31214,blitstorm.pt,
+PT,34,32577,preview360.pt,
+PT,35,33376,slbenfica.pt,entertainment
+PT,36,34553,fantoffice.pt,
+PT,37,35100,observador.pt,news and politics
+PT,38,35219,webnode.pt,
+PT,39,35967,ipp.pt,
+PT,40,36870,ubi.pt,news and politics
+PT,41,38143,fcporto.pt,entertainment
+PT,42,40279,uma.pt,
+PT,43,41419,atelierliseteaires.pt,
+PT,44,41639,cm-lisboa.pt,
+PT,45,42856,ccems.pt,
+PT,46,43151,escolademusica.pt,
+PT,47,43399,jornaldenegocios.pt,news and politics
+PT,48,44995,ualg.pt,
+PT,49,45287,fpg.pt,
+PT,50,46047,supertrade.pt,
+PT,51,48113,celimpa.pt,
+PT,52,48497,pombeirodabeira.pt,
+PT,53,48735,fpf.pt,software
+PT,54,49148,xxs.pt,
+PT,55,49521,record.pt,
+PT,56,49675,dre.pt,news and politics
+PT,57,50015,rugbydocentro.pt,
+PT,58,51284,mec.pt,
+PT,59,51609,fcastelaos-vmonte.pt,
+PT,60,51812,iscte-iul.pt,
+PT,61,51906,dglab.gov.pt,
+PT,62,52628,sergioandrefotografia.pt,
+PT,63,53173,priberam.pt,news and politics
+PT,64,54403,ojogo.pt,news and politics
+PT,65,54830,ine.pt,scholarship
+PT,66,55102,ae1odemira.edu.pt,
+PT,67,57082,rede-do-territorio.pt,
+PT,68,57234,ipleiria.pt,
+PT,69,58131,jf-riachos.pt,
+PT,70,58734,instituto-camoes.pt,news and politics
+PT,71,59145,sb-export.pt,
+PT,72,59276,planetaclix.pt,
+PT,73,60521,nos.pt,commerce
+PT,74,60742,marquespsicologa.pt,
+PT,75,60981,tsf.pt,entertainment
+PT,76,61051,ipma.pt,news and politics
+PT,77,61215,honeguer.pt,
+PT,78,61261,boxtobox.pt,
+PT,79,61278,loba.pt,
+PT,80,62850,pai.pt,news and politics
+PT,81,63202,kampai.pt,
+PT,82,65069,olx.pt,commerce
+PT,83,65948,aspec.pt,
+PT,84,66067,kresskonta.pt,
+PT,85,66158,parlamento.pt,news and politics
+PT,86,66464,bportugal.pt,software
+PT,87,67065,alfamarightpoint.pt,
+PT,88,67240,terravista.pt,
+PT,89,68236,xbugs.pt,
+PT,90,70259,min-saude.pt,scholarship
+PT,91,70870,jfserta.pt,
+PT,92,70963,mistersys.pt,
+PT,93,71334,rewarddetail.pt,
+PT,94,71448,drsmart.pt,
+PT,95,71976,flashvideo.pt,
+PT,96,72548,frn.pt,
+PT,97,72762,ana.pt,
+PT,98,73447,misericordiaaguiardabeira.pt,
+PT,99,73616,sporting.pt,
+PT,100,75310,dataroad.pt,
+PT,101,75358,privatemotion.pt,
+PT,102,76267,pinterest.pt,
+PT,103,76366,mctes.pt,
+PT,104,76693,inttera.pt,
+PT,105,77311,uac.pt,
+PT,106,77847,quintadaabegoa.pt,
+PT,107,78774,eranova.pt,
+PT,108,78901,hslouis.pt,
+PT,109,79125,maismemoria.pt,
+PT,110,79455,vols.pt,
+PT,111,79570,starelements.pt,
+PT,112,79762,ctt.pt,
+PT,113,80054,estrategia-cliente.pt,
+PT,114,80216,cortedonorte.pt,
+PT,115,80998,convergente.pt,
+PT,116,81063,lisbonfivestars.pt,
+PT,117,81310,xoffice.pt,
+PT,118,82039,oceanario.pt,news and politics
+PT,119,82966,expresso.pt,
+PT,120,82981,web.pt,
+PT,121,83132,adeca.pt,
+PT,122,83587,colmed.pt,
+PT,123,83769,miniowners.pt,
+PT,124,84129,inesc-id.pt,
+PT,125,84158,freeradionetwork.pt,
+PT,126,84163,paulobraga.pt,
+PT,127,84401,picnictours.com.pt,
+PT,128,84497,cookingmemories.pt,
+PT,129,84766,personaliza.pt,
+PT,130,84993,pres.pt,
+PT,131,85035,iscte.pt,
+PT,132,85911,freguesiasaopedrolapasribeirabranca.pt,
+PT,133,85990,soutos.pt,
+PT,134,86064,netcabo.pt,
+PT,135,87325,petitamour.pt,
+PT,136,88042,tbri.pt,
+PT,137,88144,rodriguesfrio.pt,
+PT,138,88738,pasteisdebelem.pt,
+PT,139,88849,insersor.pt,
+PT,140,90301,jf-aljezur.pt,
+PT,141,91476,freguesiameiavia.pt,
+PT,142,91541,serralves.pt,
+PT,143,93370,tiagonogueira.pt,
+PT,144,93675,sata.pt,
+PT,145,93747,edp.pt,
+PT,146,95457,fil.pt,
+PT,147,96699,mobilitas.pt,
+PT,148,97102,dec.com.pt,
+PT,149,97417,dynamichelp4u.pt,
+PT,150,97693,meo.pt,commerce
+PT,151,97775,assrscosmado.pt,
+PT,152,98299,clinicahbs.pt,
+PT,153,98410,dinheirovivo.pt,news and politics
+PT,154,98871,whymob.pt,
+PT,155,99444,ionline.pt,news and politics
+PT,156,99480,carris.pt,
+PT,157,99847,sensispa.pt,
+PT,158,100098,azores.gov.pt,
+PT,159,101235,lardefraiao.pt,
+PT,160,101653,alticepoes.pt,
+PT,161,101853,ver.pt,
+PT,162,102933,bimarc.pt,
+PT,163,103239,taxispimpao.pt,
+PT,164,103389,amanhecer.com.pt,
+PT,165,103454,turismodeportugal.pt,error
+PT,166,103600,macadame.pt,
+PT,167,104996,online.pt,
+PT,168,105205,seearch.pt,
+PT,169,106299,aga-seguros.pt,
+PT,170,106899,docecabaz.pt,
+PT,171,107860,medicosveterinarios.pt,
+PT,172,108239,contempo.pt,
+PT,173,108247,expressorebobinador.pt,
+PT,174,108471,gresdias.pt,
+PT,175,108567,transporteescolargaia.pt,
+PT,176,109401,maior.com.pt,
+PT,177,109558,agn.pt,
+PT,178,109784,verti.com.pt,
+PT,179,110526,lisboatv.pt,
+PT,180,110757,clinicadomar.pt,
+PT,181,110992,padarialafonense.pt,
+PT,182,111117,singest.pt,
+PT,183,111179,mne.pt,
+PT,184,111185,zerozero.pt,entertainment
+PT,185,111472,fromdatatoinsight.pt,
+PT,186,111479,decorarte.pt,
+PT,187,112025,ulusofona.pt,
+PT,188,112033,ipv.pt,
+PT,189,112422,jaramos.pt,
+PT,190,112489,emcb.pt,
+PT,191,112491,pousadas.pt,
+PT,192,112582,megapixel.com.pt,
+PT,193,112819,projetopanorama.pt,
+PT,194,113377,irepaircascais.pt,
+PT,195,113659,pscascais.pt,
+PT,196,114257,sabado.pt,
+PT,197,114626,scmalmodovar.pt,
+PT,198,114653,lusa.pt,
+PT,199,115211,garrrbage.pt,
+PT,200,115219,profundamente.pt,
+RO,1,3005,blogspot.ro,entertainment
+RO,2,3649,google.ro,entertainment
+RO,3,4673,condensareimmergas.ro,
+RO,4,5600,briant.ro,
+RO,5,6012,rol.ro,error
+RO,6,6295,uv.ro,
+RO,7,9096,adevarul.ro,news and politics
+RO,8,12251,instalatiigplprahova.ro,
+RO,9,12356,devaforum.ro,
+RO,10,12898,alpotim.ro,
+RO,12,13657,studiotvhd.ro,
+RO,13,13969,xhost.ro,
+RO,14,14106,ubbcluj.ro,
+RO,15,14738,ase.ro,
+RO,16,15369,hemoroiziforum.ro,
+RO,17,15784,emeserias.ro,
+RO,18,16244,calicris.ro,
+RO,19,16538,mae.ro,news and politics
+RO,20,16552,materialeamenajari.ro,
+RO,21,17661,primariaprajeni.ro,
+RO,22,18948,botosani.ro,
+RO,23,19066,researchromania.ro,
+RO,24,19165,tradition.ro,
+RO,25,19980,cdbons.ro,
+RO,26,20798,hotnews.ro,news and politics
+RO,27,21303,uaic.ro,religion
+RO,28,21565,unibuc.ro,entertainment
+RO,29,21997,creatica.ro,
+RO,30,22243,3x.ro,
+RO,31,22290,go.ro,
+RO,32,22736,mediafax.ro,news and politics
+RO,33,23213,heavenue.ro,
+RO,34,23576,infiintari-firme-bucuresti-ilfov.ro,
+RO,35,24373,anpc.gov.ro,
+RO,36,25237,pub.ro,
+RO,37,25468,eurocare.ro,
+RO,38,26415,getavoinea.ro,
+RO,39,26441,agerpres.ro,news and politics
+RO,40,27433,evz.ro,news and politics
+RO,41,28220,noricanicolai.ro,
+RO,42,29013,desibiu.ro,
+RO,43,29462,los.ro,
+RO,44,29525,stirileprotv.ro,news and politics
+RO,45,29974,jurnalul.ro,news and politics
+RO,46,30326,licee.edu.ro,
+RO,47,30417,trafic.ro,news and politics
+RO,48,32178,forum-contabilitate.ro,
+RO,49,32536,tattoofestiasi.ro,
+RO,50,32845,merada.ro,
+RO,51,33070,digi24.ro,news and politics
+RO,52,33403,computergames.ro,news and politics
+RO,53,34164,leghia.ro,
+RO,54,34290,portal.edu.ro,
+RO,55,34344,hospbv.ro,
+RO,56,34721,jurnal-integrativa.ro,
+RO,57,34824,trilulilu.ro,news and politics
+RO,58,34991,libertatea.ro,news and politics
+RO,59,36773,psihoterapeutarhip.ro,
+RO,60,36803,magazinparchet.ro,
+RO,61,37148,carteacusecrete.ro,
+RO,62,37766,antena3.ro,news and politics
+RO,63,38299,zf.ro,news and politics
+RO,64,38472,softwareliber.ro,
+RO,65,38535,cutiipostalebloc.ro,
+RO,66,38555,cinemagia.ro,entertainment
+RO,67,39158,licinium.ro,
+RO,68,39486,e-cs.ro,
+RO,69,39534,davidcenter.ro,
+RO,70,39654,birca.ro,
+RO,71,39677,home.ro,
+RO,72,40037,pardoseli-interior.ro,
+RO,73,40610,projectevents.ro,
+RO,74,40899,digitalnature.ro,
+RO,75,41171,usv.ro,entertainment
+RO,76,41384,romanialibera.ro,news and politics
+RO,77,42004,cdep.ro,news and politics
+RO,78,43400,gvmtelecom.ro,
+RO,79,43562,tvr.ro,software
+RO,80,44225,gsp.ro,news and politics
+RO,81,44857,hunguest-fenyo.ro,
+RO,82,45124,autor.ro,
+RO,83,45442,meteoromania.ro,news and politics
+RO,84,45518,emag.ro,commerce
+RO,85,47524,zona.ro,
+RO,86,47687,transindex.ro,
+RO,87,47911,evojet.ro,
+RO,88,48165,ulbsibiu.ro,
+RO,89,48912,studentpress.ro,
+RO,90,49660,arnikabolt.ro,
+RO,91,50200,geoagiu.ro,
+RO,92,50558,fundatiafer.ro,
+RO,93,50717,eyecon.ro,software
+RO,94,50774,cimec.ro,scholarship
+RO,95,50992,taxicopii.ro,
+RO,96,51798,220.ro,entertainment
+RO,97,51926,forum-anvelope.ro,
+RO,98,52307,tarom.ro,commerce
+RO,99,52371,hamob.ro,
+RO,100,52834,axia.ro,
+RO,101,53177,rugby.ro,entertainment
+RO,102,53500,scuteristi.ro,
+RO,103,53754,pmb.ro,scholarship
+RO,104,53816,navlomar.ro,
+RO,105,53818,organizareevenimente.ro,
+RO,106,54688,tipografiasa.ro,
+RO,107,55372,cfgloriabistrita.ro,
+RO,108,55868,nextcomsolutions.ro,
+RO,109,55904,medstaff.ro,
+RO,110,56191,ventezimo-led.ro,
+RO,111,56300,projectexpo.ro,
+RO,112,57091,avengers.ro,
+RO,113,57105,tuiasi.ro,
+RO,114,57179,xn--urc-cpa01l.ro,
+RO,115,57264,hostio.ro,
+RO,116,58775,scoaladesoferidicu.ro,
+RO,117,59790,cotidianul.ro,news and politics
+RO,118,59910,trei.ro,
+RO,119,60522,woodworking.ro,
+RO,120,60671,capital.ro,news and politics
+RO,121,60804,budsflowers.ro,
+RO,122,61033,utcluj.ro,
+RO,123,61159,yani-travel.ro,
+RO,124,61503,puricele.ro,
+RO,125,62783,inoe.ro,
+RO,126,62875,nord-vest.ro,news and politics
+RO,127,63044,sport.ro,entertainment
+RO,128,63485,cozmaconstruct.ro,
+RO,129,64240,prosport.ro,news and politics
+RO,130,64374,casajurnalistului.ro,
+RO,131,64520,metropolitan-consulting.ro,
+RO,132,64836,fishdelta.ro,
+RO,133,64968,wall-street.ro,news and politics
+RO,134,65786,vindecarealternativa.ro,
+RO,135,66165,planurideviitor.ro,
+RO,136,66456,cinemageosaizescu.ro,
+RO,137,66785,habitatcomanesti.ro,
+RO,138,66825,www.edu.ro,
+RO,139,66828,avpsecurity.ro,
+RO,140,67374,socialact.ro,
+RO,141,68304,mvtlog.ro,
+RO,142,68887,f64.ro,
+RO,143,69052,sejurischia.ro,
+RO,144,69215,2mdistribution.ro,
+RO,145,69561,greaterpg.ro,
+RO,146,70043,divertiland.ro,
+RO,147,70214,vforvintage.ro,
+RO,148,70316,a1.ro,entertainment
+RO,149,70977,metin2primal.ro,
+RO,150,71001,duricu.ro,
+RO,151,71149,tw-recycling.ro,
+RO,152,71239,urbo.ro,
+RO,153,71770,tenisaxyall.ro,
+RO,154,72415,fonduri-ue.ro,
+RO,155,72442,clinicdent.ro,
+RO,156,72695,montanamotilor.ro,
+RO,157,72708,alba24.ro,
+RO,158,72759,margineanusiasociatii.ro,
+RO,159,73114,distribuimpliante.ro,
+RO,160,73165,4tuning.ro,
+RO,161,73741,metin2sweex.ro,
+RO,162,74398,atelier-floral.ro,
+RO,163,74436,uvt.ro,
+RO,164,75800,fia-new-fashion.ro,
+RO,165,76776,instantnapkin.ro,
+RO,166,76805,vigilance.ro,
+RO,167,77212,sanitareonline.ro,
+RO,168,77216,eul.ro,
+RO,169,77959,procrap.ro,
+RO,170,78672,sygal.ro,
+RO,171,79110,protv.ro,news and politics
+RO,172,79604,tumaini.ro,
+RO,173,79813,just.ro,
+RO,174,80146,ronat-media.ro,
+RO,175,80984,acumcom.ro,
+RO,176,81375,lesarts.ro,
+RO,177,82102,tanad.ro,
+RO,178,82228,click.ro,news and politics
+RO,179,82264,macp.ro,
+RO,180,82505,ceaietc.ro,
+RO,181,82733,patricks.ro,
+RO,182,82908,astral.ro,
+RO,183,82933,olx.ro,commerce
+RO,184,82980,maxplay.ro,
+RO,185,83210,ucoz.ro,
+RO,186,83376,bzi.ro,news and politics
+RO,187,83402,anghelcatalin.ro,
+RO,188,83533,reparatii-fisuri-parbrize.ro,
+RO,189,83594,notariat-public-bucuresti.ro,
+RO,190,84407,pro-training.ro,
+RO,191,84409,pizzahavana.ro,
+RO,192,84484,locurile-sfinte.ro,
+RO,193,86324,vanzarici.ro,
+RO,194,86394,albastru-amenajari.ro,
+RO,195,86434,monplatin.ro,
+RO,196,87206,myforum.ro,
+RO,197,87616,prcafe.ro,
+RO,198,87709,mirelagheorghe.ro,
+RO,199,87807,rri.ro,entertainment
+RO,200,87981,sibiu.ro,
+RO,201,88518,mihor.ro,
+SE,1,696,haxx.se,commerce
+SE,2,1470,blogspot.se,entertainment
+SE,3,2119,uu.se,scholarship
+SE,4,2145,andersnoren.se,
+SE,5,2222,liu.se,
+SE,6,2271,google.se,entertainment
+SE,7,2342,kth.se,commerce
+SE,8,2598,lu.se,scholarship
+SE,9,2636,blogg.se,entertainment
+SE,10,2824,aftonbladet.se,news and politics
+SE,11,2976,thelocal.se,news and politics
+SE,12,3062,gu.se,
+SE,13,3139,umu.se,
+SE,14,3211,svt.se,news and politics
+SE,15,3612,chalmers.se,
+SE,16,3685,sverigesradio.se,news and politics
+SE,17,3795,su.se,
+SE,18,4240,expressen.se,news and politics
+SE,19,4385,passagen.se,
+SE,20,4550,dn.se,news and politics
+SE,21,5046,ki.se,
+SE,22,5467,svd.se,news and politics
+SE,23,5594,swipnet.se,
+SE,24,7277,thepiratebay.se,software
+SE,25,7927,loopia.se,commerce
+SE,26,8044,bloggplatsen.se,
+SE,27,8857,lth.se,
+SE,28,9238,cdburnerxp.se,
+SE,29,9298,xn--modepntet-02aj.se,
+SE,30,9802,algonet.se,
+SE,31,10755,stockholm.se,entertainment
+SE,32,10822,sydsvenskan.se,news and politics
+SE,33,11835,regeringen.se,news and politics
+SE,34,11869,gp.se,news and politics
+SE,35,12091,sweden.se,news and politics
+SE,36,12314,idg.se,commerce
+SE,37,12388,svtplay.se,entertainment
+SE,38,12444,kb.se,
+SE,39,13162,nobel.se,
+SE,40,13437,di.se,news and politics
+SE,41,13592,sr.se,news and politics
+SE,42,13615,slu.se,
+SE,43,13702,ltu.se,
+SE,44,14008,pusha.se,news and politics
+SE,45,14189,vulkanutbrott.se,
+SE,46,14894,hollister-abercrombie.com.se,
+SE,47,14947,nike-air-max.com.se,
+SE,48,15015,antondanielsson.se,
+SE,49,15068,binero.se,
+SE,50,15148,government.se,
+SE,51,15984,nike-skor.com.se,
+SE,52,16249,spray.se,
+SE,53,16393,eniro.se,scholarship
+SE,54,16795,tv4.se,
+SE,55,17396,propellerheads.se,
+SE,56,17652,blocket.se,commerce
+SE,57,18003,webhop.se,
+SE,58,18049,riksdagen.se,
+SE,59,18905,michaelkorsoutlet.se,
+SE,60,19947,adidasshoes.com.se,
+SE,61,20093,swedenabroad.se,
+SE,62,20390,airmax.com.se,
+SE,63,20402,nike-shoes.com.se,
+SE,64,20410,hollister.com.se,
+SE,65,21194,alxmedia.se,software
+SE,66,21387,arcsin.se,commerce
+SE,67,21630,brackediakoni.se,
+SE,68,21658,scb.se,entertainment
+SE,69,21923,teamtfem.se,
+SE,70,22222,bloggagratis.se,
+SE,71,22519,skatteverket.se,commerce
+SE,72,23611,svenskakyrkan.se,
+SE,73,23877,metro.se,
+SE,74,24802,smhi.se,commerce
+SE,75,24838,idrottonline.se,
+SE,76,25657,tninet.se,
+SE,77,26657,luth.se,
+SE,78,26907,norrvikenstradgardssallskap.se,
+SE,79,26970,sida.se,scholarship
+SE,80,27101,sunet.se,
+SE,82,27565,sverigesmjolkbonder.se,
+SE,84,27641,mah.se,error
+SE,85,28171,hh.se,scholarship
+SE,86,28258,blinfo.se,
+SE,87,28319,sj.se,commerce
+SE,88,28934,hitta.se,commerce
+SE,89,28997,otrohet.se,
+SE,90,29004,visma.se,
+SE,91,29066,riksbank.se,scholarship
+SE,92,29191,goteborg.se,
+SE,93,29213,webblogg.se,
+SE,94,29289,kungahuset.se,entertainment
+SE,95,29292,filmpaburk.se,
+SE,96,29510,malmo.se,entertainment
+SE,97,29581,comhem.se,
+SE,98,29594,sics.se,commerce
+SE,99,29934,hd.se,
+SE,100,30773,hakim.se,
+SE,101,31147,wwf.se,
+SE,102,31475,tv4play.se,news and politics
+SE,103,31804,nyteknik.se,
+SE,104,32015,polisen.se,
+SE,105,32264,si.se,
+SE,106,32302,vasamuseet.se,
+SE,107,32372,augustjarpemo.se,
+SE,108,32445,nrm.se,
+SE,109,33329,bellinova.se,
+SE,110,33780,lansstyrelsen.se,
+SE,111,34551,cdon.se,commerce
+SE,112,34761,mdh.se,
+SE,113,35559,devote.se,commerce
+SE,114,35608,nyheter24.se,junk
+SE,115,36008,hhs.se,
+SE,116,36046,kva.se,
+SE,117,36179,starkaband.se,
+SE,118,36181,migrationsverket.se,
+SE,119,36185,ironmoot.se,
+SE,120,36458,mildmedia.se,
+SE,121,36460,douki.se,
+SE,122,36518,solskiftet.se,
+SE,123,36562,modernamuseet.se,
+SE,124,36660,boj.se,
+SE,125,36885,pinterest.se,
+SE,126,37089,posh24.se,
+SE,127,38919,portugalforum.se,
+SE,128,39124,bth.se,scholarship
+SE,129,39379,pts.se,
+SE,130,39477,monclerdunjacka.se,
+SE,131,39541,iis.se,
+SE,132,40831,tackfilm.se,
+SE,133,41214,psimotor.se,
+SE,134,41281,adidas.com.se,
+SE,135,41418,sl.se,news and politics
+SE,136,41450,naturvardsverket.se,
+SE,137,41844,finest.se,news and politics
+SE,138,42462,textalk.se,
+SE,139,43752,albashowchorus.se,
+SE,140,43883,telia.se,commerce
+SE,141,44457,sweco.se,
+SE,142,44473,transportstyrelsen.se,
+SE,143,44877,michaelkors.com.se,
+SE,144,44885,arbetsformedlingen.se,
+SE,145,44906,sweden.gov.se,news and politics
+SE,146,46040,montanasweden.se,
+SE,147,46361,lnu.se,
+SE,148,46701,socialstyrelsen.se,junk
+SE,149,47070,unt.se,
+SE,150,47340,postnord.se,
+SE,151,47350,treehotel.se,
+SE,152,47596,kau.se,news and politics
+SE,153,47614,trafikverket.se,
+SE,154,48198,1177.se,scholarship
+SE,155,48782,skansen.se,
+SE,156,48911,bahnhof.se,
+SE,157,50287,canada--goose.se,
+SE,158,51397,konsumentverket.se,
+SE,159,51482,ica.se,entertainment
+SE,160,51581,elmia.se,
+SE,161,52261,oru.se,news and politics
+SE,162,52264,abc.se,
+SE,163,52321,skolverket.se,
+SE,164,52419,dice.se,
+SE,165,53033,webnode.se,
+SE,166,53095,betongteknik.se,
+SE,167,53250,udpf.se,
+SE,168,53589,ticketmaster.se,
+SE,169,54020,alvsjohook.se,
+SE,170,54944,sodermansel.se,
+SE,171,55238,eventlogic.se,
+SE,172,55990,rayart.se,
+SE,173,56547,kyrkenorumskolan.se,
+SE,174,57022,feber.se,commerce
+SE,175,58175,forsvarsmakten.se,
+SE,176,58618,mimmihylen.se,
+SE,177,58974,vk.se,
+SE,178,59654,ramfelttouring.se,
+SE,179,59756,svenskfotboll.se,
+SE,180,60084,posten.se,entertainment
+SE,181,60093,alprince.se,
+SE,182,60424,xn--vrdcentralen-tcb.se,
+SE,183,60874,dt.se,
+SE,184,61242,studyinsweden.se,
+SE,185,61792,hb.se,scholarship
+SE,186,62043,nwt.se,commerce
+SE,187,62091,kdss.se,
+SE,188,62385,mrtn.se,
+SE,189,62690,his.se,
+SE,190,62801,systembolaget.se,porn
+SE,191,62972,nordmarkenskarateklubb.se,
+SE,192,63960,samurajdata.se,
+SE,193,65246,propertify.se,
+SE,194,65541,dinstudio.se,
+SE,195,65578,vansbrosimningen.se,
+SE,196,65719,lindasbc.se,
+SE,197,66256,vlt.se,
+SE,198,67037,gellivareskid.se,
+SE,199,67501,damernasvarld.se,
+SE,200,67556,herrklubben.se,
+SE,201,67575,dreamhack.se,
+SE,202,67598,yogamamas.se,
+UK,1,45,bbc.co.uk,news and politics
+UK,2,89,telegraph.co.uk,news and politics
+UK,3,100,dailymail.co.uk,entertainment
+UK,4,121,talktalk.co.uk,commerce
+UK,5,151,google.co.uk,entertainment
+UK,6,152,independent.co.uk,news and politics
+UK,7,153,www.gov.uk,
+UK,8,160,amazon.co.uk,commerce
+UK,9,170,guardian.co.uk,news and politics
+UK,10,179,news.bbc.co.uk,news and politics
+UK,11,224,blogspot.co.uk,entertainment
+UK,12,299,ox.ac.uk,scholarship
+UK,13,314,cam.ac.uk,news and politics
+UK,14,343,mirror.co.uk,entertainment
+UK,15,434,thesun.co.uk,entertainment
+UK,16,488,theregister.co.uk,commerce
+UK,17,519,thetimes.co.uk,entertainment
+UK,18,537,express.co.uk,entertainment
+UK,19,547,ebay.co.uk,commerce
+UK,20,633,metro.co.uk,entertainment
+UK,21,695,ucl.ac.uk,scholarship
+UK,22,704,timesonline.co.uk,porn
+UK,23,758,ed.ac.uk,entertainment
+UK,24,843,huffingtonpost.co.uk,news and politics
+UK,25,867,www.nhs.uk,
+UK,26,877,demon.co.uk,
+UK,27,956,standard.co.uk,entertainment
+UK,28,972,ibtimes.co.uk,news and politics
+UK,29,1127,wired.co.uk,commerce
+UK,30,1144,tripadvisor.co.uk,entertainment
+UK,31,1166,eventbrite.co.uk,commerce
+UK,32,1303,lse.ac.uk,scholarship
+UK,33,1340,123-reg-new-domain.co.uk,
+UK,34,1345,gla.ac.uk,entertainment
+UK,35,1455,leeds.ac.uk,scholarship
+UK,36,1506,nationalarchives.gov.uk,scholarship
+UK,37,1542,warwick.ac.uk,scholarship
+UK,38,1574,manchester.ac.uk,commerce
+UK,39,1634,tate.org.uk,entertainment
+UK,40,1725,greenend.org.uk,software
+UK,41,1751,legislation.gov.uk,entertainment
+UK,42,1892,www.bl.uk,
+UK,43,1903,ncl.ac.uk,scholarship
+UK,44,1906,tfl.gov.uk,commerce
+UK,45,1982,dailystar.co.uk,entertainment
+UK,46,2011,direct.gov.uk,scholarship
+UK,47,2042,imperial.ac.uk,entertainment
+UK,48,2057,www.parliament.uk,
+UK,49,2146,vam.ac.uk,entertainment
+UK,50,2198,soton.ac.uk,
+UK,51,2207,york.ac.uk,scholarship
+UK,52,2210,nottingham.ac.uk,scholarship
+UK,53,2227,kcl.ac.uk,scholarship
+UK,54,2241,shef.ac.uk,
+UK,55,2281,open.ac.uk,scholarship
+UK,56,2338,belfasttelegraph.co.uk,entertainment
+UK,57,2436,dailyrecord.co.uk,news and politics
+UK,58,2472,ee.co.uk,entertainment
+UK,59,2503,freeserve.co.uk,
+UK,60,2532,manchestereveningnews.co.uk,entertainment
+UK,61,2616,bris.ac.uk,
+UK,62,2620,nhm.ac.uk,entertainment
+UK,63,2637,sheffield.ac.uk,scholarship
+UK,64,2663,le.ac.uk,scholarship
+UK,65,2691,exeter.ac.uk,news and politics
+UK,66,2720,spectator.co.uk,news and politics
+UK,67,2759,vogue.co.uk,commerce
+UK,68,2761,fco.gov.uk,entertainment
+UK,69,2766,nationaltrust.org.uk,entertainment
+UK,70,2785,dur.ac.uk,
+UK,71,2876,surrey.ac.uk,commerce
+UK,72,2897,st-andrews.ac.uk,scholarship
+UK,73,2911,ons.gov.uk,news and politics
+UK,74,2933,blueyonder.co.uk,entertainment
+UK,75,2935,metoffice.gov.uk,news and politics
+UK,76,2949,walesonline.co.uk,news and politics
+UK,77,3031,hse.gov.uk,
+UK,78,3053,ic.ac.uk,
+UK,79,3122,publications.parliament.uk,news and politics
+UK,80,3215,thesundaytimes.co.uk,entertainment
+UK,81,3230,bath.ac.uk,
+UK,82,3281,qmul.ac.uk,
+UK,83,3292,pinterest.co.uk,
+UK,84,3337,lycos.co.uk,
+UK,85,3343,ico.org.uk,software
+UK,86,3387,kent.ac.uk,scholarship
+UK,87,3460,abdn.ac.uk,news and politics
+UK,88,3486,bankofengland.co.uk,entertainment
+UK,89,3493,bham.ac.uk,
+UK,90,3517,hmrc.gov.uk,commerce
+UK,91,3524,thisismoney.co.uk,news and politics
+UK,92,3526,campaignlive.co.uk,commerce
+UK,93,3570,data.gov.uk,
+UK,94,3604,bristol.ac.uk,scholarship
+UK,95,3628,birmingham.ac.uk,scholarship
+UK,96,3630,websitehome.co.uk,
+UK,97,3677,uea.ac.uk,scholarship
+UK,98,3680,liv.ac.uk,porn
+UK,99,3747,which.co.uk,news and politics
+UK,100,3779,techadvisor.co.uk,
+UK,101,3785,homeoffice.gov.uk,entertainment
+UK,102,3832,sussex.ac.uk,religion
+UK,103,3887,southampton.ac.uk,
+UK,104,3926,defra.gov.uk,
+UK,105,3935,bfi.org.uk,entertainment
+UK,106,3960,aol.co.uk,news and politics
+UK,107,3977,sciencemuseum.org.uk,entertainment
+UK,108,4007,liverpoolecho.co.uk,entertainment
+UK,109,4065,thisislondon.co.uk,entertainment
+UK,110,4077,reading.ac.uk,religion
+UK,111,4148,guim.co.uk,error
+UK,112,4180,liverpool.ac.uk,
+UK,113,4191,nice.org.uk,
+UK,114,4271,cardiff.ac.uk,scholarship
+UK,115,4285,english-heritage.org.uk,entertainment
+UK,116,4307,pcadvisor.co.uk,commerce
+UK,117,4339,service.gov.uk,error
+UK,118,4406,cadcamoffices.co.uk,
+UK,119,4434,lancs.ac.uk,news and politics
+UK,120,4549,fca.org.uk,
+UK,121,4586,qub.ac.uk,scholarship
+UK,122,4625,jisc.ac.uk,
+UK,123,4651,lboro.ac.uk,scholarship
+UK,124,4657,lrb.co.uk,entertainment
+UK,125,4680,ofcom.org.uk,
+UK,126,4701,birminghammail.co.uk,commerce
+UK,127,4712,essex.ac.uk,
+UK,128,4718,mrmoseley.co.uk,
+UK,129,4722,oxfam.org.uk,commerce
+UK,130,4725,surveymonkey.co.uk,
+UK,131,4820,dundee.ac.uk,
+UK,132,4830,st-and.ac.uk,
+UK,133,4841,penguin.co.uk,entertainment
+UK,134,4846,strath.ac.uk,software
+UK,135,4874,city.ac.uk,scholarship
+UK,136,4876,digitalspy.co.uk,entertainment
+UK,137,4892,nationalrail.co.uk,commerce
+UK,138,4905,london.gov.uk,entertainment
+UK,139,5025,timeshighereducation.co.uk,scholarship
+UK,140,5048,nationalgallery.org.uk,entertainment
+UK,141,5053,companieshouse.gov.uk,entertainment
+UK,142,5077,man.ac.uk,
+UK,143,5137,www3.imperial.ac.uk,
+UK,144,5182,fsnet.co.uk,
+UK,145,5237,vodafone.co.uk,commerce
+UK,146,5238,argos.co.uk,commerce
+UK,147,5264,iwm.org.uk,
+UK,148,5318,lancaster.ac.uk,scholarship
+UK,149,5323,zdnet.co.uk,commerce
+UK,150,5387,macworld.co.uk,software
+UK,151,5413,autoexpress.co.uk,news and politics
+UK,152,5431,cf.ac.uk,scholarship
+UK,153,5432,tiscali.co.uk,commerce
+UK,154,5476,rhs.org.uk,
+UK,155,5508,citizensadvice.org.uk,
+UK,156,5590,arts.ac.uk,entertainment
+UK,157,5621,sony.co.uk,software
+UK,158,5635,food.gov.uk,
+UK,159,5683,autocar.co.uk,news and politics
+UK,160,5701,espn.co.uk,
+UK,161,5716,rspb.org.uk,news and politics
+UK,162,5730,royal.gov.uk,entertainment
+UK,163,5793,hw.ac.uk,
+UK,164,5838,webeden.co.uk,
+UK,165,5903,gq-magazine.co.uk,entertainment
+UK,166,5915,rakuten.co.uk,
+UK,167,5995,rightmove.co.uk,commerce
+UK,168,6056,chroniclelive.co.uk,news and politics
+UK,169,6066,dft.gov.uk,scholarship
+UK,170,6120,scotland.gov.uk,news and politics
+UK,171,6149,btinternet.co.uk,
+UK,172,6160,majestic12.co.uk,
+UK,173,6183,kiehlmann.co.uk,
+UK,174,6191,dmu.ac.uk,
+UK,175,6192,phrases.org.uk,entertainment
+UK,176,6220,tandf.co.uk,religion
+UK,177,6310,bhf.org.uk,
+UK,178,6322,gridhosted.co.uk,junk
+UK,179,6324,o2.co.uk,commerce
+UK,180,6474,blog.co.uk,entertainment
+UK,181,6496,theweek.co.uk,news and politics
+UK,182,6561,met.police.uk,
+UK,183,6613,brunel.ac.uk,scholarship
+UK,184,6638,macmillan.org.uk,
+UK,185,6784,bbci.co.uk,
+UK,186,6788,ticketmaster.co.uk,commerce
+UK,187,6838,sainsburys.co.uk,commerce
+UK,188,6839,scot.nhs.uk,
+UK,189,6854,aber.ac.uk,
+UK,190,6859,wellcome.ac.uk,
+UK,191,6866,bps.org.uk,
+UK,192,6867,pinknews.co.uk,news and politics
+UK,193,6869,npg.org.uk,entertainment
+UK,194,6899,petition.parliament.uk,
+UK,195,6919,education.gov.uk,
+UK,196,6926,banksy.co.uk,
+UK,197,7064,uwe.ac.uk,
+UK,198,7084,barclays.co.uk,commerce
+UK,199,7099,mtv.co.uk,entertainment
+UK,200,7141,rmg.co.uk,news and politics
+US,1,226,icio.us,news and politics
+US,2,233,del.icio.us,news and politics
+US,3,263,imageshack.us,entertainment
+US,11,1263,nasm.us,
+US,14,1515,onlinehome.us,
+US,23,2416,govtrack.us,news and politics
+US,24,2643,state.co.us,news and politics
+US,30,3403,zoom.us,commerce
+US,36,4026,essaywriters.us,
+US,40,4576,img28.imageshack.us,
+US,43,4953,raceiq.us,
+US,45,5066,cutt.us,news and politics
+US,47,5533,mastercard.us,
+US,49,5724,metro.us,news and politics
+US,52,6356,statecarinsurance.us,
+US,59,7843,papereditor.us,
+US,60,8112,jotform.us,
+US,62,8703,nautil.us,scholarship
+US,66,10227,yeezy-shoes.us,
+US,69,11359,christianlouboutinoutlet.us,
+US,70,11524,nikepolo.us,
+US,71,11550,phpnet.us,commerce
+US,72,11689,writingbee.us,
+US,73,11732,geni.us,
+US,75,12066,z-url.us,
+US,76,12077,masterpapers.us,
+US,77,12424,ofa.us,
+US,78,12488,cialisoonline.us,
+US,79,12506,adidasnmd-shoes.us,
+US,80,12609,birkenstocks.us,
+US,81,12731,2017nikeairmax.us,
+US,82,13339,fredperrypoloshirts.us,
+US,83,13507,hermes-handbags.us,
+US,84,13631,ultraboost.us,
+US,85,13733,atlantafalconsjerseys.us,
+US,86,13899,awardspace.us,
+US,87,14537,toryburchshoes.us,
+US,88,14660,hnn.us,news and politics
+US,89,14816,moviepilot.us,
+US,90,15190,ihmc.us,
+US,91,15206,ferragamobelt.us,
+US,92,15314,viagra-generics.us,
+US,93,15371,timberland-outlets.us,
+US,94,15611,kobeshoes.us,
+US,95,15915,pradaoutlet.us,
+US,96,16085,catboots.us,
+US,97,16295,cheap-baseballbats.us,
+US,98,16388,cheapmlbjerseys.us,
+US,99,16922,viagraonlineviagra.us,
+US,100,17418,aculo.us,error
+US,101,17638,nikefree5.us,
+US,102,17956,christian--louboutin.us,
+US,103,18143,canadagoosejackets-outlet.us,
+US,104,18169,nike-airmax2015.us,
+US,105,18196,mcdeals.us,
+US,106,18213,google.us,entertainment
+US,107,18293,paper-help.us,
+US,108,19057,fitflopssale.us,
+US,109,19131,instylers.us,
+US,110,19140,bubbl.us,
+US,111,19221,uggs-boots.us,
+US,112,19248,canadagooseoutlet-jackets.us,
+US,113,19269,rare.us,news and politics
+US,114,19406,canadagooseoutletjackets.us,
+US,115,19460,canadagooseoutletonlines.us,
+US,116,19811,jcweb.us,
+US,117,19845,nikerosheone.us,
+US,118,19858,rario.us,
+US,119,19933,airjordan-14.us,
+US,120,19945,truereligion-jeans.us,
+US,121,20108,jordanretro.us,
+US,122,20367,amung.us,software
+US,123,20610,disq.us,news and politics
+US,124,20815,pradashoesofficial.us,
+US,125,20833,supremeclothing.us,
+US,126,20995,soccer-shoes.us,
+US,127,21034,cartierbracelet.us,
+US,128,21050,bapehoodie.us,
+US,129,21261,jakshgy773733.us,
+US,130,21313,espnfc.us,entertainment
+US,131,21557,xiumi.us,
+US,132,21701,whos.amung.us,porn
+US,133,22058,min.us,software
+US,134,22446,orangeschool.us,
+US,135,23163,dunamis.us,
+US,136,23444,adidasyeezys.us,
+US,137,23496,christianlouboutinoff.us,
+US,138,23607,mybbs.us,
+US,139,23745,baofengradio.us,
+US,140,23911,movingimage.us,
+US,141,24308,manoloblahnik.us,
+US,142,24368,openingceremony.us,entertainment
+US,143,24390,centrium.us,
+US,144,24440,zoost.us,
+US,145,24499,writemyessayforme.us,
+US,146,24846,bottega-venetaoutlet.us,
+US,147,24991,herveleger.us,
+US,148,25025,airmax-97.us,
+US,149,25358,baseball-bats.us,
+US,150,25425,adidascampusshoes.us,
+US,151,25426,nikezoom.us,
+US,152,25460,untitled-gaming.us,
+US,153,26054,fc2blog.us,software
+US,154,26068,rosheruns.us,
+US,155,26097,uggbootsclearance.us,
+US,156,26247,nikerosherun.us,
+US,157,26316,rosherun-shoes.us,
+US,159,26791,sualize.us,porn
+US,160,26846,camillacastro.us,
+US,161,26878,ninjaessays.us,
+US,162,27048,arlingtonva.us,
+US,163,27111,christianlouboutinoutletstores.us,
+US,164,27217,trustnlinepharmacy.us,
+US,165,27765,mlbjerseyscheap.us,
+US,166,27831,jonite.us,
+US,167,27856,pradaoutletstore.us,
+US,168,27971,calvinklein.us,
+US,169,28102,christian-louboutinshoes.us,
+US,170,28223,fitflops-saleclearance.us,
+US,171,28267,schoolfusion.us,commerce
+US,172,28476,michaelkorsoutlet-clearance.us,
+US,173,28535,countrystudies.us,scholarship
+US,174,28738,0fees.us,
+US,175,28853,airjordan4.us,
+US,176,29276,x9b.us,
+US,177,29422,lacostepoloshirts.us,
+US,178,29714,patentstorm.us,junk
+US,179,29894,legrand.us,
+US,180,30087,aldi.us,commerce
+US,181,30530,scentsy.us,entertainment
+US,182,30768,canadagooseoutletstores.us,
+US,183,30782,ugg-outlets.us,
+US,184,30876,truereligionoutletjeans.us,
+US,185,30987,xrl.us,
+US,186,31001,canadagooseoutlets.us,
+US,187,31013,monclerjacketsale.us,
+US,188,31296,uggoutlet-store.us,
+US,189,31359,uggbootsonline.us,
+US,190,31438,uggoutletonlines.us,
+US,191,31857,cbre.us,
+US,192,31859,somaliland.us,
+US,193,31875,tuugo.us,
+US,194,31973,dove.us,
+US,195,32104,katespadeoutletstore.us,
+US,196,32313,viagraviagra.us,
+US,197,32403,z-b.us,
+US,198,32500,jandm.us,
+US,199,32565,ac4m.us,
+US,200,33007,nikeblazers.us,
+US,201,33203,denofgeek.us,entertainment
+US,202,33249,faytech.us,
+US,203,33291,nikeoutletstore.us,
+US,204,33477,patriotbook.us,
+US,205,33896,sitew.us,
+US,206,33952,outletcanadagoose.us,
+US,207,34152,showmethesite.us,
+US,208,34233,dronegp.us,
+US,209,34642,longchamphandbags.us,
+US,210,34774,kevindurantshoes.us,
+US,211,34849,band.us,
+US,212,35079,celine-outlet.us,
+US,213,35212,lebronsoldier10.us,
+US,214,35294,adfoc.us,entertainment
+US,215,35365,discountfloors.us,
+US,216,35454,shell.us,
+US,217,35884,rolex--replica.us,
+US,218,35928,katespadeshandbags.us,
+US,219,36337,mizunorunningshoes.us,
+US,220,36702,dynddns.us,
+US,221,36724,sangov.us,
+US,222,36725,mk-outletonline.us,
+US,223,36917,haengematte.us,
+US,224,37242,wtsusa.us,
+US,225,37283,outletlongchamp.us,
+US,226,37306,familywatchdog.us,
+US,227,37319,casashanti.us,
+US,228,37404,videolinkz.us,porn
+US,229,37886,kyschools.us,
+US,230,38420,eccoshoesoutlet.us,
+US,231,38740,cialis24h.us,
+US,232,39045,schneider-electric.us,
+US,234,39611,holyresurrection.us,
+US,235,39650,viagraforsaleviagra.us,
+US,236,39872,k5n.us,
+US,237,39984,michaelkorsoutlet.us,
+US,238,40085,beatsbydrdresolo.us,
+US,239,40325,patriotpost.us,news and politics
+US,240,40580,timberlandbootsoutlet.us,
+US,241,40912,sungodpalace.us,
+US,242,41666,celineoutlet.us,
+US,243,41885,g-s.us,
+US,244,42112,gigabyte.us,
+US,245,42331,longchamp-handbags.us,
+US,246,42350,popurry.us,
+US,247,42539,christian-louboutinoutlet.us,
+US,248,42682,forumz.us,
+US,249,42895,vietnamveterans.us,
+US,250,43180,cialisonl1ne.us,
+US,251,43245,weaselzippers.us,news and politics
+US,253,43469,campl.us,porn

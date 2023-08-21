@@ -1,0 +1,38 @@
+beautifulsoup4
+dill
+IPython
+mini-amf
+mmh3
+multiprocess
+plyvel
+psutil
+publicsuffix
+pyasn1
+PyOPenSSL
+pytest
+python-dateutil
+pyvirtualdisplay
+setuptools
+six
+tabulate
+tblib
+tld
+pillow
+lxml
+cssselect
+
+# Python 3 is not fully supported prior to Selenium 3.x.
+# Geckodriver requires Selenium 3.4+, see:
+# https://github.com/mozilla/geckodriver#selenium
+# Selenium prior to 3.7 required to work with gecko 0.15/FF 52
+selenium>=3.4.0,<3.7.0
+
+# HADI ADDITIONS
+# jupyter
+# scipy
+# matplotlib
+pandas  # 0.20.3
+xlrd
+tldextract
+pygeoip
+colorama

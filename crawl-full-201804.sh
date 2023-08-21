@@ -1,0 +1,1 @@
+docker run --privileged -v $PWD:/home/user openwpm python /home/user/crawl_script.py --output-dir ./out --vantages US,JP,DE,FR,IT,ES,CA,AU,NL,PL,RO,BE,CH,SE,GR,PT,CZ,HU,AT,UK --crawl-list ./indata/scanlist_20180421.csv --limit-per-tld 100 --banner-list ./indata/bannerlist_201709.txt --vpn-hma-user ./indata/hma.cred --set-workdir --num-browsers 12
